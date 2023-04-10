@@ -1,0 +1,6493 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d1" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d0" for="node" attr.name="bipartite" attr.type="long"/>
+<graph edgedefault="undirected"><node id="NFPPSQDASGDLYTTSSQLTLPATQC(UniMod_4)LAGK">
+  <data key="d0">0</data>
+</node>
+<node id="NFPSPVDAAFR">
+  <data key="d0">0</data>
+</node>
+<node id="KC(UniMod_4)C(UniMod_4)VEC(UniMod_4)PPC(UniMod_4)PAPPVAGPSVFLFPPKPK">
+  <data key="d0">0</data>
+</node>
+<node id="TSTDLQVLAAR">
+  <data key="d0">0</data>
+</node>
+<node id="EIVMTQSPATLSVSPGER">
+  <data key="d0">0</data>
+</node>
+<node id="LKDDEVAQLKK">
+  <data key="d0">0</data>
+</node>
+<node id="FQNALLVR">
+  <data key="d0">0</data>
+</node>
+<node id="AIGAVPLIQGEYMIPC(UniMod_4)EK">
+  <data key="d0">0</data>
+</node>
+<node id="RVDTVDPPYPR">
+  <data key="d0">0</data>
+</node>
+<node id="ILGPLSYSK">
+  <data key="d0">0</data>
+</node>
+<node id="DQPFTILYR">
+  <data key="d0">0</data>
+</node>
+<node id="KLINDYVK">
+  <data key="d0">0</data>
+</node>
+<node id="TYLGNALVC(UniMod_4)TC(UniMod_4)YGGSR">
+  <data key="d0">0</data>
+</node>
+<node id="SIAQYWLGC(UniMod_4)PAPGHL">
+  <data key="d0">0</data>
+</node>
+<node id="SGEATDGARPQALPEPMQESK">
+  <data key="d0">0</data>
+</node>
+<node id="DC(UniMod_4)HLAQVPSHTVVAR">
+  <data key="d0">0</data>
+</node>
+<node id="INENTGSVSVTR">
+  <data key="d0">0</data>
+</node>
+<node id="VEHSDLSFSK">
+  <data key="d0">0</data>
+</node>
+<node id="DASGVTFTWTPSSGK">
+  <data key="d0">0</data>
+</node>
+<node id="HLSLLTTLSNR">
+  <data key="d0">0</data>
+</node>
+<node id="AVVFLEPQWYR">
+  <data key="d0">0</data>
+</node>
+<node id="IEEELGDEAR">
+  <data key="d0">0</data>
+</node>
+<node id="HQPQEFPTYVEPTNDEIC(UniMod_4)EAFRKDPK">
+  <data key="d0">0</data>
+</node>
+<node id="C(UniMod_4)TTPPPSSGPTYQC(UniMod_4)LK">
+  <data key="d0">0</data>
+</node>
+<node id="LATVGELQAAWR">
+  <data key="d0">0</data>
+</node>
+<node id="QAPGQGLEWMGR">
+  <data key="d0">0</data>
+</node>
+<node id="LVYPSC(UniMod_4)EEK">
+  <data key="d0">0</data>
+</node>
+<node id="FSEEAC(UniMod_4)AVLTSPTFEAC(UniMod_4)HR">
+  <data key="d0">0</data>
+</node>
+<node id="VFAVSHGR">
+  <data key="d0">0</data>
+</node>
+<node id="FIYGGC(UniMod_4)GGNR">
+  <data key="d0">0</data>
+</node>
+<node id="GAYPLSIEPIGVR">
+  <data key="d0">0</data>
+</node>
+<node id="NEQEQPLGQWHLS">
+  <data key="d0">0</data>
+</node>
+<node id="DKLAAC(UniMod_4)LEGNC(UniMod_4)AEGLGTNYR">
+  <data key="d0">0</data>
+</node>
+<node id="LEPYADQLR">
+  <data key="d0">0</data>
+</node>
+<node id="LYEQLSGK">
+  <data key="d0">0</data>
+</node>
+<node id="GDKVWVYPPEKK">
+  <data key="d0">0</data>
+</node>
+<node id="RTPITVVK">
+  <data key="d0">0</data>
+</node>
+<node id="EQWPQC(UniMod_4)PTIK">
+  <data key="d0">0</data>
+</node>
+<node id="HPNSPLDEENLTQENQDR">
+  <data key="d0">0</data>
+</node>
+<node id="AIPVTQYLK">
+  <data key="d0">0</data>
+</node>
+<node id="TMQENSTPRED">
+  <data key="d0">0</data>
+</node>
+<node id="SSNTYTLTDVRR">
+  <data key="d0">0</data>
+</node>
+<node id="KPVDEYKDC(UniMod_4)HLAQVPSHTVVAR">
+  <data key="d0">0</data>
+</node>
+<node id="ATTVTGTPC(UniMod_4)QDWAAQEPHR">
+  <data key="d0">0</data>
+</node>
+<node id="SGIPIVTSPYQIHFTK">
+  <data key="d0">0</data>
+</node>
+<node id="C(UniMod_4)RDQLPYIC(UniMod_4)QFGIV">
+  <data key="d0">0</data>
+</node>
+<node id="GYC(UniMod_4)APGMEC(UniMod_4)VK">
+  <data key="d0">0</data>
+</node>
+<node id="AKPALEDLR">
+  <data key="d0">0</data>
+</node>
+<node id="GYPGVQAPEDLEWER">
+  <data key="d0">0</data>
+</node>
+<node id="C(UniMod_4)DSSPDSAEDVRK">
+  <data key="d0">0</data>
+</node>
+<node id="LAVYQAGAR">
+  <data key="d0">0</data>
+</node>
+<node id="C(UniMod_4)VC(UniMod_4)PVSNAMC(UniMod_4)R">
+  <data key="d0">0</data>
+</node>
+<node id="AQTTVTC(UniMod_4)MENGWSPTPR">
+  <data key="d0">0</data>
+</node>
+<node id="KIYPTVNC(UniMod_4)QPLGMISLMK">
+  <data key="d0">0</data>
+</node>
+<node id="AQC(UniMod_4)GGGLLGVR">
+  <data key="d0">0</data>
+</node>
+<node id="C(UniMod_4)STSSLLEAC(UniMod_4)TFR">
+  <data key="d0">0</data>
+</node>
+<node id="ATEHLSTLSEK">
+  <data key="d0">0</data>
+</node>
+<node id="TAKDALSSVQESQVAQQAR">
+  <data key="d0">0</data>
+</node>
+<node id="FTQVTPTSLSAQWTPPNVQLTGYR">
+  <data key="d0">0</data>
+</node>
+<node id="HGNVAEGETKPDPDVTER">
+  <data key="d0">0</data>
+</node>
+<node id="TC(UniMod_4)VADESAENC(UniMod_4)DKSLHTLFGDK">
+  <data key="d0">0</data>
+</node>
+<node id="SSGQWQTPGATR">
+  <data key="d0">0</data>
+</node>
+<node id="SIDVAC(UniMod_4)HPGYALPK">
+  <data key="d0">0</data>
+</node>
+<node id="WEAEPVYVQR">
+  <data key="d0">0</data>
+</node>
+<node id="SC(UniMod_4)DTPPPC(UniMod_4)PR">
+  <data key="d0">0</data>
+</node>
+<node id="LLC(UniMod_4)GLLAER">
+  <data key="d0">0</data>
+</node>
+<node id="TTPPVLDSDGSFFLYSK">
+  <data key="d0">0</data>
+</node>
+<node id="KREEAPSLRPAPPPISGGGYR">
+  <data key="d0">0</data>
+</node>
+<node id="MNFRPGVLSSR">
+  <data key="d0">0</data>
+</node>
+<node id="DQTVSDNELQEMSNQGSK">
+  <data key="d0">0</data>
+</node>
+<node id="KAEEEHLGILGPQLHADVGDKVK">
+  <data key="d0">0</data>
+</node>
+<node id="MDYPKQTQVSVLPEGGETPLFK">
+  <data key="d0">0</data>
+</node>
+<node id="ASEGGFTATGQR">
+  <data key="d0">0</data>
+</node>
+<node id="LGADM(UniMod_35)EDVC(UniMod_4)GR">
+  <data key="d0">0</data>
+</node>
+<node id="YPSLSIHGIEGAFDEPGTK">
+  <data key="d0">0</data>
+</node>
+<node id="RLGMFNIQHC(UniMod_4)K">
+  <data key="d0">0</data>
+</node>
+<node id="NIGEFC(UniMod_4)GK">
+  <data key="d0">0</data>
+</node>
+<node id="VTGVVLFR">
+  <data key="d0">0</data>
+</node>
+<node id="WSGQTAIC(UniMod_4)DNGAGYC(UniMod_4)SNPGIPIGTR">
+  <data key="d0">0</data>
+</node>
+<node id="YYC(UniMod_4)FQGNQFLR">
+  <data key="d0">0</data>
+</node>
+<node id="LAARLEALKENGGAR">
+  <data key="d0">0</data>
+</node>
+<node id="DMPASEDLQDLQK">
+  <data key="d0">0</data>
+</node>
+<node id="STSSFPC(UniMod_4)PAGHFNGFR">
+  <data key="d0">0</data>
+</node>
+<node id="SLGEC(UniMod_4)C(UniMod_4)DVEDSTTC(UniMod_4)FNAK">
+  <data key="d0">0</data>
+</node>
+<node id="KLVPFATELHER">
+  <data key="d0">0</data>
+</node>
+<node id="LEAGDHPVELLAR">
+  <data key="d0">0</data>
+</node>
+<node id="SEGSSVNLSPPLEQC(UniMod_4)VPDRGQQYQGR">
+  <data key="d0">0</data>
+</node>
+<node id="NPDSSTTGPWC(UniMod_4)YTTDPTVR">
+  <data key="d0">0</data>
+</node>
+<node id="HPDEAAFFDTASTGK">
+  <data key="d0">0</data>
+</node>
+<node id="SLAPYAQDTQEK">
+  <data key="d0">0</data>
+</node>
+<node id="GAAPPKQEFLDIEDP">
+  <data key="d0">0</data>
+</node>
+<node id="NLREGTC(UniMod_4)PEAPTDEC(UniMod_4)KPVK">
+  <data key="d0">0</data>
+</node>
+<node id="LIVHNGYC(UniMod_4)DGR">
+  <data key="d0">0</data>
+</node>
+<node id="C(UniMod_4)IIEVLSNALSK">
+  <data key="d0">0</data>
+</node>
+<node id="FEHC(UniMod_4)NFNDVTTR">
+  <data key="d0">0</data>
+</node>
+<node id="MC(UniMod_4)PQLQQYEMHGPEGLR">
+  <data key="d0">0</data>
+</node>
+<node id="FSC(UniMod_4)MC(UniMod_4)PQGYQVVR">
+  <data key="d0">0</data>
+</node>
+<node id="QINDYVEKGTQGK">
+  <data key="d0">0</data>
+</node>
+<node id="GEAAGAVQELAR">
+  <data key="d0">0</data>
+</node>
+<node id="GALQNIIPASTGAAK">
+  <data key="d0">0</data>
+</node>
+<node id="SC(UniMod_4)VGETTESTQC(UniMod_4)EDEELEHLR">
+  <data key="d0">0</data>
+</node>
+<node id="VHVSEEGTEPEAMLQVLGPKPALPAGTEDTAKEDAANRK">
+  <data key="d0">0</data>
+</node>
+<node id="LMVELHNLYR">
+  <data key="d0">0</data>
+</node>
+<node id="VYTVDLGR">
+  <data key="d0">0</data>
+</node>
+<node id="LDEVKEQVAEVR">
+  <data key="d0">0</data>
+</node>
+<node id="YIETDPANR">
+  <data key="d0">0</data>
+</node>
+<node id="SVPMVPPGIK">
+  <data key="d0">0</data>
+</node>
+<node id="NILDRQDPPSVVVTSHQAPGEK">
+  <data key="d0">0</data>
+</node>
+<node id="HQPQEFPTYVEPTNDEIC(UniMod_4)EAFRK">
+  <data key="d0">0</data>
+</node>
+<node id="FDEFFSEGC(UniMod_4)APGSKK">
+  <data key="d0">0</data>
+</node>
+<node id="M(UniMod_35)ELERPGGNEITR">
+  <data key="d0">0</data>
+</node>
+<node id="C(UniMod_4)C(UniMod_4)ESASEDC(UniMod_4)MAKELPEHTVK">
+  <data key="d0">0</data>
+</node>
+<node id="YGLVTYATYPK">
+  <data key="d0">0</data>
+</node>
+<node id="TSAHGNVAEGETKPDPDVTER">
+  <data key="d0">0</data>
+</node>
+<node id="DSGVPDRFSGSGSGTDFTLK">
+  <data key="d0">0</data>
+</node>
+<node id="WQEEMELYR">
+  <data key="d0">0</data>
+</node>
+<node id="LEPGQQEEYYR">
+  <data key="d0">0</data>
+</node>
+<node id="AGALNSNDAFVLK">
+  <data key="d0">0</data>
+</node>
+<node id="ALEYIENLR">
+  <data key="d0">0</data>
+</node>
+<node id="NILTSNNIDVK">
+  <data key="d0">0</data>
+</node>
+<node id="EGDMLTLFDGDGPSAR">
+  <data key="d0">0</data>
+</node>
+<node id="SRGPGAPC(UniMod_4)QDVDEC(UniMod_4)AR">
+  <data key="d0">0</data>
+</node>
+<node id="FTILDSQGK">
+  <data key="d0">0</data>
+</node>
+<node id="VC(UniMod_4)PFAGILENGAVR">
+  <data key="d0">0</data>
+</node>
+<node id="ASYGVKPR">
+  <data key="d0">0</data>
+</node>
+<node id="KAADDTWEPFASGK">
+  <data key="d0">0</data>
+</node>
+<node id="AIGYLNTGYQR">
+  <data key="d0">0</data>
+</node>
+<node id="VAHQLQALR">
+  <data key="d0">0</data>
+</node>
+<node id="VSTLPAITLK">
+  <data key="d0">0</data>
+</node>
+<node id="LHLDYIGPC(UniMod_4)K">
+  <data key="d0">0</data>
+</node>
+<node id="GATLALTQVTPQDER">
+  <data key="d0">0</data>
+</node>
+<node id="GSGGLNLGNFFASR">
+  <data key="d0">0</data>
+</node>
+<node id="C(UniMod_4)FLAFTQTK">
+  <data key="d0">0</data>
+</node>
+<node id="HTSVQTTSSGSGPFTDVR">
+  <data key="d0">0</data>
+</node>
+<node id="LC(UniMod_4)MGSGLNLC(UniMod_4)EPNNKEGYYGYTGAFR">
+  <data key="d0">0</data>
+</node>
+<node id="MMAVAADTLQR">
+  <data key="d0">0</data>
+</node>
+<node id="LLIYGATSR">
+  <data key="d0">0</data>
+</node>
+<node id="SNAQGIDLNR">
+  <data key="d0">0</data>
+</node>
+<node id="NWGLGGHAFC(UniMod_4)R">
+  <data key="d0">0</data>
+</node>
+<node id="DGAGDVAFVK">
+  <data key="d0">0</data>
+</node>
+<node id="TPLGDTTHTC(UniMod_4)PR">
+  <data key="d0">0</data>
+</node>
+<node id="NANTFISPQQR">
+  <data key="d0">0</data>
+</node>
+<node id="MPC(UniMod_4)AELVREPGC(UniMod_4)GC(UniMod_4)C(UniMod_4)SVC(UniMod_4)AR">
+  <data key="d0">0</data>
+</node>
+<node id="KATEDEGSEQKIPEATNR">
+  <data key="d0">0</data>
+</node>
+<node id="GLSAEPGWQAK">
+  <data key="d0">0</data>
+</node>
+<node id="SC(UniMod_4)ESNSPFPVHPGTAEC(UniMod_4)C(UniMod_4)TK">
+  <data key="d0">0</data>
+</node>
+<node id="AGKEPGLQIWR">
+  <data key="d0">0</data>
+</node>
+<node id="DGGFC(UniMod_4)EVC(UniMod_4)K">
+  <data key="d0">0</data>
+</node>
+<node id="LVNEVTEFAK">
+  <data key="d0">0</data>
+</node>
+<node id="C(UniMod_4)VDVDEC(UniMod_4)APPAEPC(UniMod_4)GK">
+  <data key="d0">0</data>
+</node>
+<node id="FVVTDGGITR">
+  <data key="d0">0</data>
+</node>
+<node id="MC(UniMod_4)VDVNEC(UniMod_4)QR">
+  <data key="d0">0</data>
+</node>
+<node id="NLNEKDYELLC(UniMod_4)LDGTR">
+  <data key="d0">0</data>
+</node>
+<node id="GQEDASPDRFSNTDYAVGYMLR">
+  <data key="d0">0</data>
+</node>
+<node id="IAPQLSTEELVSLGEK">
+  <data key="d0">0</data>
+</node>
+<node id="LTASAPGYLAITK">
+  <data key="d0">0</data>
+</node>
+<node id="AVC(UniMod_4)SQEAMTGPC(UniMod_4)R">
+  <data key="d0">0</data>
+</node>
+<node id="LLELTGPK">
+  <data key="d0">0</data>
+</node>
+<node id="VVEESELAR">
+  <data key="d0">0</data>
+</node>
+<node id="EVVSLTEAC(UniMod_4)C(UniMod_4)AEGADPDC(UniMod_4)YDTR">
+  <data key="d0">0</data>
+</node>
+<node id="SGLSTGWTQLSK">
+  <data key="d0">0</data>
+</node>
+<node id="LEEQAQQIR">
+  <data key="d0">0</data>
+</node>
+<node id="KLYDYC(UniMod_4)DVPQC(UniMod_4)AAPSFDC(UniMod_4)GKPQVEPK">
+  <data key="d0">0</data>
+</node>
+<node id="WKNFPSPVDAAFR">
+  <data key="d0">0</data>
+</node>
+<node id="VKDLATVYVDVLK">
+  <data key="d0">0</data>
+</node>
+<node id="EAEEHQETQC(UniMod_4)LR">
+  <data key="d0">0</data>
+</node>
+<node id="HGSPVDIC(UniMod_4)TAKPR">
+  <data key="d0">0</data>
+</node>
+<node id="IPLNDLFR">
+  <data key="d0">0</data>
+</node>
+<node id="EYC(UniMod_4)GVPGDGDEELLR">
+  <data key="d0">0</data>
+</node>
+<node id="FDEFFSEGC(UniMod_4)APGSK">
+  <data key="d0">0</data>
+</node>
+<node id="EDC(UniMod_4)NELPPRR">
+  <data key="d0">0</data>
+</node>
+<node id="VEKPTADAEAYVFTPNMIC(UniMod_4)AGGEK">
+  <data key="d0">0</data>
+</node>
+<node id="RPDSLQHVLLPVLDR">
+  <data key="d0">0</data>
+</node>
+<node id="ISHELDSASSEVN">
+  <data key="d0">0</data>
+</node>
+<node id="VFNTPEGVPSAPSSLK">
+  <data key="d0">0</data>
+</node>
+<node id="ITGYIIK">
+  <data key="d0">0</data>
+</node>
+<node id="KTLLSNLEEAKK">
+  <data key="d0">0</data>
+</node>
+<node id="TPVSDRVTK">
+  <data key="d0">0</data>
+</node>
+<node id="RVWELSK">
+  <data key="d0">0</data>
+</node>
+<node id="FQPTLLTLPR">
+  <data key="d0">0</data>
+</node>
+<node id="KVESELIKPINPR">
+  <data key="d0">0</data>
+</node>
+<node id="DLLLPQPDLR">
+  <data key="d0">0</data>
+</node>
+<node id="TMLLQPAGSLGSYSYR">
+  <data key="d0">0</data>
+</node>
+<node id="ILEVVNQIQDEER">
+  <data key="d0">0</data>
+</node>
+<node id="C(UniMod_4)SYTEDAQC(UniMod_4)IDGTIEVPK">
+  <data key="d0">0</data>
+</node>
+<node id="VGYVSGWGR">
+  <data key="d0">0</data>
+</node>
+<node id="TEHLSTLSEK">
+  <data key="d0">0</data>
+</node>
+<node id="LRTEGDGVYTLNNEKQWINK">
+  <data key="d0">0</data>
+</node>
+<node id="DTDTGALLFIGK">
+  <data key="d0">0</data>
+</node>
+<node id="C(UniMod_4)TSTGWIPAPR">
+  <data key="d0">0</data>
+</node>
+<node id="HSTIFENLANK">
+  <data key="d0">0</data>
+</node>
+<node id="NSWGEEWGMGGYVK">
+  <data key="d0">0</data>
+</node>
+<node id="TVAAPSVFIFPPSDEQLK">
+  <data key="d0">0</data>
+</node>
+<node id="TVAAC(UniMod_4)NLPIVR">
+  <data key="d0">0</data>
+</node>
+<node id="LC(UniMod_4)TVATLR">
+  <data key="d0">0</data>
+</node>
+<node id="DVQLVESGGGLVKPGGSLR">
+  <data key="d0">0</data>
+</node>
+<node id="KYFIDFVAR">
+  <data key="d0">0</data>
+</node>
+<node id="GRTC(UniMod_4)PKPDDLPFSTVVPLK">
+  <data key="d0">0</data>
+</node>
+<node id="SC(UniMod_4)DNPYIPNGDYSPLR">
+  <data key="d0">0</data>
+</node>
+<node id="VRGGEGTGYFVDFSVR">
+  <data key="d0">0</data>
+</node>
+<node id="TALASGGVLDASGDYR">
+  <data key="d0">0</data>
+</node>
+<node id="ETYGEMADC(UniMod_4)C(UniMod_4)AK">
+  <data key="d0">0</data>
+</node>
+<node id="LEGQEEEEDNRDSSMK">
+  <data key="d0">0</data>
+</node>
+<node id="GNPEPTFSWTK">
+  <data key="d0">0</data>
+</node>
+<node id="QDGSVDFGR">
+  <data key="d0">0</data>
+</node>
+<node id="FLATTPNSLLVSWQPPR">
+  <data key="d0">0</data>
+</node>
+<node id="AEFAEVSK">
+  <data key="d0">0</data>
+</node>
+<node id="MTVTDQVNC(UniMod_4)PK">
+  <data key="d0">0</data>
+</node>
+<node id="QHMDSDSSPSSSSTYC(UniMod_4)NQMMR">
+  <data key="d0">0</data>
+</node>
+<node id="GMDSC(UniMod_4)KGDSGGAFAVQDPNDKTK">
+  <data key="d0">0</data>
+</node>
+<node id="AQPVQVAEGSEPDGFWEALGGK">
+  <data key="d0">0</data>
+</node>
+<node id="SDVVYTDWK">
+  <data key="d0">0</data>
+</node>
+<node id="TLYSSSPR">
+  <data key="d0">0</data>
+</node>
+<node id="LAAC(UniMod_4)GPPPVAPPAAVAAVAGGAR">
+  <data key="d0">0</data>
+</node>
+<node id="FYNQVSTPLLR">
+  <data key="d0">0</data>
+</node>
+<node id="C(UniMod_4)YTAVVPLVYGGETK">
+  <data key="d0">0</data>
+</node>
+<node id="NLAVSQVVHK">
+  <data key="d0">0</data>
+</node>
+<node id="QGIPFFGQVR">
+  <data key="d0">0</data>
+</node>
+<node id="SPMYSIITPNILR">
+  <data key="d0">0</data>
+</node>
+<node id="LETPDFQLFK">
+  <data key="d0">0</data>
+</node>
+<node id="QKWEAEPVYVQR">
+  <data key="d0">0</data>
+</node>
+<node id="LLDSLPSDTR">
+  <data key="d0">0</data>
+</node>
+<node id="TKKQELSEAEQATR">
+  <data key="d0">0</data>
+</node>
+<node id="AVGDKLPEC(UniMod_4)EADDGC(UniMod_4)PKPPEIAHGYVEHSVR">
+  <data key="d0">0</data>
+</node>
+<node id="LGVRPSQGGEAPR">
+  <data key="d0">0</data>
+</node>
+<node id="DLLFKDSAHGFLK">
+  <data key="d0">0</data>
+</node>
+<node id="HGGLYHENMR">
+  <data key="d0">0</data>
+</node>
+<node id="LLC(UniMod_4)QC(UniMod_4)LGFGSGHFR">
+  <data key="d0">0</data>
+</node>
+<node id="WSRPQAPITGYR">
+  <data key="d0">0</data>
+</node>
+<node id="MADEAGSEADHEGTHSTKR">
+  <data key="d0">0</data>
+</node>
+<node id="EAEEETTNDNGVLVLEPARK">
+  <data key="d0">0</data>
+</node>
+<node id="ALEQDLPVNIK">
+  <data key="d0">0</data>
+</node>
+<node id="QEPERNEC(UniMod_4)FLQHKDDNPNLPR">
+  <data key="d0">0</data>
+</node>
+<node id="ITSWMEPIVK">
+  <data key="d0">0</data>
+</node>
+<node id="AVSEKEVDSGNDIYGNPIKR">
+  <data key="d0">0</data>
+</node>
+<node id="FSC(UniMod_4)FQEEAPQPHYQLR">
+  <data key="d0">0</data>
+</node>
+<node id="LGQSLDC(UniMod_4)NAEVYVVPWEK">
+  <data key="d0">0</data>
+</node>
+<node id="GIVEEC(UniMod_4)C(UniMod_4)FR">
+  <data key="d0">0</data>
+</node>
+<node id="QTVSWAVTPK">
+  <data key="d0">0</data>
+</node>
+<node id="LLAGDHPIDLLLR">
+  <data key="d0">0</data>
+</node>
+<node id="GAQTQTEEEMTR">
+  <data key="d0">0</data>
+</node>
+<node id="C(UniMod_4)PNPPVQENFDVNK">
+  <data key="d0">0</data>
+</node>
+<node id="ESLSSYWESAK">
+  <data key="d0">0</data>
+</node>
+<node id="EGTC(UniMod_4)PEAPTDEC(UniMod_4)KPVK">
+  <data key="d0">0</data>
+</node>
+<node id="TPLTATLSK">
+  <data key="d0">0</data>
+</node>
+<node id="QHVVYGPWNLPQSSYSHLTR">
+  <data key="d0">0</data>
+</node>
+<node id="GEAGAPGEEDIQGPTK">
+  <data key="d0">0</data>
+</node>
+<node id="NLQPASEYTVSLVAIKGNQESPK">
+  <data key="d0">0</data>
+</node>
+<node id="NGFYPATR">
+  <data key="d0">0</data>
+</node>
+<node id="DLLFRDDTVC(UniMod_4)LAK">
+  <data key="d0">0</data>
+</node>
+<node id="YGLDSDLSC(UniMod_4)K">
+  <data key="d0">0</data>
+</node>
+<node id="TQVNTQAEQLR">
+  <data key="d0">0</data>
+</node>
+<node id="NTFAEVTGLSPGVTYYFK">
+  <data key="d0">0</data>
+</node>
+<node id="SDVMYTDWKK">
+  <data key="d0">0</data>
+</node>
+<node id="GLPAPIEK">
+  <data key="d0">0</data>
+</node>
+<node id="C(UniMod_4)VNHYGGYLC(UniMod_4)LPK">
+  <data key="d0">0</data>
+</node>
+<node id="SEGLLAC(UniMod_4)GTNAR">
+  <data key="d0">0</data>
+</node>
+<node id="QRQEELC(UniMod_4)LAR">
+  <data key="d0">0</data>
+</node>
+<node id="SPVGVQPILNEHTFC(UniMod_4)AGMSK">
+  <data key="d0">0</data>
+</node>
+<node id="LSSWVLLMK">
+  <data key="d0">0</data>
+</node>
+<node id="AKWEMPFDPQDTHQSR">
+  <data key="d0">0</data>
+</node>
+<node id="TKEEYGHSEVVEYYC(UniMod_4)NPR">
+  <data key="d0">0</data>
+</node>
+<node id="LLIYDASK">
+  <data key="d0">0</data>
+</node>
+<node id="AGLQVYNK">
+  <data key="d0">0</data>
+</node>
+<node id="GGTLGTPQTGSENDALYEYLR">
+  <data key="d0">0</data>
+</node>
+<node id="SPELQAEAK">
+  <data key="d0">0</data>
+</node>
+<node id="TYETTLEK">
+  <data key="d0">0</data>
+</node>
+<node id="MYYSAVDPTKDIFTGLIGPM(UniMod_35)K">
+  <data key="d0">0</data>
+</node>
+<node id="NLHGDGIALWYTR">
+  <data key="d0">0</data>
+</node>
+<node id="GEVQAMLGQSTEELRVR">
+  <data key="d0">0</data>
+</node>
+<node id="DPTFIPAPIQAK">
+  <data key="d0">0</data>
+</node>
+<node id="KC(UniMod_4)STSSLLEAC(UniMod_4)TFR">
+  <data key="d0">0</data>
+</node>
+<node id="IPTTFENGR">
+  <data key="d0">0</data>
+</node>
+<node id="VPQVSTPTLVEVSR">
+  <data key="d0">0</data>
+</node>
+<node id="VFSNGADLSGVTEEAPLKLSK">
+  <data key="d0">0</data>
+</node>
+<node id="WLPSSSPVTGYR">
+  <data key="d0">0</data>
+</node>
+<node id="LKC(UniMod_4)DEWSVNSVGKIEC(UniMod_4)VSAETTEDC(UniMod_4)IAK">
+  <data key="d0">0</data>
+</node>
+<node id="VEPLRAELQEGAR">
+  <data key="d0">0</data>
+</node>
+<node id="LLEVPEGR">
+  <data key="d0">0</data>
+</node>
+<node id="DSGFQM(UniMod_35)NQLR">
+  <data key="d0">0</data>
+</node>
+<node id="GGETSEMYLIQPDSSVKPYR">
+  <data key="d0">0</data>
+</node>
+<node id="ANRPFLVFIR">
+  <data key="d0">0</data>
+</node>
+<node id="EQPPSLTR">
+  <data key="d0">0</data>
+</node>
+<node id="AGAAAGGPGVSGVC(UniMod_4)VC(UniMod_4)K">
+  <data key="d0">0</data>
+</node>
+<node id="MDASLGNLFAR">
+  <data key="d0">0</data>
+</node>
+<node id="TFTLLDPK">
+  <data key="d0">0</data>
+</node>
+<node id="QTALVELVK">
+  <data key="d0">0</data>
+</node>
+<node id="LVGGPM(UniMod_35)DASVEEEGVRR">
+  <data key="d0">0</data>
+</node>
+<node id="IALVITDGR">
+  <data key="d0">0</data>
+</node>
+<node id="FMQAVTGWK">
+  <data key="d0">0</data>
+</node>
+<node id="YIFHNFMER">
+  <data key="d0">0</data>
+</node>
+<node id="NFGYTLR">
+  <data key="d0">0</data>
+</node>
+<node id="DSGFQMNQLR">
+  <data key="d0">0</data>
+</node>
+<node id="MGNFPWQVFTNIHGR">
+  <data key="d0">0</data>
+</node>
+<node id="TLLSNLEEAKK">
+  <data key="d0">0</data>
+</node>
+<node id="SLEDLQLTHNKITK">
+  <data key="d0">0</data>
+</node>
+<node id="VNHVTLSQPK">
+  <data key="d0">0</data>
+</node>
+<node id="EVVEEAENGR">
+  <data key="d0">0</data>
+</node>
+<node id="YANC(UniMod_4)HLAR">
+  <data key="d0">0</data>
+</node>
+<node id="VTIKPAPETEKRPQDAK">
+  <data key="d0">0</data>
+</node>
+<node id="LSNENHGIAQR">
+  <data key="d0">0</data>
+</node>
+<node id="EVPLNTIIFMGR">
+  <data key="d0">0</data>
+</node>
+<node id="DQTVSDNELQEM(UniMod_35)SNQGSK">
+  <data key="d0">0</data>
+</node>
+<node id="NSKFEDC(UniMod_4)C(UniMod_4)QEK">
+  <data key="d0">0</data>
+</node>
+<node id="ALQDQLVLVAAK">
+  <data key="d0">0</data>
+</node>
+<node id="TATSEYQTFFNPR">
+  <data key="d0">0</data>
+</node>
+<node id="LLDNWDSVTSTFSK">
+  <data key="d0">0</data>
+</node>
+<node id="DKETC(UniMod_4)FAEEGKK">
+  <data key="d0">0</data>
+</node>
+<node id="VHTEC(UniMod_4)C(UniMod_4)HGDLLEC(UniMod_4)ADDR">
+  <data key="d0">0</data>
+</node>
+<node id="TFHEASEDC(UniMod_4)ISR">
+  <data key="d0">0</data>
+</node>
+<node id="TGDEITYQC(UniMod_4)R">
+  <data key="d0">0</data>
+</node>
+<node id="LQDLYSIVR">
+  <data key="d0">0</data>
+</node>
+<node id="DQC(UniMod_4)QVDSQC(UniMod_4)PGQMK">
+  <data key="d0">0</data>
+</node>
+<node id="HTFM(UniMod_35)GVVSLGSPSGEVSHPR">
+  <data key="d0">0</data>
+</node>
+<node id="M(UniMod_35)YLGYEYVTAIR">
+  <data key="d0">0</data>
+</node>
+<node id="LAAAVSNFGYDLYR">
+  <data key="d0">0</data>
+</node>
+<node id="KQTALVELVK">
+  <data key="d0">0</data>
+</node>
+<node id="VMPIC(UniMod_4)LPSKDYAEVGR">
+  <data key="d0">0</data>
+</node>
+<node id="NNEGTYYSPNYNPQSR">
+  <data key="d0">0</data>
+</node>
+<node id="AATGEC(UniMod_4)TATVGKR">
+  <data key="d0">0</data>
+</node>
+<node id="ALANSLAC(UniMod_4)QGK">
+  <data key="d0">0</data>
+</node>
+<node id="SC(UniMod_4)DIPVFMNAR">
+  <data key="d0">0</data>
+</node>
+<node id="TLLSNLEEAK">
+  <data key="d0">0</data>
+</node>
+<node id="NVVYTC(UniMod_4)NEGYSLIGNPVAR">
+  <data key="d0">0</data>
+</node>
+<node id="M(UniMod_35)VQEQC(UniMod_4)C(UniMod_4)HSQLEELHC(UniMod_4)ATGISLANEQDR">
+  <data key="d0">0</data>
+</node>
+<node id="FNALQYLR">
+  <data key="d0">0</data>
+</node>
+<node id="WGYC(UniMod_4)LEPK">
+  <data key="d0">0</data>
+</node>
+<node id="VDNALQSGNSQESVTEQDSK">
+  <data key="d0">0</data>
+</node>
+<node id="ALVQQMEQLR">
+  <data key="d0">0</data>
+</node>
+<node id="GMADQDGLKPTIDKPSEDSPPLEMLGPR">
+  <data key="d0">0</data>
+</node>
+<node id="LADGGATNQGRVEIFYR">
+  <data key="d0">0</data>
+</node>
+<node id="VTIPTDLIASSGDIIK">
+  <data key="d0">0</data>
+</node>
+<node id="PALEDLR">
+  <data key="d0">0</data>
+</node>
+<node id="SYTITGLQPGTDYK">
+  <data key="d0">0</data>
+</node>
+<node id="WYEIEKIPTTFENGR">
+  <data key="d0">0</data>
+</node>
+<node id="YLYEIAR">
+  <data key="d0">0</data>
+</node>
+<node id="LSPIYNLVPVK">
+  <data key="d0">0</data>
+</node>
+<node id="AADDTWEPFASGK">
+  <data key="d0">0</data>
+</node>
+<node id="VYAC(UniMod_4)EVTHQGLSSPVTK">
+  <data key="d0">0</data>
+</node>
+<node id="YGFIEGHVVIPR">
+  <data key="d0">0</data>
+</node>
+<node id="IGADFLAR">
+  <data key="d0">0</data>
+</node>
+<node id="GSQTQSHPDLGTEGC(UniMod_4)WDQLSAPR">
+  <data key="d0">0</data>
+</node>
+<node id="YPNC(UniMod_4)AYR">
+  <data key="d0">0</data>
+</node>
+<node id="VTSIQDWVQK">
+  <data key="d0">0</data>
+</node>
+<node id="SLDFTELDVAAEK">
+  <data key="d0">0</data>
+</node>
+<node id="QSTNAYPDLR">
+  <data key="d0">0</data>
+</node>
+<node id="HSIFTPETNPR">
+  <data key="d0">0</data>
+</node>
+<node id="APLIPMEHC(UniMod_4)TTR">
+  <data key="d0">0</data>
+</node>
+<node id="LKEDAVSAAFK">
+  <data key="d0">0</data>
+</node>
+<node id="FSGSLLGGK">
+  <data key="d0">0</data>
+</node>
+<node id="M(UniMod_35)C(UniMod_4)PQLQQYEMHGPEGLR">
+  <data key="d0">0</data>
+</node>
+<node id="IPVIEPSVPELVVKPGATVTLR">
+  <data key="d0">0</data>
+</node>
+<node id="EPGLC(UniMod_4)TWQSLR">
+  <data key="d0">0</data>
+</node>
+<node id="MFTTAPDQVDKEDEDFQESNK">
+  <data key="d0">0</data>
+</node>
+<node id="VKDISEVVTPR">
+  <data key="d0">0</data>
+</node>
+<node id="NSLFEYQK">
+  <data key="d0">0</data>
+</node>
+<node id="QLKEHAVEGDC(UniMod_4)DFQLLKLDGK">
+  <data key="d0">0</data>
+</node>
+<node id="HQTVPQNTGGKNPDPWAK">
+  <data key="d0">0</data>
+</node>
+<node id="MVQEQC(UniMod_4)C(UniMod_4)HSQLEELHC(UniMod_4)ATGISLANEQDR">
+  <data key="d0">0</data>
+</node>
+<node id="SGSDEVQVGQQR">
+  <data key="d0">0</data>
+</node>
+<node id="C(UniMod_4)FSGQC(UniMod_4)ISK">
+  <data key="d0">0</data>
+</node>
+<node id="ADSGEGDFLAEGGGVR">
+  <data key="d0">0</data>
+</node>
+<node id="HYEGSTVPEK">
+  <data key="d0">0</data>
+</node>
+<node id="KDSGFQMNQLR">
+  <data key="d0">0</data>
+</node>
+<node id="LFAC(UniMod_4)SNK">
+  <data key="d0">0</data>
+</node>
+<node id="STGGISVPGPMGPSGPR">
+  <data key="d0">0</data>
+</node>
+<node id="LGADMEDVC(UniMod_4)GR">
+  <data key="d0">0</data>
+</node>
+<node id="EGQEC(UniMod_4)GVYTPNC(UniMod_4)APGLQC(UniMod_4)HPPKDDEAPLR">
+  <data key="d0">0</data>
+</node>
+<node id="SGSAHEYSSSPDDAIFQSLAR">
+  <data key="d0">0</data>
+</node>
+<node id="FLPSYQAVEYMR">
+  <data key="d0">0</data>
+</node>
+<node id="NTEILTGSWSDQTYPEGTQAIYK">
+  <data key="d0">0</data>
+</node>
+<node id="TINPAVDHC(UniMod_4)C(UniMod_4)K">
+  <data key="d0">0</data>
+</node>
+<node id="KLSSWVLLMK">
+  <data key="d0">0</data>
+</node>
+<node id="LRTEGDGVYTLNNEK">
+  <data key="d0">0</data>
+</node>
+<node id="C(UniMod_4)LVEKGDVAFVK">
+  <data key="d0">0</data>
+</node>
+<node id="ELLESYIDGR">
+  <data key="d0">0</data>
+</node>
+<node id="DDKETC(UniMod_4)FAEEGKK">
+  <data key="d0">0</data>
+</node>
+<node id="LHDRNTYEKYLGEEYVK">
+  <data key="d0">0</data>
+</node>
+<node id="AKAYLEEEC(UniMod_4)PATLRK">
+  <data key="d0">0</data>
+</node>
+<node id="ELDLNSVLLK">
+  <data key="d0">0</data>
+</node>
+<node id="GSFAC(UniMod_4)QC(UniMod_4)PPGYQK">
+  <data key="d0">0</data>
+</node>
+<node id="KQINDYVEKGTQGK">
+  <data key="d0">0</data>
+</node>
+<node id="AAFGQGSGPIMLDEVQC(UniMod_4)TGTEASLADC(UniMod_4)K">
+  <data key="d0">0</data>
+</node>
+<node id="QQTEWQSGQR">
+  <data key="d0">0</data>
+</node>
+<node id="C(UniMod_4)REILSVDC(UniMod_4)STNNPSQAK">
+  <data key="d0">0</data>
+</node>
+<node id="ADDLGKGGNEESTKTGNAGSR">
+  <data key="d0">0</data>
+</node>
+<node id="IIGYVISNQQITPGPAYSNR">
+  <data key="d0">0</data>
+</node>
+<node id="ELSSFIDKGQELC(UniMod_4)ADYSENTFTEYKK">
+  <data key="d0">0</data>
+</node>
+<node id="SLAAAAGKQELAK">
+  <data key="d0">0</data>
+</node>
+<node id="VPEARPNSMVVEHPEFLK">
+  <data key="d0">0</data>
+</node>
+<node id="DC(UniMod_4)GSVDGVIKEVNVSPC(UniMod_4)PTQPC(UniMod_4)QLSK">
+  <data key="d0">0</data>
+</node>
+<node id="RQEC(UniMod_4)SIPVC(UniMod_4)GQDQVTVAMTPR">
+  <data key="d0">0</data>
+</node>
+<node id="MPYEC(UniMod_4)GPSLDVC(UniMod_4)AQDER">
+  <data key="d0">0</data>
+</node>
+<node id="LVGGPMDASVEEEGVRR">
+  <data key="d0">0</data>
+</node>
+<node id="VHTEC(UniMod_4)C(UniMod_4)HGDLLEC(UniMod_4)ADDRADLAK">
+  <data key="d0">0</data>
+</node>
+<node id="QHM(UniMod_35)DSDSSPSSSSTYC(UniMod_4)NQMMR">
+  <data key="d0">0</data>
+</node>
+<node id="FSVVYAK">
+  <data key="d0">0</data>
+</node>
+<node id="SSQGGSLPSEEK">
+  <data key="d0">0</data>
+</node>
+<node id="DSGEGDFLAEGGGVR">
+  <data key="d0">0</data>
+</node>
+<node id="EVQPVELPNC(UniMod_4)NLVK">
+  <data key="d0">0</data>
+</node>
+<node id="TVFGTEPDMIR">
+  <data key="d0">0</data>
+</node>
+<node id="VDSGNDVTDIADDGC(UniMod_4)PKPPEIAHGYVEHSVR">
+  <data key="d0">0</data>
+</node>
+<node id="ALMSPAGMLR">
+  <data key="d0">0</data>
+</node>
+<node id="VGGVQSLGGTGALR">
+  <data key="d0">0</data>
+</node>
+<node id="GYQLSDVDGVTC(UniMod_4)EDIDEC(UniMod_4)ALPTGGHIC(UniMod_4)SYR">
+  <data key="d0">0</data>
+</node>
+<node id="FTDSENVC(UniMod_4)QER">
+  <data key="d0">0</data>
+</node>
+<node id="GPSVFPLAPSSK">
+  <data key="d0">0</data>
+</node>
+<node id="VNGSPVDNHPFAGDVVFPR">
+  <data key="d0">0</data>
+</node>
+<node id="FLVNLVK">
+  <data key="d0">0</data>
+</node>
+<node id="VPVAVQGEDTVQSLTQGDGVAK">
+  <data key="d0">0</data>
+</node>
+<node id="THLAPYSDELRQR">
+  <data key="d0">0</data>
+</node>
+<node id="AVDTWSWGER">
+  <data key="d0">0</data>
+</node>
+<node id="HPNVFGFC(UniMod_4)R">
+  <data key="d0">0</data>
+</node>
+<node id="SVPPSASHVAPTETFTYEWTVPK">
+  <data key="d0">0</data>
+</node>
+<node id="VLTPTQVK">
+  <data key="d0">0</data>
+</node>
+<node id="M(UniMod_35)ADEAGSEADHEGTHSTKR">
+  <data key="d0">0</data>
+</node>
+<node id="VLNQELR">
+  <data key="d0">0</data>
+</node>
+<node id="SPFEQHIK">
+  <data key="d0">0</data>
+</node>
+<node id="LEGEAC(UniMod_4)GVYTPR">
+  <data key="d0">0</data>
+</node>
+<node id="NSVIKVPMMNSK">
+  <data key="d0">0</data>
+</node>
+<node id="EIQNAVNGVK">
+  <data key="d0">0</data>
+</node>
+<node id="EVGPTNADPVC(UniMod_4)LAK">
+  <data key="d0">0</data>
+</node>
+<node id="VLDLSC(UniMod_4)NR">
+  <data key="d0">0</data>
+</node>
+<node id="QKPDGVFQEDAPVIHQEMIGGLR">
+  <data key="d0">0</data>
+</node>
+<node id="SILENLR">
+  <data key="d0">0</data>
+</node>
+<node id="SYLSMVGSC(UniMod_4)C(UniMod_4)TSASPTVC(UniMod_4)FLKER">
+  <data key="d0">0</data>
+</node>
+<node id="YTTEIIK">
+  <data key="d0">0</data>
+</node>
+<node id="KPVEEYANC(UniMod_4)HLAR">
+  <data key="d0">0</data>
+</node>
+<node id="SVLGQLGITK">
+  <data key="d0">0</data>
+</node>
+<node id="MYLGYEYVTAIR">
+  <data key="d0">0</data>
+</node>
+<node id="VSEADIQR">
+  <data key="d0">0</data>
+</node>
+<node id="YWGVASFLQK">
+  <data key="d0">0</data>
+</node>
+<node id="DTVIKPLLVEPEGLEK">
+  <data key="d0">0</data>
+</node>
+<node id="VEPYGENFNK">
+  <data key="d0">0</data>
+</node>
+<node id="KGGETSEMYLIQPDSSVKPYR">
+  <data key="d0">0</data>
+</node>
+<node id="AKLEEQAQQIR">
+  <data key="d0">0</data>
+</node>
+<node id="YAMVYGYNAAYNR">
+  <data key="d0">0</data>
+</node>
+<node id="VLLDGVQNPR">
+  <data key="d0">0</data>
+</node>
+<node id="LAC(UniMod_4)C(UniMod_4)VVGVC(UniMod_4)GPGLWER">
+  <data key="d0">0</data>
+</node>
+<node id="IKPVFIEDANFGR">
+  <data key="d0">0</data>
+</node>
+<node id="TGYYFDGISR">
+  <data key="d0">0</data>
+</node>
+<node id="LLPAQLPAEKEVGPPLPQEAVPLQK">
+  <data key="d0">0</data>
+</node>
+<node id="IFSFDGKDVLR">
+  <data key="d0">0</data>
+</node>
+<node id="LC(UniMod_4)MAALK">
+  <data key="d0">0</data>
+</node>
+<node id="ATVNPSAPR">
+  <data key="d0">0</data>
+</node>
+<node id="NIINSDGGPYVC(UniMod_4)R">
+  <data key="d0">0</data>
+</node>
+<node id="YGQTIRPIC(UniMod_4)LPC(UniMod_4)TEGTTR">
+  <data key="d0">0</data>
+</node>
+<node id="GEC(UniMod_4)WC(UniMod_4)VNPNTGK">
+  <data key="d0">0</data>
+</node>
+<node id="SGNIPAGTTVDTK">
+  <data key="d0">0</data>
+</node>
+<node id="THLGEALAPLSK">
+  <data key="d0">0</data>
+</node>
+<node id="TFTC(UniMod_4)TAAYPESK">
+  <data key="d0">0</data>
+</node>
+<node id="NTGIIC(UniMod_4)TIGPASR">
+  <data key="d0">0</data>
+</node>
+<node id="SRYPVC(UniMod_4)GSDGTTYPSGC(UniMod_4)QLR">
+  <data key="d0">0</data>
+</node>
+<node id="ASVGQDSPEPR">
+  <data key="d0">0</data>
+</node>
+<node id="FKDLGEENFK">
+  <data key="d0">0</data>
+</node>
+<node id="SNSSM(UniMod_35)HITDC(UniMod_4)R">
+  <data key="d0">0</data>
+</node>
+<node id="DLATVYVDVLK">
+  <data key="d0">0</data>
+</node>
+<node id="SLHTLFGDK">
+  <data key="d0">0</data>
+</node>
+<node id="DC(UniMod_4)SLPYATESK">
+  <data key="d0">0</data>
+</node>
+<node id="GLYDVVSVLR">
+  <data key="d0">0</data>
+</node>
+<node id="KPALEDLR">
+  <data key="d0">0</data>
+</node>
+<node id="NQEQVSPLTLLK">
+  <data key="d0">0</data>
+</node>
+<node id="KLSENTDFLAPGVSSFTDSNQQESITK">
+  <data key="d0">0</data>
+</node>
+<node id="QINDYVEK">
+  <data key="d0">0</data>
+</node>
+<node id="SDVVYTDWKK">
+  <data key="d0">0</data>
+</node>
+<node id="ELQQAVLHMEQR">
+  <data key="d0">0</data>
+</node>
+<node id="NSPLDEENLTQENQDR">
+  <data key="d0">0</data>
+</node>
+<node id="TM(UniMod_35)QENSTPRED">
+  <data key="d0">0</data>
+</node>
+<node id="DWHGVPGQVDAAMAGR">
+  <data key="d0">0</data>
+</node>
+<node id="PPTSAHGNVAEGETKPDPDVTER">
+  <data key="d0">0</data>
+</node>
+<node id="GLGEISAASEFK">
+  <data key="d0">0</data>
+</node>
+<node id="KVTYTSQEDLVEKK">
+  <data key="d0">0</data>
+</node>
+<node id="GSLVAPDR">
+  <data key="d0">0</data>
+</node>
+<node id="DALSSVQESQVAQQAR">
+  <data key="d0">0</data>
+</node>
+<node id="KPQSAVYSTGSNGILLC(UniMod_4)EAEGEPQPTIK">
+  <data key="d0">0</data>
+</node>
+<node id="LSKELQAAQAR">
+  <data key="d0">0</data>
+</node>
+<node id="TPSAAYLWVGTGASEAEK">
+  <data key="d0">0</data>
+</node>
+<node id="TSLEDFYLDEER">
+  <data key="d0">0</data>
+</node>
+<node id="LGPLVEQGRVR">
+  <data key="d0">0</data>
+</node>
+<node id="ISYGNDALMPSLTETK">
+  <data key="d0">0</data>
+</node>
+<node id="HRLEDMEQALSPSVFK">
+  <data key="d0">0</data>
+</node>
+<node id="VGFYESDVMGR">
+  <data key="d0">0</data>
+</node>
+<node id="QVVAGLNFR">
+  <data key="d0">0</data>
+</node>
+<node id="GRPGPQPWC(UniMod_4)ATTPNFDQDQR">
+  <data key="d0">0</data>
+</node>
+<node id="LQPLDFKENAEQSR">
+  <data key="d0">0</data>
+</node>
+<node id="IPIEDGSGEVVLSRK">
+  <data key="d0">0</data>
+</node>
+<node id="VKSPELQAEAK">
+  <data key="d0">0</data>
+</node>
+<node id="EILSVDC(UniMod_4)STNNPSQAK">
+  <data key="d0">0</data>
+</node>
+<node id="EDSLEAGLPLQVR">
+  <data key="d0">0</data>
+</node>
+<node id="C(UniMod_4)C(UniMod_4)TESLVNR">
+  <data key="d0">0</data>
+</node>
+<node id="LKC(UniMod_4)DEWSVNSVGK">
+  <data key="d0">0</data>
+</node>
+<node id="TSESGELHGLTTEEEFVEGIYK">
+  <data key="d0">0</data>
+</node>
+<node id="EPQVYTLPPSRDELTK">
+  <data key="d0">0</data>
+</node>
+<node id="SPVDIC(UniMod_4)TAKPR">
+  <data key="d0">0</data>
+</node>
+<node id="ILLQGTPVAQMTEDAVDAER">
+  <data key="d0">0</data>
+</node>
+<node id="SDDKVTLEER">
+  <data key="d0">0</data>
+</node>
+<node id="KDSGFQM(UniMod_35)NQLR">
+  <data key="d0">0</data>
+</node>
+<node id="VLSIAQAHSPAFSC(UniMod_4)EQVR">
+  <data key="d0">0</data>
+</node>
+<node id="FSPATHPSEGLEENYC(UniMod_4)RNPDNDPQGPWC(UniMod_4)YTTDPEKR">
+  <data key="d0">0</data>
+</node>
+<node id="NPC(UniMod_4)QDPYILTPENR">
+  <data key="d0">0</data>
+</node>
+<node id="HYTNPSQDVTVPC(UniMod_4)PVPPPPPC(UniMod_4)C(UniMod_4)HPR">
+  <data key="d0">0</data>
+</node>
+<node id="GLVSWGNIPC(UniMod_4)GSK">
+  <data key="d0">0</data>
+</node>
+<node id="LGNQEPGGQTALK">
+  <data key="d0">0</data>
+</node>
+<node id="APHGPGLIYR">
+  <data key="d0">0</data>
+</node>
+<node id="FNKPFVFLM(UniMod_35)IEQNTK">
+  <data key="d0">0</data>
+</node>
+<node id="ADLSGITGAR">
+  <data key="d0">0</data>
+</node>
+<node id="ATFGC(UniMod_4)HDGYSLDGPEEIEC(UniMod_4)TK">
+  <data key="d0">0</data>
+</node>
+<node id="LQSIGTENTEENRR">
+  <data key="d0">0</data>
+</node>
+<node id="STNLHDYGMLLPC(UniMod_4)GIDK">
+  <data key="d0">0</data>
+</node>
+<node id="LGC(UniMod_4)SLNQNSVPDIHGVEAPAR">
+  <data key="d0">0</data>
+</node>
+<node id="ISLPESLKR">
+  <data key="d0">0</data>
+</node>
+<node id="KC(UniMod_4)SYTEDAQC(UniMod_4)IDGTIEVPK">
+  <data key="d0">0</data>
+</node>
+<node id="VTLTC(UniMod_4)VAPLSGVDFQLR">
+  <data key="d0">0</data>
+</node>
+<node id="HGPGLIYR">
+  <data key="d0">0</data>
+</node>
+<node id="GSPAINVAVHVFRK">
+  <data key="d0">0</data>
+</node>
+<node id="DEPPQSPWDR">
+  <data key="d0">0</data>
+</node>
+<node id="IASFSQNC(UniMod_4)DIYPGKDFVQPPTK">
+  <data key="d0">0</data>
+</node>
+<node id="VMTPAVYAPYDVK">
+  <data key="d0">0</data>
+</node>
+<node id="AGLAASLAGPHSIVGR">
+  <data key="d0">0</data>
+</node>
+<node id="TDASDVKPC(UniMod_4)">
+  <data key="d0">0</data>
+</node>
+<node id="KQELSEAEQATR">
+  <data key="d0">0</data>
+</node>
+<node id="LDIDSPPITAR">
+  <data key="d0">0</data>
+</node>
+<node id="M(UniMod_35)LTPEHVFIHPGWK">
+  <data key="d0">0</data>
+</node>
+<node id="M(UniMod_35)ASGAANVVGPK">
+  <data key="d0">0</data>
+</node>
+<node id="SLAELGGHLDQQVEEFRR">
+  <data key="d0">0</data>
+</node>
+<node id="LLEELVR">
+  <data key="d0">0</data>
+</node>
+<node id="QYNVGPSVSKYPLR">
+  <data key="d0">0</data>
+</node>
+<node id="TC(UniMod_4)VADESAENC(UniMod_4)DK">
+  <data key="d0">0</data>
+</node>
+<node id="SASLHLPK">
+  <data key="d0">0</data>
+</node>
+<node id="RIPIEDGSGEVVLSRK">
+  <data key="d0">0</data>
+</node>
+<node id="VDGALC(UniMod_4)MEK">
+  <data key="d0">0</data>
+</node>
+<node id="SSGLVSNAPGVQIR">
+  <data key="d0">0</data>
+</node>
+<node id="VAVVQYSGTGQQRPER">
+  <data key="d0">0</data>
+</node>
+<node id="ELDESLQVAER">
+  <data key="d0">0</data>
+</node>
+<node id="RLEAGDHPVELLAR">
+  <data key="d0">0</data>
+</node>
+<node id="IVSSAM(UniMod_35)EPDREYHFGQAVR">
+  <data key="d0">0</data>
+</node>
+<node id="LC(UniMod_4)DNLSTK">
+  <data key="d0">0</data>
+</node>
+<node id="GC(UniMod_4)PTEEGC(UniMod_4)GER">
+  <data key="d0">0</data>
+</node>
+<node id="AAVYHHFISDGVR">
+  <data key="d0">0</data>
+</node>
+<node id="VYC(UniMod_4)DMNTENGGWTVIQNR">
+  <data key="d0">0</data>
+</node>
+<node id="ETLLQDFR">
+  <data key="d0">0</data>
+</node>
+<node id="VAPDEHPILLTEAPLNPK">
+  <data key="d0">0</data>
+</node>
+<node id="ITYGETGGNSPVQEFTVPGSK">
+  <data key="d0">0</data>
+</node>
+<node id="SPAINVAVHVFR">
+  <data key="d0">0</data>
+</node>
+<node id="VVEQMC(UniMod_4)ITQYER">
+  <data key="d0">0</data>
+</node>
+<node id="ATEDEGSEQKIPEATNRR">
+  <data key="d0">0</data>
+</node>
+<node id="EQLTPLIK">
+  <data key="d0">0</data>
+</node>
+<node id="ALTDMPQMR">
+  <data key="d0">0</data>
+</node>
+<node id="TGAQELLR">
+  <data key="d0">0</data>
+</node>
+<node id="GINVALANGK">
+  <data key="d0">0</data>
+</node>
+<node id="KLSSWVLLM(UniMod_35)K">
+  <data key="d0">0</data>
+</node>
+<node id="ILTC(UniMod_4)M(UniMod_35)QGMEEIR">
+  <data key="d0">0</data>
+</node>
+<node id="IDQTVEELRR">
+  <data key="d0">0</data>
+</node>
+<node id="GYHLNEEGTR">
+  <data key="d0">0</data>
+</node>
+<node id="DLEDETLWVEER">
+  <data key="d0">0</data>
+</node>
+<node id="AEAQEAEDQQAR">
+  <data key="d0">0</data>
+</node>
+<node id="KLGQSLDC(UniMod_4)NAEVYVVPWEK">
+  <data key="d0">0</data>
+</node>
+<node id="FTEC(UniMod_4)C(UniMod_4)QAADK">
+  <data key="d0">0</data>
+</node>
+<node id="IYISGMAPR">
+  <data key="d0">0</data>
+</node>
+<node id="AANEVSSADVK">
+  <data key="d0">0</data>
+</node>
+<node id="LSPEDYTLK">
+  <data key="d0">0</data>
+</node>
+<node id="IIGYTPDLDPETVDDAFAR">
+  <data key="d0">0</data>
+</node>
+<node id="RPGGEPSPEGTTGQSYNQYSQR">
+  <data key="d0">0</data>
+</node>
+<node id="VDNALQSGNSQESVTEQDSKDSTYSLSSTLTLSK">
+  <data key="d0">0</data>
+</node>
+<node id="RPC(UniMod_4)FSALEVDETYVPK">
+  <data key="d0">0</data>
+</node>
+<node id="AESPEVC(UniMod_4)FNEESPK">
+  <data key="d0">0</data>
+</node>
+<node id="HGTC(UniMod_4)AAQVDALNSQKK">
+  <data key="d0">0</data>
+</node>
+<node id="ISLPESLK">
+  <data key="d0">0</data>
+</node>
+<node id="GIYGTISR">
+  <data key="d0">0</data>
+</node>
+<node id="SKEFQLFSSPHGK">
+  <data key="d0">0</data>
+</node>
+<node id="DTSC(UniMod_4)VNPPTVQNAYIVSR">
+  <data key="d0">0</data>
+</node>
+<node id="ALYLQYTDETFR">
+  <data key="d0">0</data>
+</node>
+<node id="IYISGMAPRPSLAK">
+  <data key="d0">0</data>
+</node>
+<node id="QIGSVYR">
+  <data key="d0">0</data>
+</node>
+<node id="YFIDFVAR">
+  <data key="d0">0</data>
+</node>
+<node id="TM(UniMod_35)LLQPAGSLGSYSYR">
+  <data key="d0">0</data>
+</node>
+<node id="EALQGVGDMGR">
+  <data key="d0">0</data>
+</node>
+<node id="VLLDQLR">
+  <data key="d0">0</data>
+</node>
+<node id="LRENELTYYC(UniMod_4)C(UniMod_4)K">
+  <data key="d0">0</data>
+</node>
+<node id="C(UniMod_4)LVNLIEK">
+  <data key="d0">0</data>
+</node>
+<node id="SSNLIILEEHLK">
+  <data key="d0">0</data>
+</node>
+<node id="KEC(UniMod_4)C(UniMod_4)EKPLLEK">
+  <data key="d0">0</data>
+</node>
+<node id="LGMDGYR">
+  <data key="d0">0</data>
+</node>
+<node id="SVIPSDGPSVAC(UniMod_4)VK">
+  <data key="d0">0</data>
+</node>
+<node id="ARAEAQEAEDQQAR">
+  <data key="d0">0</data>
+</node>
+<node id="TFYSC(UniMod_4)TTEGR">
+  <data key="d0">0</data>
+</node>
+<node id="YQC(UniMod_4)YC(UniMod_4)YGR">
+  <data key="d0">0</data>
+</node>
+<node id="LDELRDEGK">
+  <data key="d0">0</data>
+</node>
+<node id="NVDGVNYASITR">
+  <data key="d0">0</data>
+</node>
+<node id="SYELTQPPSVSVSPGQTAR">
+  <data key="d0">0</data>
+</node>
+<node id="IWDVVEK">
+  <data key="d0">0</data>
+</node>
+<node id="QLNEINYEDHK">
+  <data key="d0">0</data>
+</node>
+<node id="VLEPTLK">
+  <data key="d0">0</data>
+</node>
+<node id="ELSSFIDKGQELC(UniMod_4)ADYSENTFTEYK">
+  <data key="d0">0</data>
+</node>
+<node id="SMEQNGPGLEYR">
+  <data key="d0">0</data>
+</node>
+<node id="KLVGYLDR">
+  <data key="d0">0</data>
+</node>
+<node id="AGC(UniMod_4)VAESTAVC(UniMod_4)R">
+  <data key="d0">0</data>
+</node>
+<node id="C(UniMod_4)LPVTAPENGK">
+  <data key="d0">0</data>
+</node>
+<node id="KTLLSNLEEAK">
+  <data key="d0">0</data>
+</node>
+<node id="SLPSEASEQYLTK">
+  <data key="d0">0</data>
+</node>
+<node id="VTAAPQSVC(UniMod_4)ALR">
+  <data key="d0">0</data>
+</node>
+<node id="SC(UniMod_4)SPELQQK">
+  <data key="d0">0</data>
+</node>
+<node id="FTFEYSR">
+  <data key="d0">0</data>
+</node>
+<node id="LSPLGEEMR">
+  <data key="d0">0</data>
+</node>
+<node id="EWVAIESDSVQPVPR">
+  <data key="d0">0</data>
+</node>
+<node id="VPEEDLKR">
+  <data key="d0">0</data>
+</node>
+<node id="SFNRGEC(UniMod_4)">
+  <data key="d0">0</data>
+</node>
+<node id="AYKSELEEQLTPVAEETR">
+  <data key="d0">0</data>
+</node>
+<node id="KASYLDC(UniMod_4)IR">
+  <data key="d0">0</data>
+</node>
+<node id="LNMHMNVQNGKWDSDPSGTK">
+  <data key="d0">0</data>
+</node>
+<node id="FLC(UniMod_4)TGGVSPYADPNTC(UniMod_4)R">
+  <data key="d0">0</data>
+</node>
+<node id="LAPLAEDVR">
+  <data key="d0">0</data>
+</node>
+<node id="IQPSGGTNINEALLR">
+  <data key="d0">0</data>
+</node>
+<node id="DTINLLDQR">
+  <data key="d0">0</data>
+</node>
+<node id="ALFLETEQLK">
+  <data key="d0">0</data>
+</node>
+<node id="QLEWGLER">
+  <data key="d0">0</data>
+</node>
+<node id="SWFEPLVEDM(UniMod_35)QR">
+  <data key="d0">0</data>
+</node>
+<node id="IGDQWDKQHDMGHMMR">
+  <data key="d0">0</data>
+</node>
+<node id="C(UniMod_4)QC(UniMod_4)DELC(UniMod_4)SYYQSC(UniMod_4)C(UniMod_4)TDYTAEC(UniMod_4)KPQVTR">
+  <data key="d0">0</data>
+</node>
+<node id="HKVYAC(UniMod_4)EVTHQGLSSPVTK">
+  <data key="d0">0</data>
+</node>
+<node id="NILTSNNIDVKK">
+  <data key="d0">0</data>
+</node>
+<node id="NKPLFFADK">
+  <data key="d0">0</data>
+</node>
+<node id="TVVQPSVGAAAGPVVPPC(UniMod_4)PGR">
+  <data key="d0">0</data>
+</node>
+<node id="SEYPSIK">
+  <data key="d0">0</data>
+</node>
+<node id="FDGILGMAYPR">
+  <data key="d0">0</data>
+</node>
+<node id="SFPTYC(UniMod_4)QQK">
+  <data key="d0">0</data>
+</node>
+<node id="SVIPSDGPSVAC(UniMod_4)VKK">
+  <data key="d0">0</data>
+</node>
+<node id="FAEQDAK">
+  <data key="d0">0</data>
+</node>
+<node id="LRENELTYYC(UniMod_4)C(UniMod_4)KK">
+  <data key="d0">0</data>
+</node>
+<node id="YYTYLIMNK">
+  <data key="d0">0</data>
+</node>
+<node id="DYVSQFEGSALGK">
+  <data key="d0">0</data>
+</node>
+<node id="IC(UniMod_4)VGC(UniMod_4)PR">
+  <data key="d0">0</data>
+</node>
+<node id="ALDFAVGEYNK">
+  <data key="d0">0</data>
+</node>
+<node id="IC(UniMod_4)LEDNVLM(UniMod_35)SGVK">
+  <data key="d0">0</data>
+</node>
+<node id="IMNGEADAMSLDGGFVYIAGK">
+  <data key="d0">0</data>
+</node>
+<node id="TFYEPGEEITYSC(UniMod_4)KPGYVSR">
+  <data key="d0">0</data>
+</node>
+<node id="TPEVTC(UniMod_4)VVVDVSHEDPEVK">
+  <data key="d0">0</data>
+</node>
+<node id="VTEIWQEVMQR">
+  <data key="d0">0</data>
+</node>
+<node id="QC(UniMod_4)VPTEPC(UniMod_4)EDAEDDC(UniMod_4)GNDFQC(UniMod_4)STGR">
+  <data key="d0">0</data>
+</node>
+<node id="ALGISPFHEHAEVVFTANDSGPRR">
+  <data key="d0">0</data>
+</node>
+<node id="YLQEIYNSNNQK">
+  <data key="d0">0</data>
+</node>
+<node id="C(UniMod_4)MC(UniMod_4)PAENPGC(UniMod_4)R">
+  <data key="d0">0</data>
+</node>
+<node id="ATLGPAVRPLPWQR">
+  <data key="d0">0</data>
+</node>
+<node id="C(UniMod_4)LAFEC(UniMod_4)PENYRR">
+  <data key="d0">0</data>
+</node>
+<node id="SLNNQIETLLTPEGSR">
+  <data key="d0">0</data>
+</node>
+<node id="NSLESYAFNMK">
+  <data key="d0">0</data>
+</node>
+<node id="QWAGLVEK">
+  <data key="d0">0</data>
+</node>
+<node id="KFPSGTFEQVSQLVK">
+  <data key="d0">0</data>
+</node>
+<node id="TPLPPTSAHGNVAEGETKPDPDVTER">
+  <data key="d0">0</data>
+</node>
+<node id="TNFDNDIALVR">
+  <data key="d0">0</data>
+</node>
+<node id="GGSTSYGTGSETESPR">
+  <data key="d0">0</data>
+</node>
+<node id="TEGDGVYTLNNEK">
+  <data key="d0">0</data>
+</node>
+<node id="DVC(UniMod_4)KNYAEAK">
+  <data key="d0">0</data>
+</node>
+<node id="GEVQAMLGQSTEELR">
+  <data key="d0">0</data>
+</node>
+<node id="RELDESLQVAER">
+  <data key="d0">0</data>
+</node>
+<node id="IC(UniMod_4)ANVFC(UniMod_4)GAGR">
+  <data key="d0">0</data>
+</node>
+<node id="VQAAVGTSAAPVPSDNH">
+  <data key="d0">0</data>
+</node>
+<node id="ALPGTPVASSQPR">
+  <data key="d0">0</data>
+</node>
+<node id="LGEVNTYAGDLQK">
+  <data key="d0">0</data>
+</node>
+<node id="NKFDPSLTQR">
+  <data key="d0">0</data>
+</node>
+<node id="STTPDITGYR">
+  <data key="d0">0</data>
+</node>
+<node id="EFTRPEEIIFLR">
+  <data key="d0">0</data>
+</node>
+<node id="VIAVNEVGR">
+  <data key="d0">0</data>
+</node>
+<node id="SNSSMHITDC(UniMod_4)R">
+  <data key="d0">0</data>
+</node>
+<node id="LGPLVEQGR">
+  <data key="d0">0</data>
+</node>
+<node id="HLDSVLQQLQTEVYR">
+  <data key="d0">0</data>
+</node>
+<node id="DVLLEAC(UniMod_4)C(UniMod_4)ADGHR">
+  <data key="d0">0</data>
+</node>
+<node id="HVLFGTVGVPEHTYR">
+  <data key="d0">0</data>
+</node>
+<node id="YLGEEYVK">
+  <data key="d0">0</data>
+</node>
+<node id="GQSISVTSIRPC(UniMod_4)AAETQ">
+  <data key="d0">0</data>
+</node>
+<node id="SKVPPPRDFHINLFR">
+  <data key="d0">0</data>
+</node>
+<node id="SETKDLLFRDDTVC(UniMod_4)LAK">
+  <data key="d0">0</data>
+</node>
+<node id="LQSLFDSPDFSK">
+  <data key="d0">0</data>
+</node>
+<node id="QALPQVR">
+  <data key="d0">0</data>
+</node>
+<node id="IGDTWSK">
+  <data key="d0">0</data>
+</node>
+<node id="LC(UniMod_4)MGSGLNLC(UniMod_4)EPNNK">
+  <data key="d0">0</data>
+</node>
+<node id="FLENEDR">
+  <data key="d0">0</data>
+</node>
+<node id="YKAAFTEC(UniMod_4)C(UniMod_4)QAADK">
+  <data key="d0">0</data>
+</node>
+<node id="LYHSEAFTVNFGDTEEAKK">
+  <data key="d0">0</data>
+</node>
+<node id="IC(UniMod_4)LEDNVLMSGVK">
+  <data key="d0">0</data>
+</node>
+<node id="DNWVFC(UniMod_4)GGK">
+  <data key="d0">0</data>
+</node>
+<node id="VC(UniMod_4)SQYAAYGEK">
+  <data key="d0">0</data>
+</node>
+<node id="EPTMYGEILSPNYPQAYPSEVEK">
+  <data key="d0">0</data>
+</node>
+<node id="RLPIGSYF">
+  <data key="d0">0</data>
+</node>
+<node id="GLETSLAEC(UniMod_4)TFTK">
+  <data key="d0">0</data>
+</node>
+<node id="LVDGKGVPIPNKVIFIR">
+  <data key="d0">0</data>
+</node>
+<node id="VQPYLDDFQKK">
+  <data key="d0">0</data>
+</node>
+<node id="AGLLRPDYALLGHR">
+  <data key="d0">0</data>
+</node>
+<node id="ALSIGFETC(UniMod_4)R">
+  <data key="d0">0</data>
+</node>
+<node id="ADDKETC(UniMod_4)FAEEGKK">
+  <data key="d0">0</data>
+</node>
+<node id="ILGQQVPYATK">
+  <data key="d0">0</data>
+</node>
+<node id="THPHFVIPYR">
+  <data key="d0">0</data>
+</node>
+<node id="DGLKYHYLIR">
+  <data key="d0">0</data>
+</node>
+<node id="GAQTLYVPNC(UniMod_4)DHR">
+  <data key="d0">0</data>
+</node>
+<node id="IHWESASLLR">
+  <data key="d0">0</data>
+</node>
+<node id="PIVTSPYQIHFTK">
+  <data key="d0">0</data>
+</node>
+<node id="VQPYLDDFQK">
+  <data key="d0">0</data>
+</node>
+<node id="TNTNVNC(UniMod_4)PIEC(UniMod_4)FMPLDVQADREDSRE">
+  <data key="d0">0</data>
+</node>
+<node id="MKYWGVASFLQK">
+  <data key="d0">0</data>
+</node>
+<node id="THLAPYSDELR">
+  <data key="d0">0</data>
+</node>
+<node id="EIGELYLPK">
+  <data key="d0">0</data>
+</node>
+<node id="VHKEDDGVPVIC(UniMod_4)QVEHPAVTGNLQTQR">
+  <data key="d0">0</data>
+</node>
+<node id="LALLVDTVGPR">
+  <data key="d0">0</data>
+</node>
+<node id="ASNLESGVPSR">
+  <data key="d0">0</data>
+</node>
+<node id="NFPPSQDASGDLYTTSSQLTLPATQC(UniMod_4)PDGK">
+  <data key="d0">0</data>
+</node>
+<node id="KPAEDEWGK">
+  <data key="d0">0</data>
+</node>
+<node id="DGGFC(UniMod_4)EVC(UniMod_4)KK">
+  <data key="d0">0</data>
+</node>
+<node id="GYTQQLAFR">
+  <data key="d0">0</data>
+</node>
+<node id="LFDSDPITVTVPVEVSR">
+  <data key="d0">0</data>
+</node>
+<node id="TASDFITK">
+  <data key="d0">0</data>
+</node>
+<node id="NRDHDTFLAVR">
+  <data key="d0">0</data>
+</node>
+<node id="LLRDPADASEAHESSSR">
+  <data key="d0">0</data>
+</node>
+<node id="KSPELQAEAK">
+  <data key="d0">0</data>
+</node>
+<node id="ATVVYQGER">
+  <data key="d0">0</data>
+</node>
+<node id="ALGISPFHEHAEVVFTANDSGPR">
+  <data key="d0">0</data>
+</node>
+<node id="TGTTGQSGAESGTTEPSAR">
+  <data key="d0">0</data>
+</node>
+<node id="KNM(UniMod_35)FEFLK">
+  <data key="d0">0</data>
+</node>
+<node id="TLVVHEKADDLGKGGNEESTK">
+  <data key="d0">0</data>
+</node>
+<node id="MASGAANVVGPK">
+  <data key="d0">0</data>
+</node>
+<node id="YVMLPVADQDQC(UniMod_4)IR">
+  <data key="d0">0</data>
+</node>
+<node id="YLFLNGNK">
+  <data key="d0">0</data>
+</node>
+<node id="YVGGQEHFAHLLILR">
+  <data key="d0">0</data>
+</node>
+<node id="IYLYTLNDNAR">
+  <data key="d0">0</data>
+</node>
+<node id="C(UniMod_4)LAFEC(UniMod_4)PENYR">
+  <data key="d0">0</data>
+</node>
+<node id="KTSLEDFYLDEER">
+  <data key="d0">0</data>
+</node>
+<node id="LVGGPMDASVEEEGVR">
+  <data key="d0">0</data>
+</node>
+<node id="TPC(UniMod_4)QQELDQVLER">
+  <data key="d0">0</data>
+</node>
+<node id="LQAEAFQAR">
+  <data key="d0">0</data>
+</node>
+<node id="FNKNNEGTYYSPNYNPQSR">
+  <data key="d0">0</data>
+</node>
+<node id="RLEGQEEEEDNRDSSMK">
+  <data key="d0">0</data>
+</node>
+<node id="YHDRDVWKPEPC(UniMod_4)R">
+  <data key="d0">0</data>
+</node>
+<node id="LVMGIPTFGR">
+  <data key="d0">0</data>
+</node>
+<node id="SEALAVDGAGKPGAEEAQDPEGK">
+  <data key="d0">0</data>
+</node>
+<node id="ILAGSADSEGVAAPR">
+  <data key="d0">0</data>
+</node>
+<node id="WYFDVTEGK">
+  <data key="d0">0</data>
+</node>
+<node id="PNHAVVTR">
+  <data key="d0">0</data>
+</node>
+<node id="GWVTDGFSSLK">
+  <data key="d0">0</data>
+</node>
+<node id="EKLQDEDLGFL">
+  <data key="d0">0</data>
+</node>
+<node id="TLKIENVSYQDKGNYR">
+  <data key="d0">0</data>
+</node>
+<node id="QELSEAEQATR">
+  <data key="d0">0</data>
+</node>
+<node id="DLGEENFK">
+  <data key="d0">0</data>
+</node>
+<node id="C(UniMod_4)C(UniMod_4)VEC(UniMod_4)PPC(UniMod_4)PAPPVAGPSVFLFPPKPK">
+  <data key="d0">0</data>
+</node>
+<node id="C(UniMod_4)C(UniMod_4)AAADPHEC(UniMod_4)YAK">
+  <data key="d0">0</data>
+</node>
+<node id="KLC(UniMod_4)MAALK">
+  <data key="d0">0</data>
+</node>
+<node id="SLGNVIMVC(UniMod_4)R">
+  <data key="d0">0</data>
+</node>
+<node id="AQAGANTRPC(UniMod_4)PS">
+  <data key="d0">0</data>
+</node>
+<node id="QSGLYFIKPLK">
+  <data key="d0">0</data>
+</node>
+<node id="GSESGIFTNTK">
+  <data key="d0">0</data>
+</node>
+<node id="GNQWVGYDDQESVK">
+  <data key="d0">0</data>
+</node>
+<node id="LSINTHPSQKPLSITVR">
+  <data key="d0">0</data>
+</node>
+<node id="WELALGR">
+  <data key="d0">0</data>
+</node>
+<node id="C(UniMod_4)PNPPVQENFDVNKYLGR">
+  <data key="d0">0</data>
+</node>
+<node id="SELEEQLTPVAEETR">
+  <data key="d0">0</data>
+</node>
+<node id="LVPPMEEDYPQFGSPK">
+  <data key="d0">0</data>
+</node>
+<node id="GVALADFNR">
+  <data key="d0">0</data>
+</node>
+<node id="LVDKFLEDVKK">
+  <data key="d0">0</data>
+</node>
+<node id="AAFTEC(UniMod_4)C(UniMod_4)QAADK">
+  <data key="d0">0</data>
+</node>
+<node id="YIVSGTPTFVPYLIK">
+  <data key="d0">0</data>
+</node>
+<node id="C(UniMod_4)AEENC(UniMod_4)FIQK">
+  <data key="d0">0</data>
+</node>
+<node id="IEIPSSVQQVPTIIK">
+  <data key="d0">0</data>
+</node>
+<node id="SIVVSPILIPENQR">
+  <data key="d0">0</data>
+</node>
+<node id="FMETVAEK">
+  <data key="d0">0</data>
+</node>
+<node id="VASYGVKPR">
+  <data key="d0">0</data>
+</node>
+<node id="C(UniMod_4)LVEKGDVAFVKHQTVPQNTGGK">
+  <data key="d0">0</data>
+</node>
+<node id="KYLYEIAR">
+  <data key="d0">0</data>
+</node>
+<node id="SGIEC(UniMod_4)QLWR">
+  <data key="d0">0</data>
+</node>
+<node id="C(UniMod_4)KPVNTFVHEPLVDVQNVC(UniMod_4)FQEK">
+  <data key="d0">0</data>
+</node>
+<node id="TPC(UniMod_4)TVSC(UniMod_4)NIPVVSGKEC(UniMod_4)EEIIR">
+  <data key="d0">0</data>
+</node>
+<node id="DDNPNLPR">
+  <data key="d0">0</data>
+</node>
+<node id="ASHEEVEGLVEK">
+  <data key="d0">0</data>
+</node>
+<node id="LVGYLDR">
+  <data key="d0">0</data>
+</node>
+<node id="AVISPGFDVFAK">
+  <data key="d0">0</data>
+</node>
+<node id="AYQGVAAPFPK">
+  <data key="d0">0</data>
+</node>
+<node id="SFQTGLFTAAR">
+  <data key="d0">0</data>
+</node>
+<node id="AGDFLEANYMNLQR">
+  <data key="d0">0</data>
+</node>
+<node id="FQSVFTVTR">
+  <data key="d0">0</data>
+</node>
+<node id="YPGPQAEGDSEGLSQGLVDREK">
+  <data key="d0">0</data>
+</node>
+<node id="MELERPGGNEITR">
+  <data key="d0">0</data>
+</node>
+<node id="LSYTC(UniMod_4)EGGFR">
+  <data key="d0">0</data>
+</node>
+<node id="QGVNDNEEGFFSAR">
+  <data key="d0">0</data>
+</node>
+<node id="SPQGLGAFTPVVR">
+  <data key="d0">0</data>
+</node>
+<node id="LC(UniMod_4)QDLGPGAFR">
+  <data key="d0">0</data>
+</node>
+<node id="AYLEEEC(UniMod_4)PATLR">
+  <data key="d0">0</data>
+</node>
+<node id="TMSEVGGSVEDLIAK">
+  <data key="d0">0</data>
+</node>
+<node id="TMQALPYSTVGNSNNYLHLSVLR">
+  <data key="d0">0</data>
+</node>
+<node id="EIVLTQSPATLSLSPGER">
+  <data key="d0">0</data>
+</node>
+<node id="LGMFNIQHC(UniMod_4)K">
+  <data key="d0">0</data>
+</node>
+<node id="KVPQVSTPTLVEVSR">
+  <data key="d0">0</data>
+</node>
+<node id="SGINC(UniMod_4)PIQK">
+  <data key="d0">0</data>
+</node>
+<node id="LPYTASSGLMAPR">
+  <data key="d0">0</data>
+</node>
+<node id="VPFDAATLHTSTAMAAQHGMDDDGTGQK">
+  <data key="d0">0</data>
+</node>
+<node id="QFTSSTSYNR">
+  <data key="d0">0</data>
+</node>
+<node id="YVM(UniMod_35)LPVADQDQC(UniMod_4)IR">
+  <data key="d0">0</data>
+</node>
+<node id="SDVMYTDWK">
+  <data key="d0">0</data>
+</node>
+<node id="PTLVEVSR">
+  <data key="d0">0</data>
+</node>
+<node id="YVNKEIQNAVNGVK">
+  <data key="d0">0</data>
+</node>
+<node id="VRQGQGQSEPGEYEQR">
+  <data key="d0">0</data>
+</node>
+<node id="ASQSVSSYLAWYQQKPGQAPR">
+  <data key="d0">0</data>
+</node>
+<node id="HTFMGVVSLGSPSGEVSHPR">
+  <data key="d0">0</data>
+</node>
+<node id="QALNTDYLDSDYQR">
+  <data key="d0">0</data>
+</node>
+<node id="LSITGTYDLK">
+  <data key="d0">0</data>
+</node>
+<node id="LGPGMADIC(UniMod_4)K">
+  <data key="d0">0</data>
+</node>
+<node id="ESLQQMAEVTR">
+  <data key="d0">0</data>
+</node>
+<node id="LSSWVLLM(UniMod_35)K">
+  <data key="d0">0</data>
+</node>
+<node id="QTHQPPAPNSLIR">
+  <data key="d0">0</data>
+</node>
+<node id="MATLYSR">
+  <data key="d0">0</data>
+</node>
+<node id="IVQIYKDLLR">
+  <data key="d0">0</data>
+</node>
+<node id="VVVNFAPTIQEIK">
+  <data key="d0">0</data>
+</node>
+<node id="C(UniMod_4)NLLAEK">
+  <data key="d0">0</data>
+</node>
+<node id="DYFMPC(UniMod_4)PGR">
+  <data key="d0">0</data>
+</node>
+<node id="QTQVSVLPEGGETPLFK">
+  <data key="d0">0</data>
+</node>
+<node id="EHVAHLLFLR">
+  <data key="d0">0</data>
+</node>
+<node id="AIQLTYNPDESSKPNMIDAATLK">
+  <data key="d0">0</data>
+</node>
+<node id="LYQQHGAGLFDVTR">
+  <data key="d0">0</data>
+</node>
+<node id="ADRDQYELLC(UniMod_4)LDNTR">
+  <data key="d0">0</data>
+</node>
+<node id="DFADIPNLR">
+  <data key="d0">0</data>
+</node>
+<node id="AELQC(UniMod_4)PQPAA">
+  <data key="d0">0</data>
+</node>
+<node id="KMTVTDQVNC(UniMod_4)PK">
+  <data key="d0">0</data>
+</node>
+<node id="RNTEILTGSWSDQTYPEGTQAIYK">
+  <data key="d0">0</data>
+</node>
+<node id="SC(UniMod_4)DKTHTC(UniMod_4)PPC(UniMod_4)PAPELLGGPSVFLFPPKPK">
+  <data key="d0">0</data>
+</node>
+<node id="HNC(UniMod_4)MENSIC(UniMod_4)R">
+  <data key="d0">0</data>
+</node>
+<node id="FFLC(UniMod_4)QVAGDAK">
+  <data key="d0">0</data>
+</node>
+<node id="IEKVEHSDLSFSK">
+  <data key="d0">0</data>
+</node>
+<node id="IFFYDSENPPASEVLR">
+  <data key="d0">0</data>
+</node>
+<node id="LYGSEAFATDFQDSAAAK">
+  <data key="d0">0</data>
+</node>
+<node id="SNVSDAVAQSTR">
+  <data key="d0">0</data>
+</node>
+<node id="ALSSEWKPEIR">
+  <data key="d0">0</data>
+</node>
+<node id="VFQEPLFYEAPR">
+  <data key="d0">0</data>
+</node>
+<node id="VMDKYTFELSR">
+  <data key="d0">0</data>
+</node>
+<node id="AQTTVTC(UniMod_4)M(UniMod_35)ENGWSPTPR">
+  <data key="d0">0</data>
+</node>
+<node id="EFQLFSSPHGK">
+  <data key="d0">0</data>
+</node>
+<node id="NPDPWAK">
+  <data key="d0">0</data>
+</node>
+<node id="QQETAAAETETR">
+  <data key="d0">0</data>
+</node>
+<node id="FTNIGPDTMR">
+  <data key="d0">0</data>
+</node>
+<node id="THLPEVFLSK">
+  <data key="d0">0</data>
+</node>
+<node id="TQSSLVPALTDFVR">
+  <data key="d0">0</data>
+</node>
+<node id="VPMMSDPK">
+  <data key="d0">0</data>
+</node>
+<node id="APEAQVSVQPNFQQDK">
+  <data key="d0">0</data>
+</node>
+<node id="SASDLTWDNLK">
+  <data key="d0">0</data>
+</node>
+<node id="ATWSGAVLAGR">
+  <data key="d0">0</data>
+</node>
+<node id="ASGSPEPAISWFR">
+  <data key="d0">0</data>
+</node>
+<node id="SGELEQEEER">
+  <data key="d0">0</data>
+</node>
+<node id="RLYGSEAFATDFQDSAAAK">
+  <data key="d0">0</data>
+</node>
+<node id="QQLVETHMAR">
+  <data key="d0">0</data>
+</node>
+<node id="AQGFTEDTIVFLPQTDK">
+  <data key="d0">0</data>
+</node>
+<node id="SSPVVIDASTAIDAPSNLR">
+  <data key="d0">0</data>
+</node>
+<node id="KQINDYVEK">
+  <data key="d0">0</data>
+</node>
+<node id="QPSSAFAAFVK">
+  <data key="d0">0</data>
+</node>
+<node id="VTTVASHTSDSDVPSGVTEVVVK">
+  <data key="d0">0</data>
+</node>
+<node id="INHC(UniMod_4)RFDEFFSEGC(UniMod_4)APGSKK">
+  <data key="d0">0</data>
+</node>
+<node id="DIPMNPMC(UniMod_4)IYR">
+  <data key="d0">0</data>
+</node>
+<node id="ASYLDC(UniMod_4)IR">
+  <data key="d0">0</data>
+</node>
+<node id="GNSYFMVEVK">
+  <data key="d0">0</data>
+</node>
+<node id="C(UniMod_4)LAPLEGAR">
+  <data key="d0">0</data>
+</node>
+<node id="VHVSEEGTEPEAMLQVLGPKPALPAGTEDTAKEDAANR">
+  <data key="d0">0</data>
+</node>
+<node id="ANAGKPKDPTFIPAPIQAK">
+  <data key="d0">0</data>
+</node>
+<node id="FSALEVDETYVPK">
+  <data key="d0">0</data>
+</node>
+<node id="VTEPISAESGEQVER">
+  <data key="d0">0</data>
+</node>
+<node id="TQVNTQAEQLRR">
+  <data key="d0">0</data>
+</node>
+<node id="GDFSSANNRDNTYNR">
+  <data key="d0">0</data>
+</node>
+<node id="SLGSPSGEVSHPR">
+  <data key="d0">0</data>
+</node>
+<node id="RGEQC(UniMod_4)VDIDEC(UniMod_4)TIPPYC(UniMod_4)HQR">
+  <data key="d0">0</data>
+</node>
+<node id="DGWSAQPTC(UniMod_4)IK">
+  <data key="d0">0</data>
+</node>
+<node id="RTHLPEVFLSK">
+  <data key="d0">0</data>
+</node>
+<node id="TVQAVLTVPK">
+  <data key="d0">0</data>
+</node>
+<node id="FLENEDRR">
+  <data key="d0">0</data>
+</node>
+<node id="QYTDSTFRVPVER">
+  <data key="d0">0</data>
+</node>
+<node id="AATVGSLAGQPLQER">
+  <data key="d0">0</data>
+</node>
+<node id="LVWEEAMSR">
+  <data key="d0">0</data>
+</node>
+<node id="LSELIQPLPLER">
+  <data key="d0">0</data>
+</node>
+<node id="SASDLTWDNLKGK">
+  <data key="d0">0</data>
+</node>
+<node id="ADQVC(UniMod_4)INLR">
+  <data key="d0">0</data>
+</node>
+<node id="LPPTSAHGNVAEGETKPDPDVTER">
+  <data key="d0">0</data>
+</node>
+<node id="TFISPIK">
+  <data key="d0">0</data>
+</node>
+<node id="GLEFLSVPSTYYK">
+  <data key="d0">0</data>
+</node>
+<node id="VAAGAFQGLR">
+  <data key="d0">0</data>
+</node>
+<node id="FAALDNEEEDK">
+  <data key="d0">0</data>
+</node>
+<node id="HQFLLTGDTQGR">
+  <data key="d0">0</data>
+</node>
+<node id="HVEPGEPLAPSPQEPQAVGR">
+  <data key="d0">0</data>
+</node>
+<node id="EGYYGYTGAFR">
+  <data key="d0">0</data>
+</node>
+<node id="IEC(UniMod_4)VSAETTEDC(UniMod_4)IAK">
+  <data key="d0">0</data>
+</node>
+<node id="ESAYLYAR">
+  <data key="d0">0</data>
+</node>
+<node id="GVASLFAGR">
+  <data key="d0">0</data>
+</node>
+<node id="GATTSPGVYELSSR">
+  <data key="d0">0</data>
+</node>
+<node id="C(UniMod_4)LKDGAGDVAFVK">
+  <data key="d0">0</data>
+</node>
+<node id="QKVEPLRAELQEGAR">
+  <data key="d0">0</data>
+</node>
+<node id="ISASAEELR">
+  <data key="d0">0</data>
+</node>
+<node id="EGVQKEDIPPADLSDQVPDTESETR">
+  <data key="d0">0</data>
+</node>
+<node id="KVLLDGVQNPR">
+  <data key="d0">0</data>
+</node>
+<node id="TELLPGDRDNLAIQTR">
+  <data key="d0">0</data>
+</node>
+<node id="M(UniMod_35)TVTDQVNC(UniMod_4)PK">
+  <data key="d0">0</data>
+</node>
+<node id="VSPTDC(UniMod_4)SAVEPEAEK">
+  <data key="d0">0</data>
+</node>
+<node id="FYVHNDIFR">
+  <data key="d0">0</data>
+</node>
+<node id="ADDKETC(UniMod_4)FAEEGK">
+  <data key="d0">0</data>
+</node>
+<node id="AYLEEEC(UniMod_4)PATLRK">
+  <data key="d0">0</data>
+</node>
+<node id="EVNVSPC(UniMod_4)PTQPC(UniMod_4)QLSK">
+  <data key="d0">0</data>
+</node>
+<node id="ISC(UniMod_4)TIANR">
+  <data key="d0">0</data>
+</node>
+<node id="RGYQLSDVDGVTC(UniMod_4)EDIDEC(UniMod_4)ALPTGGHIC(UniMod_4)SYR">
+  <data key="d0">0</data>
+</node>
+<node id="DQGNQEQDPNISNGEEEEEKEPGEVGTHNDNQER">
+  <data key="d0">0</data>
+</node>
+<node id="LAVTTHGLPC(UniMod_4)LAWASAQAK">
+  <data key="d0">0</data>
+</node>
+<node id="TPENYPNAGLTMNYC(UniMod_4)R">
+  <data key="d0">0</data>
+</node>
+<node id="LVFFAEDVGSNK">
+  <data key="d0">0</data>
+</node>
+<node id="RYIETDPANRDR">
+  <data key="d0">0</data>
+</node>
+<node id="LFGGNFAHQASVAR">
+  <data key="d0">0</data>
+</node>
+<node id="DVRDYFMPC(UniMod_4)PGR">
+  <data key="d0">0</data>
+</node>
+<node id="NPDGDVGGPWC(UniMod_4)YTTNPR">
+  <data key="d0">0</data>
+</node>
+<node id="SNLDEDIIAEENIVSR">
+  <data key="d0">0</data>
+</node>
+<node id="QNC(UniMod_4)ELFEQLGEYK">
+  <data key="d0">0</data>
+</node>
+<node id="EQLSLLDRFTEDAKR">
+  <data key="d0">0</data>
+</node>
+<node id="ATEDEGSEQKIPEATNR">
+  <data key="d0">0</data>
+</node>
+<node id="QQTHMLDVMQDHFSR">
+  <data key="d0">0</data>
+</node>
+<node id="DRLDEVKEQVAEVR">
+  <data key="d0">0</data>
+</node>
+<node id="TLEAQLTPR">
+  <data key="d0">0</data>
+</node>
+<node id="HQPQEFPTYVEPTNDEIC(UniMod_4)EAFR">
+  <data key="d0">0</data>
+</node>
+<node id="LEDMEQALSPSVFK">
+  <data key="d0">0</data>
+</node>
+<node id="LSSGLVTAALYGR">
+  <data key="d0">0</data>
+</node>
+<node id="FVEGLPINDFSR">
+  <data key="d0">0</data>
+</node>
+<node id="YNSQNQSNNQFVLYR">
+  <data key="d0">0</data>
+</node>
+<node id="DAC(UniMod_4)GC(UniMod_4)C(UniMod_4)PMC(UniMod_4)AR">
+  <data key="d0">0</data>
+</node>
+<node id="TSPVDEKALQDQLVLVAAK">
+  <data key="d0">0</data>
+</node>
+<node id="KSQPMGLWR">
+  <data key="d0">0</data>
+</node>
+<node id="VFSNGADLSGVTEEAPLK">
+  <data key="d0">0</data>
+</node>
+<node id="GC(UniMod_4)SFLPDPYQK">
+  <data key="d0">0</data>
+</node>
+<node id="EC(UniMod_4)EEIIR">
+  <data key="d0">0</data>
+</node>
+<node id="C(UniMod_4)C(UniMod_4)ESASEDC(UniMod_4)MAK">
+  <data key="d0">0</data>
+</node>
+<node id="YSLTYIYTGLSK">
+  <data key="d0">0</data>
+</node>
+<node id="DSGRDYVSQFEGSALGK">
+  <data key="d0">0</data>
+</node>
+<node id="TPSGLYLGTC(UniMod_4)ER">
+  <data key="d0">0</data>
+</node>
+<node id="LINDYVK">
+  <data key="d0">0</data>
+</node>
+<node id="LSYEGEVTK">
+  <data key="d0">0</data>
+</node>
+<node id="AVVVHAGEDDLGR">
+  <data key="d0">0</data>
+</node>
+<node id="WC(UniMod_4)AVSEHEATK">
+  <data key="d0">0</data>
+</node>
+<node id="SSALDMENFR">
+  <data key="d0">0</data>
+</node>
+<node id="SLEDQVEMLR">
+  <data key="d0">0</data>
+</node>
+<node id="C(UniMod_4)APFFYGGC(UniMod_4)GGNR">
+  <data key="d0">0</data>
+</node>
+<node id="IDQNVEELKGR">
+  <data key="d0">0</data>
+</node>
+<node id="LVAYYTLIGASGQR">
+  <data key="d0">0</data>
+</node>
+<node id="LTPLYELVK">
+  <data key="d0">0</data>
+</node>
+<node id="DNC(UniMod_4)C(UniMod_4)ILDER">
+  <data key="d0">0</data>
+</node>
+<node id="TTPEPC(UniMod_4)ELDDEDFR">
+  <data key="d0">0</data>
+</node>
+<node id="TTPPVLDSDGSFFLYSR">
+  <data key="d0">0</data>
+</node>
+<node id="FLNVLSPR">
+  <data key="d0">0</data>
+</node>
+<node id="TEIDKPSQMQVTDVQDNSISVK">
+  <data key="d0">0</data>
+</node>
+<node id="LYGSEAFATDFQDSAAAKK">
+  <data key="d0">0</data>
+</node>
+<node id="ITTTSPWMFPSR">
+  <data key="d0">0</data>
+</node>
+<node id="IVSSAMEPDREYHFGQAVR">
+  <data key="d0">0</data>
+</node>
+<node id="GKRPYQEGTPC(UniMod_4)SQC(UniMod_4)PSGYHC(UniMod_4)K">
+  <data key="d0">0</data>
+</node>
+<node id="C(UniMod_4)PFPSRPDNGFVNYPAKPTLYYK">
+  <data key="d0">0</data>
+</node>
+<node id="KVEQAVETEPEPELR">
+  <data key="d0">0</data>
+</node>
+<node id="SSFVAPLEK">
+  <data key="d0">0</data>
+</node>
+<node id="LIADLGSTSITNLGFR">
+  <data key="d0">0</data>
+</node>
+<node id="HYDGSYSTFGER">
+  <data key="d0">0</data>
+</node>
+<node id="LLIYDASNR">
+  <data key="d0">0</data>
+</node>
+<node id="FSGSNSGNTATLTISR">
+  <data key="d0">0</data>
+</node>
+<node id="IPIEDGSGEVVLSR">
+  <data key="d0">0</data>
+</node>
+<node id="GSPSGEVSHPR">
+  <data key="d0">0</data>
+</node>
+<node id="FSGTWYAMAK">
+  <data key="d0">0</data>
+</node>
+<node id="AFPALTSLDLSDNPGLGER">
+  <data key="d0">0</data>
+</node>
+<node id="ASLVPMEHC(UniMod_4)ITR">
+  <data key="d0">0</data>
+</node>
+<node id="VSEADSSNADWVTK">
+  <data key="d0">0</data>
+</node>
+<node id="SC(UniMod_4)C(UniMod_4)EEQNKVNC(UniMod_4)LQTR">
+  <data key="d0">0</data>
+</node>
+<node id="GSPAINVAVHVFR">
+  <data key="d0">0</data>
+</node>
+<node id="AVLPTGDVIGDSAK">
+  <data key="d0">0</data>
+</node>
+<node id="FM(UniMod_35)ETVAEK">
+  <data key="d0">0</data>
+</node>
+<node id="WSSTSPHRPR">
+  <data key="d0">0</data>
+</node>
+<node id="YYWGGQYTWDMAK">
+  <data key="d0">0</data>
+</node>
+<node id="KSASDLTWDNLK">
+  <data key="d0">0</data>
+</node>
+<node id="GMFNIQHC(UniMod_4)K">
+  <data key="d0">0</data>
+</node>
+<node id="P02749">
+  <data key="d0">1</data>
+</node>
+<node id="P41222">
+  <data key="d0">1</data>
+</node>
+<node id="P05546">
+  <data key="d0">1</data>
+</node>
+<node id="P07195">
+  <data key="d0">1</data>
+</node>
+<node id="Q16270">
+  <data key="d0">1</data>
+</node>
+<node id="P00441">
+  <data key="d0">1</data>
+</node>
+<node id="P08133">
+  <data key="d0">1</data>
+</node>
+<node id="Q08380">
+  <data key="d0">1</data>
+</node>
+<node id="P11277">
+  <data key="d0">1</data>
+</node>
+<node id="P07711">
+  <data key="d0">1</data>
+</node>
+<node id="Q13740">
+  <data key="d0">1</data>
+</node>
+<node id="O14498">
+  <data key="d0">1</data>
+</node>
+<node id="P32754">
+  <data key="d0">1</data>
+</node>
+<node id="P39060">
+  <data key="d0">1</data>
+</node>
+<node id="P04211">
+  <data key="d0">1</data>
+</node>
+<node id="P13611">
+  <data key="d0">1</data>
+</node>
+<node id="Q8NBJ4">
+  <data key="d0">1</data>
+</node>
+<node id="O15240">
+  <data key="d0">1</data>
+</node>
+<node id="P01344">
+  <data key="d0">1</data>
+</node>
+<node id="Q99969">
+  <data key="d0">1</data>
+</node>
+<node id="Q15904">
+  <data key="d0">1</data>
+</node>
+<node id="P02753">
+  <data key="d0">1</data>
+</node>
+<node id="P05156">
+  <data key="d0">1</data>
+</node>
+<node id="P54289">
+  <data key="d0">1</data>
+</node>
+<node id="P05067">
+  <data key="d0">1</data>
+</node>
+<node id="P10909">
+  <data key="d0">1</data>
+</node>
+<node id="O00584">
+  <data key="d0">1</data>
+</node>
+<node id="P08123">
+  <data key="d0">1</data>
+</node>
+<node id="P05060">
+  <data key="d0">1</data>
+</node>
+<node id="P01877">
+  <data key="d0">1</data>
+</node>
+<node id="P01780">
+  <data key="d0">1</data>
+</node>
+<node id="P02675">
+  <data key="d0">1</data>
+</node>
+<node id="Q13283">
+  <data key="d0">1</data>
+</node>
+<node id="P13591">
+  <data key="d0">1</data>
+</node>
+<node id="P04433">
+  <data key="d0">1</data>
+</node>
+<node id="P01860">
+  <data key="d0">1</data>
+</node>
+<node id="P01033">
+  <data key="d0">1</data>
+</node>
+<node id="P10643">
+  <data key="d0">1</data>
+</node>
+<node id="Q16610">
+  <data key="d0">1</data>
+</node>
+<node id="Q06481">
+  <data key="d0">1</data>
+</node>
+<node id="P06681">
+  <data key="d0">1</data>
+</node>
+<node id="P02647">
+  <data key="d0">1</data>
+</node>
+<node id="P14174">
+  <data key="d0">1</data>
+</node>
+<node id="P16870">
+  <data key="d0">1</data>
+</node>
+<node id="P01621">
+  <data key="d0">1</data>
+</node>
+<node id="P09104">
+  <data key="d0">1</data>
+</node>
+<node id="P11142">
+  <data key="d0">1</data>
+</node>
+<node id="P02774">
+  <data key="d0">1</data>
+</node>
+<node id="P02452">
+  <data key="d0">1</data>
+</node>
+<node id="P17174">
+  <data key="d0">1</data>
+</node>
+<node id="P36955">
+  <data key="d0">1</data>
+</node>
+<node id="P06454">
+  <data key="d0">1</data>
+</node>
+<node id="P43251">
+  <data key="d0">1</data>
+</node>
+<node id="Q8NE71">
+  <data key="d0">1</data>
+</node>
+<node id="P02655">
+  <data key="d0">1</data>
+</node>
+<node id="P08493">
+  <data key="d0">1</data>
+</node>
+<node id="P43121">
+  <data key="d0">1</data>
+</node>
+<node id="P19021">
+  <data key="d0">1</data>
+</node>
+<node id="P02679">
+  <data key="d0">1</data>
+</node>
+<node id="P04075">
+  <data key="d0">1</data>
+</node>
+<node id="P07602">
+  <data key="d0">1</data>
+</node>
+<node id="P01019">
+  <data key="d0">1</data>
+</node>
+<node id="Q12805">
+  <data key="d0">1</data>
+</node>
+<node id="P19827">
+  <data key="d0">1</data>
+</node>
+<node id="P00748">
+  <data key="d0">1</data>
+</node>
+<node id="P08697">
+  <data key="d0">1</data>
+</node>
+<node id="P16035">
+  <data key="d0">1</data>
+</node>
+<node id="P04156">
+  <data key="d0">1</data>
+</node>
+<node id="P00751">
+  <data key="d0">1</data>
+</node>
+<node id="P02748">
+  <data key="d0">1</data>
+</node>
+<node id="P06310">
+  <data key="d0">1</data>
+</node>
+<node id="P07225">
+  <data key="d0">1</data>
+</node>
+<node id="P09871">
+  <data key="d0">1</data>
+</node>
+<node id="Q96S96">
+  <data key="d0">1</data>
+</node>
+<node id="P08637">
+  <data key="d0">1</data>
+</node>
+<node id="P16152">
+  <data key="d0">1</data>
+</node>
+<node id="Q9Y646">
+  <data key="d0">1</data>
+</node>
+<node id="Q92520">
+  <data key="d0">1</data>
+</node>
+<node id="P23083">
+  <data key="d0">1</data>
+</node>
+<node id="P08294">
+  <data key="d0">1</data>
+</node>
+<node id="P40925">
+  <data key="d0">1</data>
+</node>
+<node id="P43652">
+  <data key="d0">1</data>
+</node>
+<node id="Q9NYU2">
+  <data key="d0">1</data>
+</node>
+<node id="P05155">
+  <data key="d0">1</data>
+</node>
+<node id="Q9UHG2">
+  <data key="d0">1</data>
+</node>
+<node id="P51884">
+  <data key="d0">1</data>
+</node>
+<node id="P00736">
+  <data key="d0">1</data>
+</node>
+<node id="P27169">
+  <data key="d0">1</data>
+</node>
+<node id="P80748">
+  <data key="d0">1</data>
+</node>
+<node id="P55290">
+  <data key="d0">1</data>
+</node>
+<node id="Q7Z3B1">
+  <data key="d0">1</data>
+</node>
+<node id="P06396">
+  <data key="d0">1</data>
+</node>
+<node id="P05090">
+  <data key="d0">1</data>
+</node>
+<node id="P02765">
+  <data key="d0">1</data>
+</node>
+<node id="P07998">
+  <data key="d0">1</data>
+</node>
+<node id="Q13332">
+  <data key="d0">1</data>
+</node>
+<node id="P07333">
+  <data key="d0">1</data>
+</node>
+<node id="Q7Z5P9">
+  <data key="d0">1</data>
+</node>
+<node id="P08253">
+  <data key="d0">1</data>
+</node>
+<node id="O43505">
+  <data key="d0">1</data>
+</node>
+<node id="P02787">
+  <data key="d0">1</data>
+</node>
+<node id="P04217">
+  <data key="d0">1</data>
+</node>
+<node id="P05408">
+  <data key="d0">1</data>
+</node>
+<node id="P04216">
+  <data key="d0">1</data>
+</node>
+<node id="P05452">
+  <data key="d0">1</data>
+</node>
+<node id="O14791">
+  <data key="d0">1</data>
+</node>
+<node id="O14773">
+  <data key="d0">1</data>
+</node>
+<node id="Q9BY67">
+  <data key="d0">1</data>
+</node>
+<node id="P61278">
+  <data key="d0">1</data>
+</node>
+<node id="P13987">
+  <data key="d0">1</data>
+</node>
+<node id="P14618">
+  <data key="d0">1</data>
+</node>
+<node id="Q6UX71">
+  <data key="d0">1</data>
+</node>
+<node id="Q13449">
+  <data key="d0">1</data>
+</node>
+<node id="P02656">
+  <data key="d0">1</data>
+</node>
+<node id="P07339">
+  <data key="d0">1</data>
+</node>
+<node id="P60174">
+  <data key="d0">1</data>
+</node>
+<node id="P61769">
+  <data key="d0">1</data>
+</node>
+<node id="P01011">
+  <data key="d0">1</data>
+</node>
+<node id="P20933">
+  <data key="d0">1</data>
+</node>
+<node id="O75326">
+  <data key="d0">1</data>
+</node>
+<node id="P01031">
+  <data key="d0">1</data>
+</node>
+<node id="P02649">
+  <data key="d0">1</data>
+</node>
+<node id="Q9UBR2">
+  <data key="d0">1</data>
+</node>
+<node id="P00450">
+  <data key="d0">1</data>
+</node>
+<node id="P04180">
+  <data key="d0">1</data>
+</node>
+<node id="P18065">
+  <data key="d0">1</data>
+</node>
+<node id="P01859">
+  <data key="d0">1</data>
+</node>
+<node id="P02747">
+  <data key="d0">1</data>
+</node>
+<node id="P20774">
+  <data key="d0">1</data>
+</node>
+<node id="Q92876">
+  <data key="d0">1</data>
+</node>
+<node id="O00391">
+  <data key="d0">1</data>
+</node>
+<node id="P01009">
+  <data key="d0">1</data>
+</node>
+<node id="P00734">
+  <data key="d0">1</data>
+</node>
+<node id="P24592">
+  <data key="d0">1</data>
+</node>
+<node id="Q9NQ79">
+  <data key="d0">1</data>
+</node>
+<node id="P36222">
+  <data key="d0">1</data>
+</node>
+<node id="Q9UBX5">
+  <data key="d0">1</data>
+</node>
+<node id="P00747">
+  <data key="d0">1</data>
+</node>
+<node id="P12109">
+  <data key="d0">1</data>
+</node>
+<node id="P17936">
+  <data key="d0">1</data>
+</node>
+<node id="Q14508">
+  <data key="d0">1</data>
+</node>
+<node id="P09486">
+  <data key="d0">1</data>
+</node>
+<node id="Q99435">
+  <data key="d0">1</data>
+</node>
+<node id="P01034">
+  <data key="d0">1</data>
+</node>
+<node id="P13521">
+  <data key="d0">1</data>
+</node>
+<node id="P10451">
+  <data key="d0">1</data>
+</node>
+<node id="P23142">
+  <data key="d0">1</data>
+</node>
+<node id="P01857">
+  <data key="d0">1</data>
+</node>
+<node id="P61916">
+  <data key="d0">1</data>
+</node>
+<node id="Q96KN2">
+  <data key="d0">1</data>
+</node>
+<node id="P01608">
+  <data key="d0">1</data>
+</node>
+<node id="P02652">
+  <data key="d0">1</data>
+</node>
+<node id="P01591">
+  <data key="d0">1</data>
+</node>
+<node id="P02671">
+  <data key="d0">1</data>
+</node>
+<node id="P08603">
+  <data key="d0">1</data>
+</node>
+<node id="P01594">
+  <data key="d0">1</data>
+</node>
+<node id="Q14118">
+  <data key="d0">1</data>
+</node>
+<node id="P16070">
+  <data key="d0">1</data>
+</node>
+<node id="P01024">
+  <data key="d0">1</data>
+</node>
+<node id="P19823">
+  <data key="d0">1</data>
+</node>
+<node id="Q9UKV8">
+  <data key="d0">1</data>
+</node>
+<node id="Q99832">
+  <data key="d0">1</data>
+</node>
+<node id="Q14624">
+  <data key="d0">1</data>
+</node>
+<node id="P01008">
+  <data key="d0">1</data>
+</node>
+<node id="Q13451">
+  <data key="d0">1</data>
+</node>
+<node id="O15394">
+  <data key="d0">1</data>
+</node>
+<node id="P00746">
+  <data key="d0">1</data>
+</node>
+<node id="Q14515">
+  <data key="d0">1</data>
+</node>
+<node id="P04196">
+  <data key="d0">1</data>
+</node>
+<node id="O75144">
+  <data key="d0">1</data>
+</node>
+<node id="P06727">
+  <data key="d0">1</data>
+</node>
+<node id="Q9Y6R7">
+  <data key="d0">1</data>
+</node>
+<node id="O60888">
+  <data key="d0">1</data>
+</node>
+<node id="P00738">
+  <data key="d0">1</data>
+</node>
+<node id="P13473">
+  <data key="d0">1</data>
+</node>
+<node id="O94919">
+  <data key="d0">1</data>
+</node>
+<node id="Q9UNU6">
+  <data key="d0">1</data>
+</node>
+<node id="P08571">
+  <data key="d0">1</data>
+</node>
+<node id="Q6UXB8">
+  <data key="d0">1</data>
+</node>
+<node id="P01861">
+  <data key="d0">1</data>
+</node>
+<node id="Q02818">
+  <data key="d0">1</data>
+</node>
+<node id="P01717">
+  <data key="d0">1</data>
+</node>
+<node id="P04275">
+  <data key="d0">1</data>
+</node>
+<node id="Q12907">
+  <data key="d0">1</data>
+</node>
+<node id="P01023">
+  <data key="d0">1</data>
+</node>
+<node id="Q99674">
+  <data key="d0">1</data>
+</node>
+<node id="P01833">
+  <data key="d0">1</data>
+</node>
+<node id="P49908">
+  <data key="d0">1</data>
+</node>
+<node id="P14314">
+  <data key="d0">1</data>
+</node>
+<node id="P02768">
+  <data key="d0">1</data>
+</node>
+<node id="P98160">
+  <data key="d0">1</data>
+</node>
+<node id="P02750">
+  <data key="d0">1</data>
+</node>
+<node id="P01876">
+  <data key="d0">1</data>
+</node>
+<node id="P07858">
+  <data key="d0">1</data>
+</node>
+<node id="P19652">
+  <data key="d0">1</data>
+</node>
+<node id="Q99683">
+  <data key="d0">1</data>
+</node>
+<node id="P01042">
+  <data key="d0">1</data>
+</node>
+<node id="P61626">
+  <data key="d0">1</data>
+</node>
+<node id="P02790">
+  <data key="d0">1</data>
+</node>
+<node id="P04207">
+  <data key="d0">1</data>
+</node>
+<node id="Q92823">
+  <data key="d0">1</data>
+</node>
+<node id="P49588">
+  <data key="d0">1</data>
+</node>
+<node id="P04004">
+  <data key="d0">1</data>
+</node>
+<node id="Q6UXD5">
+  <data key="d0">1</data>
+</node>
+<node id="P30086">
+  <data key="d0">1</data>
+</node>
+<node id="Q562R1">
+  <data key="d0">1</data>
+</node>
+<node id="Q8N2S1">
+  <data key="d0">1</data>
+</node>
+<node id="P01834">
+  <data key="d0">1</data>
+</node>
+<node id="P02763">
+  <data key="d0">1</data>
+</node>
+<node id="P02751">
+  <data key="d0">1</data>
+</node>
+<node id="Q8IWV7">
+  <data key="d0">1</data>
+</node>
+<node id="O00533">
+  <data key="d0">1</data>
+</node>
+<node id="P02760">
+  <data key="d0">1</data>
+</node>
+<node id="P31997">
+  <data key="d0">1</data>
+</node>
+<node id="P10645">
+  <data key="d0">1</data>
+</node>
+<node id="Q12841">
+  <data key="d0">1</data>
+</node>
+<node id="P25311">
+  <data key="d0">1</data>
+</node>
+<node id="Q9HDC9">
+  <data key="d0">1</data>
+</node>
+<node id="P02792">
+  <data key="d0">1</data>
+</node>
+<node id="P04406">
+  <data key="d0">1</data>
+</node>
+<node id="Q96BZ4">
+  <data key="d0">1</data>
+</node>
+<node id="Q96PD5">
+  <data key="d0">1</data>
+</node>
+<node id="P13671">
+  <data key="d0">1</data>
+</node>
+<node id="P36980">
+  <data key="d0">1</data>
+</node>
+<node id="P02766">
+  <data key="d0">1</data>
+</node>
+<node id="Q99829">
+  <data key="d0">1</data>
+</node>
+<node id="P35542">
+  <data key="d0">1</data>
+</node>
+<edge source="NFPPSQDASGDLYTTSSQLTLPATQC(UniMod_4)LAGK" target="P01876">
+  <data key="d1">64185.7</data>
+</edge>
+<edge source="NFPSPVDAAFR" target="P02790">
+  <data key="d1">933453.0</data>
+</edge>
+<edge source="KC(UniMod_4)C(UniMod_4)VEC(UniMod_4)PPC(UniMod_4)PAPPVAGPSVFLFPPKPK" target="P01859">
+  <data key="d1">1285410.0</data>
+</edge>
+<edge source="TSTDLQVLAAR" target="Q96BZ4">
+  <data key="d1">5620.19</data>
+</edge>
+<edge source="EIVMTQSPATLSVSPGER" target="P04207">
+  <data key="d1">95913.4</data>
+</edge>
+<edge source="LKDDEVAQLKK" target="P07195">
+  <data key="d1">7263.89</data>
+</edge>
+<edge source="FQNALLVR" target="P02768">
+  <data key="d1">18520100.0</data>
+</edge>
+<edge source="AIGAVPLIQGEYMIPC(UniMod_4)EK" target="P07339">
+  <data key="d1">56726.0</data>
+</edge>
+<edge source="RVDTVDPPYPR" target="P04004">
+  <data key="d1">186845.0</data>
+</edge>
+<edge source="ILGPLSYSK" target="P51884">
+  <data key="d1">102230.0</data>
+</edge>
+<edge source="DQPFTILYR" target="Q9UBX5">
+  <data key="d1">25265.4</data>
+</edge>
+<edge source="KLINDYVK" target="P01011">
+  <data key="d1">28404.0</data>
+</edge>
+<edge source="TYLGNALVC(UniMod_4)TC(UniMod_4)YGGSR" target="P02751">
+  <data key="d1">24607.3</data>
+</edge>
+<edge source="SIAQYWLGC(UniMod_4)PAPGHL" target="P04004">
+  <data key="d1">688695.0</data>
+</edge>
+<edge source="SGEATDGARPQALPEPMQESK" target="P10645">
+  <data key="d1">189809.0</data>
+</edge>
+<edge source="DC(UniMod_4)HLAQVPSHTVVAR" target="P02787">
+  <data key="d1">152921.0</data>
+</edge>
+<edge source="INENTGSVSVTR" target="P55290">
+  <data key="d1">8388.17</data>
+</edge>
+<edge source="VEHSDLSFSK" target="P61769">
+  <data key="d1">41686.6</data>
+</edge>
+<edge source="DASGVTFTWTPSSGK" target="P01876">
+  <data key="d1">704937.0</data>
+</edge>
+<edge source="HLSLLTTLSNR" target="P02774">
+  <data key="d1">5332.15</data>
+</edge>
+<edge source="AVVFLEPQWYR" target="P08637">
+  <data key="d1">33333.4</data>
+</edge>
+<edge source="IEEELGDEAR" target="P09104">
+  <data key="d1">5882.67</data>
+</edge>
+<edge source="HQPQEFPTYVEPTNDEIC(UniMod_4)EAFRKDPK" target="P02774">
+  <data key="d1">77882.4</data>
+</edge>
+<edge source="C(UniMod_4)TTPPPSSGPTYQC(UniMod_4)LK" target="P00747">
+  <data key="d1">18331.6</data>
+</edge>
+<edge source="LATVGELQAAWR" target="P13611">
+  <data key="d1">20933.1</data>
+</edge>
+<edge source="QAPGQGLEWMGR" target="P23083">
+  <data key="d1">23446.5</data>
+</edge>
+<edge source="LVYPSC(UniMod_4)EEK" target="P36980">
+  <data key="d1">8554.4</data>
+</edge>
+<edge source="FSEEAC(UniMod_4)AVLTSPTFEAC(UniMod_4)HR" target="P04275">
+  <data key="d1">493976.0</data>
+</edge>
+<edge source="VFAVSHGR" target="P02751">
+  <data key="d1">3485.99</data>
+</edge>
+<edge source="FIYGGC(UniMod_4)GGNR" target="Q06481">
+  <data key="d1">14199.0</data>
+</edge>
+<edge source="GAYPLSIEPIGVR" target="P00450">
+  <data key="d1">242041.0</data>
+</edge>
+<edge source="NEQEQPLGQWHLS" target="O00391">
+  <data key="d1">12685.3</data>
+</edge>
+<edge source="DKLAAC(UniMod_4)LEGNC(UniMod_4)AEGLGTNYR" target="P00734">
+  <data key="d1">47565.7</data>
+</edge>
+<edge source="LEPYADQLR" target="P06727">
+  <data key="d1">54694.7</data>
+</edge>
+<edge source="LYEQLSGK" target="P30086">
+  <data key="d1">4610.46</data>
+</edge>
+<edge source="GDKVWVYPPEKK" target="P02790">
+  <data key="d1">87717.1</data>
+</edge>
+<edge source="RTPITVVK" target="P06396">
+  <data key="d1">119287.0</data>
+</edge>
+<edge source="EQWPQC(UniMod_4)PTIK" target="P07858">
+  <data key="d1">29972.2</data>
+</edge>
+<edge source="HPNSPLDEENLTQENQDR" target="P01011">
+  <data key="d1">195447.0</data>
+</edge>
+<edge source="AIPVTQYLK" target="P43652">
+  <data key="d1">64613.0</data>
+</edge>
+<edge source="TMQENSTPRED" target="P09871">
+  <data key="d1">13222.9</data>
+</edge>
+<edge source="SSNTYTLTDVRR" target="Q13740">
+  <data key="d1">6823.21</data>
+</edge>
+<edge source="KPVDEYKDC(UniMod_4)HLAQVPSHTVVAR" target="P02787">
+  <data key="d1">3173330.0</data>
+</edge>
+<edge source="ATTVTGTPC(UniMod_4)QDWAAQEPHR" target="P00747">
+  <data key="d1">116526.0</data>
+</edge>
+<edge source="SGIPIVTSPYQIHFTK" target="P01024">
+  <data key="d1">203832.0</data>
+</edge>
+<edge source="C(UniMod_4)RDQLPYIC(UniMod_4)QFGIV" target="P05452">
+  <data key="d1">33527.5</data>
+</edge>
+<edge source="GYC(UniMod_4)APGMEC(UniMod_4)VK" target="Q16270">
+  <data key="d1">54744.1</data>
+</edge>
+<edge source="AKPALEDLR" target="P02647">
+  <data key="d1">363379.0</data>
+</edge>
+<edge source="GYPGVQAPEDLEWER" target="P05060">
+  <data key="d1">64170.6</data>
+</edge>
+<edge source="C(UniMod_4)DSSPDSAEDVRK" target="P02765">
+  <data key="d1">5276.91</data>
+</edge>
+<edge source="LAVYQAGAR" target="P02649">
+  <data key="d1">743559.0</data>
+</edge>
+<edge source="C(UniMod_4)VC(UniMod_4)PVSNAMC(UniMod_4)R" target="Q12805">
+  <data key="d1">125995.0</data>
+</edge>
+<edge source="AQTTVTC(UniMod_4)MENGWSPTPR" target="P08603">
+  <data key="d1">19465.8</data>
+</edge>
+<edge source="KIYPTVNC(UniMod_4)QPLGMISLMK" target="P01042">
+  <data key="d1">247353.0</data>
+</edge>
+<edge source="AQC(UniMod_4)GGGLLGVR" target="P13611">
+  <data key="d1">11551.2</data>
+</edge>
+<edge source="C(UniMod_4)STSSLLEAC(UniMod_4)TFR" target="P02787">
+  <data key="d1">89925.1</data>
+</edge>
+<edge source="ATEHLSTLSEK" target="P02647">
+  <data key="d1">1125650.0</data>
+</edge>
+<edge source="TAKDALSSVQESQVAQQAR" target="P02656">
+  <data key="d1">77415.4</data>
+</edge>
+<edge source="FTQVTPTSLSAQWTPPNVQLTGYR" target="P02751">
+  <data key="d1">78203.5</data>
+</edge>
+<edge source="HGNVAEGETKPDPDVTER" target="P02790">
+  <data key="d1">6755.18</data>
+</edge>
+<edge source="TC(UniMod_4)VADESAENC(UniMod_4)DKSLHTLFGDK" target="P02768">
+  <data key="d1">116482.0</data>
+</edge>
+<edge source="SSGQWQTPGATR" target="P06681">
+  <data key="d1">36431.5</data>
+</edge>
+<edge source="SIDVAC(UniMod_4)HPGYALPK" target="P08603">
+  <data key="d1">84351.1</data>
+</edge>
+<edge source="WEAEPVYVQR" target="P25311">
+  <data key="d1">28873.1</data>
+</edge>
+<edge source="SC(UniMod_4)DTPPPC(UniMod_4)PR" target="P01860">
+  <data key="d1">375136.0</data>
+</edge>
+<edge source="LLC(UniMod_4)GLLAER" target="P14174">
+  <data key="d1">24339.7</data>
+</edge>
+<edge source="TTPPVLDSDGSFFLYSK" target="P01857">
+  <data key="d1">28774.9</data>
+</edge>
+<edge source="KREEAPSLRPAPPPISGGGYR" target="P02675">
+  <data key="d1">194872.0</data>
+</edge>
+<edge source="MNFRPGVLSSR" target="Q14624">
+  <data key="d1">146386.0</data>
+</edge>
+<edge source="DQTVSDNELQEMSNQGSK" target="P10909">
+  <data key="d1">1762790.0</data>
+</edge>
+<edge source="KAEEEHLGILGPQLHADVGDKVK" target="P00450">
+  <data key="d1">71005.4</data>
+</edge>
+<edge source="MDYPKQTQVSVLPEGGETPLFK" target="P06396">
+  <data key="d1">61946.2</data>
+</edge>
+<edge source="ASEGGFTATGQR" target="Q16610">
+  <data key="d1">16648.4</data>
+</edge>
+<edge source="LGADM(UniMod_35)EDVC(UniMod_4)GR" target="P02649">
+  <data key="d1">24826.0</data>
+</edge>
+<edge source="YPSLSIHGIEGAFDEPGTK" target="Q96KN2">
+  <data key="d1">120233.0</data>
+</edge>
+<edge source="RLGMFNIQHC(UniMod_4)K" target="P01009">
+  <data key="d1">736018.0</data>
+</edge>
+<edge source="NIGEFC(UniMod_4)GK" target="P00736">
+  <data key="d1">15630.4</data>
+</edge>
+<edge source="VTGVVLFR" target="P08294">
+  <data key="d1">303668.0</data>
+</edge>
+<edge source="WSGQTAIC(UniMod_4)DNGAGYC(UniMod_4)SNPGIPIGTR" target="P00751">
+  <data key="d1">14670.3</data>
+</edge>
+<edge source="YYC(UniMod_4)FQGNQFLR" target="P02790">
+  <data key="d1">445073.0</data>
+</edge>
+<edge source="LAARLEALKENGGAR" target="P02647">
+  <data key="d1">92078.9</data>
+</edge>
+<edge source="DMPASEDLQDLQK" target="P49908">
+  <data key="d1">22711.1</data>
+</edge>
+<edge source="STSSFPC(UniMod_4)PAGHFNGFR" target="Q08380">
+  <data key="d1">55987.9</data>
+</edge>
+<edge source="SLGEC(UniMod_4)C(UniMod_4)DVEDSTTC(UniMod_4)FNAK" target="P02774">
+  <data key="d1">303448.0</data>
+</edge>
+<edge source="KLVPFATELHER" target="P06727">
+  <data key="d1">17826.3</data>
+</edge>
+<edge source="LEAGDHPVELLAR" target="P09486">
+  <data key="d1">38520.0</data>
+</edge>
+<edge source="SEGSSVNLSPPLEQC(UniMod_4)VPDRGQQYQGR" target="P00734">
+  <data key="d1">112439.0</data>
+</edge>
+<edge source="NPDSSTTGPWC(UniMod_4)YTTDPTVR" target="P00734">
+  <data key="d1">2145.69</data>
+</edge>
+<edge source="HPDEAAFFDTASTGK" target="P02671">
+  <data key="d1">27145.7</data>
+</edge>
+<edge source="SLAPYAQDTQEK" target="P06727">
+  <data key="d1">17563.0</data>
+</edge>
+<edge source="GAAPPKQEFLDIEDP" target="P16035">
+  <data key="d1">37143.1</data>
+</edge>
+<edge source="NLREGTC(UniMod_4)PEAPTDEC(UniMod_4)KPVK" target="P02787">
+  <data key="d1">174237.0</data>
+</edge>
+<edge source="LIVHNGYC(UniMod_4)DGR" target="P02753">
+  <data key="d1">21565.0</data>
+</edge>
+<edge source="C(UniMod_4)IIEVLSNALSK" target="P05060">
+  <data key="d1">42875.4</data>
+</edge>
+<edge source="FEHC(UniMod_4)NFNDVTTR" target="P13987">
+  <data key="d1">126478.0</data>
+</edge>
+<edge source="MC(UniMod_4)PQLQQYEMHGPEGLR" target="P01023">
+  <data key="d1">117409.0</data>
+</edge>
+<edge source="FSC(UniMod_4)MC(UniMod_4)PQGYQVVR" target="Q12805">
+  <data key="d1">52578.3</data>
+</edge>
+<edge source="QINDYVEKGTQGK" target="P01009">
+  <data key="d1">133789.0</data>
+</edge>
+<edge source="GEAAGAVQELAR" target="Q9UHG2">
+  <data key="d1">78191.4</data>
+</edge>
+<edge source="GALQNIIPASTGAAK" target="P04406">
+  <data key="d1">13365.7</data>
+</edge>
+<edge source="SC(UniMod_4)VGETTESTQC(UniMod_4)EDEELEHLR" target="P10643">
+  <data key="d1">28672.0</data>
+</edge>
+<edge source="VHVSEEGTEPEAMLQVLGPKPALPAGTEDTAKEDAANRK" target="P06396">
+  <data key="d1">58126.2</data>
+</edge>
+<edge source="LMVELHNLYR" target="Q6UXB8">
+  <data key="d1">44858.2</data>
+</edge>
+<edge source="VYTVDLGR" target="P01833">
+  <data key="d1">3571980.0</data>
+</edge>
+<edge source="LDEVKEQVAEVR" target="P02649">
+  <data key="d1">20449.3</data>
+</edge>
+<edge source="YIETDPANR" target="P06396">
+  <data key="d1">101587.0</data>
+</edge>
+<edge source="SVPMVPPGIK" target="P51884">
+  <data key="d1">105449.0</data>
+</edge>
+<edge source="NILDRQDPPSVVVTSHQAPGEK" target="P25311">
+  <data key="d1">88153.0</data>
+</edge>
+<edge source="HQPQEFPTYVEPTNDEIC(UniMod_4)EAFRK" target="P02774">
+  <data key="d1">20031.4</data>
+</edge>
+<edge source="FDEFFSEGC(UniMod_4)APGSKK" target="P02787">
+  <data key="d1">93845.7</data>
+</edge>
+<edge source="M(UniMod_35)ELERPGGNEITR" target="P02671">
+  <data key="d1">185088.0</data>
+</edge>
+<edge source="C(UniMod_4)C(UniMod_4)ESASEDC(UniMod_4)MAKELPEHTVK" target="P02774">
+  <data key="d1">14496.2</data>
+</edge>
+<edge source="YGLVTYATYPK" target="P00751">
+  <data key="d1">157834.0</data>
+</edge>
+<edge source="TSAHGNVAEGETKPDPDVTER" target="P02790">
+  <data key="d1">66420.4</data>
+</edge>
+<edge source="DSGVPDRFSGSGSGTDFTLK" target="P06310">
+  <data key="d1">12222.1</data>
+</edge>
+<edge source="WQEEMELYR" target="P02647">
+  <data key="d1">428670.0</data>
+</edge>
+<edge source="LEPGQQEEYYR" target="P04180">
+  <data key="d1">9825.38</data>
+</edge>
+<edge source="AGALNSNDAFVLK" target="P06396">
+  <data key="d1">106423.0</data>
+</edge>
+<edge source="ALEYIENLR" target="P13521">
+  <data key="d1">55341.4</data>
+</edge>
+<edge source="NILTSNNIDVK" target="P05090">
+  <data key="d1">482894.0</data>
+</edge>
+<edge source="EGDMLTLFDGDGPSAR" target="Q6UXD5">
+  <data key="d1">25381.8</data>
+</edge>
+<edge source="SRGPGAPC(UniMod_4)QDVDEC(UniMod_4)AR" target="Q8N2S1">
+  <data key="d1">8754.85</data>
+</edge>
+<edge source="FTILDSQGK" target="Q9NYU2">
+  <data key="d1">112449.0</data>
+</edge>
+<edge source="VC(UniMod_4)PFAGILENGAVR" target="P02749">
+  <data key="d1">183231.0</data>
+</edge>
+<edge source="ASYGVKPR" target="P00751">
+  <data key="d1">8045.02</data>
+</edge>
+<edge source="KAADDTWEPFASGK" target="P02766">
+  <data key="d1">2818870.0</data>
+</edge>
+<edge source="AIGYLNTGYQR" target="P01023">
+  <data key="d1">190024.0</data>
+</edge>
+<edge source="VAHQLQALR" target="P10645">
+  <data key="d1">29088.7</data>
+</edge>
+<edge source="VSTLPAITLK" target="P07339">
+  <data key="d1">72662.8</data>
+</edge>
+<edge source="LHLDYIGPC(UniMod_4)K" target="P09486">
+  <data key="d1">30266.1</data>
+</edge>
+<edge source="GATLALTQVTPQDER" target="P43121">
+  <data key="d1">35894.9</data>
+</edge>
+<edge source="GSGGLNLGNFFASR" target="P19021">
+  <data key="d1">17672.5</data>
+</edge>
+<edge source="C(UniMod_4)FLAFTQTK" target="P05452">
+  <data key="d1">127497.0</data>
+</edge>
+<edge source="HTSVQTTSSGSGPFTDVR" target="P02751">
+  <data key="d1">46300.2</data>
+</edge>
+<edge source="LC(UniMod_4)MGSGLNLC(UniMod_4)EPNNKEGYYGYTGAFR" target="P02787">
+  <data key="d1">427871.0</data>
+</edge>
+<edge source="MMAVAADTLQR" target="Q96KN2">
+  <data key="d1">351700.0</data>
+</edge>
+<edge source="LLIYGATSR" target="P01621">
+  <data key="d1">218221.0</data>
+</edge>
+<edge source="SNAQGIDLNR" target="P16870">
+  <data key="d1">66967.7</data>
+</edge>
+<edge source="NWGLGGHAFC(UniMod_4)R" target="P00748">
+  <data key="d1">14534.7</data>
+</edge>
+<edge source="DGAGDVAFVK" target="P02787">
+  <data key="d1">743852.0</data>
+</edge>
+<edge source="TPLGDTTHTC(UniMod_4)PR" target="P01860">
+  <data key="d1">143791.0</data>
+</edge>
+<edge source="NANTFISPQQR" target="P08493">
+  <data key="d1">75887.3</data>
+</edge>
+<edge source="MPC(UniMod_4)AELVREPGC(UniMod_4)GC(UniMod_4)C(UniMod_4)SVC(UniMod_4)AR" target="P18065">
+  <data key="d1">50473.9</data>
+</edge>
+<edge source="KATEDEGSEQKIPEATNR" target="P01008">
+  <data key="d1">18210.1</data>
+</edge>
+<edge source="GLSAEPGWQAK" target="P10645">
+  <data key="d1">100310.0</data>
+</edge>
+<edge source="SC(UniMod_4)ESNSPFPVHPGTAEC(UniMod_4)C(UniMod_4)TK" target="P02774">
+  <data key="d1">309887.0</data>
+</edge>
+<edge source="AGKEPGLQIWR" target="P06396">
+  <data key="d1">267431.0</data>
+</edge>
+<edge source="DGGFC(UniMod_4)EVC(UniMod_4)K" target="P07602">
+  <data key="d1">24672.8</data>
+</edge>
+<edge source="LVNEVTEFAK" target="P02768">
+  <data key="d1">14522300.0</data>
+</edge>
+<edge source="C(UniMod_4)VDVDEC(UniMod_4)APPAEPC(UniMod_4)GK" target="P23142">
+  <data key="d1">47159.0</data>
+</edge>
+<edge source="FVVTDGGITR" target="P54289">
+  <data key="d1">22270.0</data>
+</edge>
+<edge source="MC(UniMod_4)VDVNEC(UniMod_4)QR" target="P23142">
+  <data key="d1">48207.5</data>
+</edge>
+<edge source="NLNEKDYELLC(UniMod_4)LDGTR" target="P02787">
+  <data key="d1">2048280.0</data>
+</edge>
+<edge source="GQEDASPDRFSNTDYAVGYMLR" target="P36222">
+  <data key="d1">43543.0</data>
+</edge>
+<edge source="IAPQLSTEELVSLGEK" target="P43652">
+  <data key="d1">79874.8</data>
+</edge>
+<edge source="LTASAPGYLAITK" target="P16870">
+  <data key="d1">24704.2</data>
+</edge>
+<edge source="AVC(UniMod_4)SQEAMTGPC(UniMod_4)R" target="Q06481">
+  <data key="d1">12435.6</data>
+</edge>
+<edge source="LLELTGPK" target="P04217">
+  <data key="d1">327747.0</data>
+</edge>
+<edge source="VVEESELAR" target="P02748">
+  <data key="d1">56534.0</data>
+</edge>
+<edge source="EVVSLTEAC(UniMod_4)C(UniMod_4)AEGADPDC(UniMod_4)YDTR" target="P02774">
+  <data key="d1">178524.0</data>
+</edge>
+<edge source="SGLSTGWTQLSK" target="P04217">
+  <data key="d1">160368.0</data>
+</edge>
+<edge source="LEEQAQQIR" target="P02649">
+  <data key="d1">30752.6</data>
+</edge>
+<edge source="KLYDYC(UniMod_4)DVPQC(UniMod_4)AAPSFDC(UniMod_4)GKPQVEPK" target="P00747">
+  <data key="d1">128401.0</data>
+</edge>
+<edge source="WKNFPSPVDAAFR" target="P02790">
+  <data key="d1">791813.0</data>
+</edge>
+<edge source="VKDLATVYVDVLK" target="P02647">
+  <data key="d1">456524.0</data>
+</edge>
+<edge source="EAEEHQETQC(UniMod_4)LR" target="Q99969">
+  <data key="d1">9649.66</data>
+</edge>
+<edge source="HGSPVDIC(UniMod_4)TAKPR" target="P01008">
+  <data key="d1">587403.0</data>
+</edge>
+<edge source="IPLNDLFR" target="P13473">
+  <data key="d1">111084.0</data>
+</edge>
+<edge source="EYC(UniMod_4)GVPGDGDEELLR" target="P02760">
+  <data key="d1">131136.0</data>
+</edge>
+<edge source="FDEFFSEGC(UniMod_4)APGSK" target="P02787">
+  <data key="d1">401933.0</data>
+</edge>
+<edge source="EDC(UniMod_4)NELPPRR" target="P08603">
+  <data key="d1">21956.0</data>
+</edge>
+<edge source="VEKPTADAEAYVFTPNMIC(UniMod_4)AGGEK" target="P09871">
+  <data key="d1">29909.2</data>
+</edge>
+<edge source="RPDSLQHVLLPVLDR" target="P00746">
+  <data key="d1">55508.8</data>
+</edge>
+<edge source="ISHELDSASSEVN" target="P10451">
+  <data key="d1">429826.0</data>
+</edge>
+<edge source="VFNTPEGVPSAPSSLK" target="Q92823">
+  <data key="d1">72227.4</data>
+</edge>
+<edge source="ITGYIIK" target="P02751">
+  <data key="d1">19916.0</data>
+</edge>
+<edge source="KTLLSNLEEAKK" target="P10909">
+  <data key="d1">451099.0</data>
+</edge>
+<edge source="TPVSDRVTK" target="P02768">
+  <data key="d1">1080970.0</data>
+</edge>
+<edge source="RVWELSK" target="P01008">
+  <data key="d1">171806.0</data>
+</edge>
+<edge source="FQPTLLTLPR" target="P05155">
+  <data key="d1">150364.0</data>
+</edge>
+<edge source="KVESELIKPINPR" target="P07225">
+  <data key="d1">24427.0</data>
+</edge>
+<edge source="DLLLPQPDLR" target="P02750">
+  <data key="d1">113999.0</data>
+</edge>
+<edge source="TMLLQPAGSLGSYSYR" target="P41222">
+  <data key="d1">21530900.0</data>
+</edge>
+<edge source="ILEVVNQIQDEER" target="O94919">
+  <data key="d1">26570.3</data>
+</edge>
+<edge source="C(UniMod_4)SYTEDAQC(UniMod_4)IDGTIEVPK" target="P02749">
+  <data key="d1">19842.1</data>
+</edge>
+<edge source="VGYVSGWGR" target="P00738">
+  <data key="d1">540244.0</data>
+</edge>
+<edge source="TEHLSTLSEK" target="P02647">
+  <data key="d1">140040.0</data>
+</edge>
+<edge source="LRTEGDGVYTLNNEKQWINK" target="P00738">
+  <data key="d1">22248.7</data>
+</edge>
+<edge source="DTDTGALLFIGK" target="P36955">
+  <data key="d1">172505.0</data>
+</edge>
+<edge source="C(UniMod_4)TSTGWIPAPR" target="P08603">
+  <data key="d1">160794.0</data>
+</edge>
+<edge source="HSTIFENLANK" target="P02787">
+  <data key="d1">151997.0</data>
+</edge>
+<edge source="NSWGEEWGMGGYVK" target="P07711">
+  <data key="d1">9575.51</data>
+</edge>
+<edge source="TVAAPSVFIFPPSDEQLK" target="P01834">
+  <data key="d1">1814520.0</data>
+</edge>
+<edge source="TVAAC(UniMod_4)NLPIVR" target="P02760">
+  <data key="d1">181582.0</data>
+</edge>
+<edge source="LC(UniMod_4)TVATLR" target="P02768">
+  <data key="d1">9431120.0</data>
+</edge>
+<edge source="DVQLVESGGGLVKPGGSLR" target="P01780">
+  <data key="d1">10840.5</data>
+</edge>
+<edge source="KYFIDFVAR" target="P01042">
+  <data key="d1">33117.6</data>
+</edge>
+<edge source="GRTC(UniMod_4)PKPDDLPFSTVVPLK" target="P02749">
+  <data key="d1">238688.0</data>
+</edge>
+<edge source="SC(UniMod_4)DNPYIPNGDYSPLR" target="P08603">
+  <data key="d1">17330.8</data>
+</edge>
+<edge source="VRGGEGTGYFVDFSVR" target="P04196">
+  <data key="d1">43473.7</data>
+</edge>
+<edge source="TALASGGVLDASGDYR" target="O43505">
+  <data key="d1">193626.0</data>
+</edge>
+<edge source="ETYGEMADC(UniMod_4)C(UniMod_4)AK" target="P02768">
+  <data key="d1">6491350.0</data>
+</edge>
+<edge source="LEGQEEEEDNRDSSMK" target="P10645">
+  <data key="d1">6343.28</data>
+</edge>
+<edge source="GNPEPTFSWTK" target="O00533">
+  <data key="d1">67843.7</data>
+</edge>
+<edge source="QDGSVDFGR" target="P02675">
+  <data key="d1">19745.8</data>
+</edge>
+<edge source="FLATTPNSLLVSWQPPR" target="P02751">
+  <data key="d1">107883.0</data>
+</edge>
+<edge source="AEFAEVSK" target="P02768">
+  <data key="d1">13850600.0</data>
+</edge>
+<edge source="MTVTDQVNC(UniMod_4)PK" target="P05090">
+  <data key="d1">824076.0</data>
+</edge>
+<edge source="QHMDSDSSPSSSSTYC(UniMod_4)NQMMR" target="P07998">
+  <data key="d1">190742.0</data>
+</edge>
+<edge source="GMDSC(UniMod_4)KGDSGGAFAVQDPNDKTK" target="P09871">
+  <data key="d1">17927.4</data>
+</edge>
+<edge source="AQPVQVAEGSEPDGFWEALGGK" target="P06396">
+  <data key="d1">176433.0</data>
+</edge>
+<edge source="SDVVYTDWK" target="P02763">
+  <data key="d1">302804.0</data>
+</edge>
+<edge source="TLYSSSPR" target="P05155">
+  <data key="d1">195036.0</data>
+</edge>
+<edge source="LAAC(UniMod_4)GPPPVAPPAAVAAVAGGAR" target="P18065">
+  <data key="d1">149501.0</data>
+</edge>
+<edge source="FYNQVSTPLLR" target="P19823">
+  <data key="d1">97973.0</data>
+</edge>
+<edge source="C(UniMod_4)YTAVVPLVYGGETK" target="P01591">
+  <data key="d1">14187.6</data>
+</edge>
+<edge source="NLAVSQVVHK" target="P01011">
+  <data key="d1">156575.0</data>
+</edge>
+<edge source="QGIPFFGQVR" target="P01023">
+  <data key="d1">93845.6</data>
+</edge>
+<edge source="SPMYSIITPNILR" target="P01024">
+  <data key="d1">308432.0</data>
+</edge>
+<edge source="LETPDFQLFK" target="P04217">
+  <data key="d1">385056.0</data>
+</edge>
+<edge source="QKWEAEPVYVQR" target="P25311">
+  <data key="d1">395701.0</data>
+</edge>
+<edge source="LLDSLPSDTR" target="P05155">
+  <data key="d1">209362.0</data>
+</edge>
+<edge source="TKKQELSEAEQATR" target="P01024">
+  <data key="d1">157816.0</data>
+</edge>
+<edge source="AVGDKLPEC(UniMod_4)EADDGC(UniMod_4)PKPPEIAHGYVEHSVR" target="P00738">
+  <data key="d1">41985.2</data>
+</edge>
+<edge source="LGVRPSQGGEAPR" target="P02751">
+  <data key="d1">97034.6</data>
+</edge>
+<edge source="DLLFKDSAHGFLK" target="P02787">
+  <data key="d1">119184.0</data>
+</edge>
+<edge source="HGGLYHENMR" target="P08603">
+  <data key="d1">43002.2</data>
+</edge>
+<edge source="LLC(UniMod_4)QC(UniMod_4)LGFGSGHFR" target="P02751">
+  <data key="d1">46088.4</data>
+</edge>
+<edge source="WSRPQAPITGYR" target="P02751">
+  <data key="d1">133145.0</data>
+</edge>
+<edge source="MADEAGSEADHEGTHSTKR" target="P02671">
+  <data key="d1">4354.82</data>
+</edge>
+<edge source="EAEEETTNDNGVLVLEPARK" target="P43121">
+  <data key="d1">7706.36</data>
+</edge>
+<edge source="ALEQDLPVNIK" target="Q96KN2">
+  <data key="d1">61096.0</data>
+</edge>
+<edge source="QEPERNEC(UniMod_4)FLQHKDDNPNLPR" target="P02768">
+  <data key="d1">8724850.0</data>
+</edge>
+<edge source="ITSWMEPIVK" target="Q96S96">
+  <data key="d1">28622.3</data>
+</edge>
+<edge source="AVSEKEVDSGNDIYGNPIKR" target="P16035">
+  <data key="d1">25287.1</data>
+</edge>
+<edge source="FSC(UniMod_4)FQEEAPQPHYQLR" target="Q16610">
+  <data key="d1">111322.0</data>
+</edge>
+<edge source="LGQSLDC(UniMod_4)NAEVYVVPWEK" target="P01042">
+  <data key="d1">70844.0</data>
+</edge>
+<edge source="GIVEEC(UniMod_4)C(UniMod_4)FR" target="P01344">
+  <data key="d1">121972.0</data>
+</edge>
+<edge source="QTVSWAVTPK" target="P01023">
+  <data key="d1">110751.0</data>
+</edge>
+<edge source="LLAGDHPIDLLLR" target="Q14515">
+  <data key="d1">179158.0</data>
+</edge>
+<edge source="GAQTQTEEEMTR" target="Q12841">
+  <data key="d1">6509.81</data>
+</edge>
+<edge source="C(UniMod_4)PNPPVQENFDVNK" target="P05090">
+  <data key="d1">366645.0</data>
+</edge>
+<edge source="ESLSSYWESAK" target="P02655">
+  <data key="d1">42682.9</data>
+</edge>
+<edge source="EGTC(UniMod_4)PEAPTDEC(UniMod_4)KPVK" target="P02787">
+  <data key="d1">232767.0</data>
+</edge>
+<edge source="TPLTATLSK" target="P01876">
+  <data key="d1">843757.0</data>
+</edge>
+<edge source="QHVVYGPWNLPQSSYSHLTR" target="Q16610">
+  <data key="d1">44694.3</data>
+</edge>
+<edge source="GEAGAPGEEDIQGPTK" target="P05060">
+  <data key="d1">112534.0</data>
+</edge>
+<edge source="NLQPASEYTVSLVAIKGNQESPK" target="P02751">
+  <data key="d1">35566.1</data>
+</edge>
+<edge source="NGFYPATR" target="P08603">
+  <data key="d1">86218.3</data>
+</edge>
+<edge source="DLLFRDDTVC(UniMod_4)LAK" target="P02787">
+  <data key="d1">280507.0</data>
+</edge>
+<edge source="YGLDSDLSC(UniMod_4)K" target="P36955">
+  <data key="d1">157292.0</data>
+</edge>
+<edge source="TQVNTQAEQLR" target="P06727">
+  <data key="d1">7106.81</data>
+</edge>
+<edge source="NTFAEVTGLSPGVTYYFK" target="P02751">
+  <data key="d1">22299.2</data>
+</edge>
+<edge source="SDVMYTDWKK" target="P19652">
+  <data key="d1">339935.0</data>
+</edge>
+<edge source="GLPAPIEK" target="P01859">
+  <data key="d1">2050220.0</data>
+</edge>
+<edge source="C(UniMod_4)VNHYGGYLC(UniMod_4)LPK" target="Q12805">
+  <data key="d1">58352.7</data>
+</edge>
+<edge source="SEGLLAC(UniMod_4)GTNAR" target="O75326">
+  <data key="d1">5570.01</data>
+</edge>
+<edge source="QRQEELC(UniMod_4)LAR" target="P02753">
+  <data key="d1">171491.0</data>
+</edge>
+<edge source="SPVGVQPILNEHTFC(UniMod_4)AGMSK" target="P00738">
+  <data key="d1">193522.0</data>
+</edge>
+<edge source="LSSWVLLMK" target="P01009">
+  <data key="d1">803555.0</data>
+</edge>
+<edge source="AKWEMPFDPQDTHQSR" target="P01011">
+  <data key="d1">104787.0</data>
+</edge>
+<edge source="TKEEYGHSEVVEYYC(UniMod_4)NPR" target="P08603">
+  <data key="d1">60703.8</data>
+</edge>
+<edge source="LLIYDASK" target="P01608">
+  <data key="d1">13295.6</data>
+</edge>
+<edge source="AGLQVYNK" target="P13987">
+  <data key="d1">107779.0</data>
+</edge>
+<edge source="GGTLGTPQTGSENDALYEYLR" target="P05452">
+  <data key="d1">77186.2</data>
+</edge>
+<edge source="SPELQAEAK" target="P02652">
+  <data key="d1">159128.0</data>
+</edge>
+<edge source="TYETTLEK" target="P02768">
+  <data key="d1">15539900.0</data>
+</edge>
+<edge source="MYYSAVDPTKDIFTGLIGPM(UniMod_35)K" target="P00450">
+  <data key="d1">17938.4</data>
+</edge>
+<edge source="NLHGDGIALWYTR" target="Q12907">
+  <data key="d1">23518.2</data>
+</edge>
+<edge source="GEVQAMLGQSTEELRVR" target="P02649">
+  <data key="d1">188022.0</data>
+</edge>
+<edge source="DPTFIPAPIQAK" target="P01019">
+  <data key="d1">297968.0</data>
+</edge>
+<edge source="KC(UniMod_4)STSSLLEAC(UniMod_4)TFR" target="P02787">
+  <data key="d1">487897.0</data>
+</edge>
+<edge source="IPTTFENGR" target="P05090">
+  <data key="d1">476033.0</data>
+</edge>
+<edge source="VPQVSTPTLVEVSR" target="P02768">
+  <data key="d1">3367060.0</data>
+</edge>
+<edge source="VFSNGADLSGVTEEAPLKLSK" target="P01009">
+  <data key="d1">794490.0</data>
+</edge>
+<edge source="WLPSSSPVTGYR" target="P02751">
+  <data key="d1">272288.0</data>
+</edge>
+<edge source="LKC(UniMod_4)DEWSVNSVGKIEC(UniMod_4)VSAETTEDC(UniMod_4)IAK" target="P02787">
+  <data key="d1">311209.0</data>
+</edge>
+<edge source="VEPLRAELQEGAR" target="P02647">
+  <data key="d1">292452.0</data>
+</edge>
+<edge source="LLEVPEGR" target="P09871">
+  <data key="d1">62285.1</data>
+</edge>
+<edge source="DSGFQM(UniMod_35)NQLR" target="P02787">
+  <data key="d1">67511.9</data>
+</edge>
+<edge source="GGETSEMYLIQPDSSVKPYR" target="P02675">
+  <data key="d1">49724.4</data>
+</edge>
+<edge source="ANRPFLVFIR" target="P01008">
+  <data key="d1">338421.0</data>
+</edge>
+<edge source="EQPPSLTR" target="P00748">
+  <data key="d1">21417.6</data>
+</edge>
+<edge source="AGAAAGGPGVSGVC(UniMod_4)VC(UniMod_4)K" target="Q16270">
+  <data key="d1">81028.4</data>
+</edge>
+<edge source="MDASLGNLFAR" target="Q92520">
+  <data key="d1">96098.4</data>
+</edge>
+<edge source="TFTLLDPK" target="Q96PD5">
+  <data key="d1">12772.6</data>
+</edge>
+<edge source="QTALVELVK" target="P02768">
+  <data key="d1">22539700.0</data>
+</edge>
+<edge source="LVGGPM(UniMod_35)DASVEEEGVRR" target="P01034">
+  <data key="d1">1822390.0</data>
+</edge>
+<edge source="IALVITDGR" target="P12109">
+  <data key="d1">31552.0</data>
+</edge>
+<edge source="FMQAVTGWK" target="P01019">
+  <data key="d1">128517.0</data>
+</edge>
+<edge source="YIFHNFMER" target="Q14624">
+  <data key="d1">19448.6</data>
+</edge>
+<edge source="NFGYTLR" target="P05546">
+  <data key="d1">16402.4</data>
+</edge>
+<edge source="DSGFQMNQLR" target="P02787">
+  <data key="d1">941384.0</data>
+</edge>
+<edge source="MGNFPWQVFTNIHGR" target="P00736">
+  <data key="d1">82217.2</data>
+</edge>
+<edge source="TLLSNLEEAKK" target="P10909">
+  <data key="d1">402707.0</data>
+</edge>
+<edge source="SLEDLQLTHNKITK" target="P51884">
+  <data key="d1">14934.4</data>
+</edge>
+<edge source="VNHVTLSQPK" target="P61769">
+  <data key="d1">334614.0</data>
+</edge>
+<edge source="EVVEEAENGR" target="P06454">
+  <data key="d1">24513.8</data>
+</edge>
+<edge source="YANC(UniMod_4)HLAR" target="P02787">
+  <data key="d1">90246.8</data>
+</edge>
+<edge source="VTIKPAPETEKRPQDAK" target="P01024">
+  <data key="d1">19784.6</data>
+</edge>
+<edge source="LSNENHGIAQR" target="P19823">
+  <data key="d1">6561.25</data>
+</edge>
+<edge source="EVPLNTIIFMGR" target="P01008">
+  <data key="d1">311706.0</data>
+</edge>
+<edge source="DQTVSDNELQEM(UniMod_35)SNQGSK" target="P10909">
+  <data key="d1">55198.4</data>
+</edge>
+<edge source="NSKFEDC(UniMod_4)C(UniMod_4)QEK" target="P02774">
+  <data key="d1">13483.6</data>
+</edge>
+<edge source="ALQDQLVLVAAK" target="P01019">
+  <data key="d1">189935.0</data>
+</edge>
+<edge source="TATSEYQTFFNPR" target="P00734">
+  <data key="d1">136570.0</data>
+</edge>
+<edge source="LLDNWDSVTSTFSK" target="P02647">
+  <data key="d1">1602400.0</data>
+</edge>
+<edge source="DKETC(UniMod_4)FAEEGKK" target="P02768">
+  <data key="d1">555145.0</data>
+</edge>
+<edge source="VHTEC(UniMod_4)C(UniMod_4)HGDLLEC(UniMod_4)ADDR" target="P02768">
+  <data key="d1">1320530.0</data>
+</edge>
+<edge source="TFHEASEDC(UniMod_4)ISR" target="P05452">
+  <data key="d1">92731.0</data>
+</edge>
+<edge source="TGDEITYQC(UniMod_4)R" target="P08603">
+  <data key="d1">126387.0</data>
+</edge>
+<edge source="LQDLYSIVR" target="P39060">
+  <data key="d1">19027.8</data>
+</edge>
+<edge source="DQC(UniMod_4)QVDSQC(UniMod_4)PGQMK" target="Q14508">
+  <data key="d1">5582.59</data>
+</edge>
+<edge source="HTFM(UniMod_35)GVVSLGSPSGEVSHPR" target="P02765">
+  <data key="d1">85219.2</data>
+</edge>
+<edge source="M(UniMod_35)YLGYEYVTAIR" target="P02787">
+  <data key="d1">393920.0</data>
+</edge>
+<edge source="LAAAVSNFGYDLYR" target="P36955">
+  <data key="d1">462234.0</data>
+</edge>
+<edge source="KQTALVELVK" target="P02768">
+  <data key="d1">2288380.0</data>
+</edge>
+<edge source="VMPIC(UniMod_4)LPSKDYAEVGR" target="P00738">
+  <data key="d1">355590.0</data>
+</edge>
+<edge source="NNEGTYYSPNYNPQSR" target="P00450">
+  <data key="d1">34932.8</data>
+</edge>
+<edge source="AATGEC(UniMod_4)TATVGKR" target="P01042">
+  <data key="d1">16801.2</data>
+</edge>
+<edge source="ALANSLAC(UniMod_4)QGK" target="P04075">
+  <data key="d1">9017.12</data>
+</edge>
+<edge source="SC(UniMod_4)DIPVFMNAR" target="P08603">
+  <data key="d1">214609.0</data>
+</edge>
+<edge source="TLLSNLEEAK" target="P10909">
+  <data key="d1">585867.0</data>
+</edge>
+<edge source="NVVYTC(UniMod_4)NEGYSLIGNPVAR" target="P10643">
+  <data key="d1">3140.47</data>
+</edge>
+<edge source="M(UniMod_35)VQEQC(UniMod_4)C(UniMod_4)HSQLEELHC(UniMod_4)ATGISLANEQDR" target="P23142">
+  <data key="d1">31092.3</data>
+</edge>
+<edge source="FNALQYLR" target="P51884">
+  <data key="d1">92663.9</data>
+</edge>
+<edge source="WGYC(UniMod_4)LEPK" target="P00748">
+  <data key="d1">21750.6</data>
+</edge>
+<edge source="VDNALQSGNSQESVTEQDSK" target="P01834">
+  <data key="d1">198015.0</data>
+</edge>
+<edge source="ALVQQMEQLR" target="P06727">
+  <data key="d1">123385.0</data>
+</edge>
+<edge source="GMADQDGLKPTIDKPSEDSPPLEMLGPR" target="P19827">
+  <data key="d1">41649.2</data>
+</edge>
+<edge source="LADGGATNQGRVEIFYR" target="Q08380">
+  <data key="d1">35534.6</data>
+</edge>
+<edge source="VTIPTDLIASSGDIIK" target="Q14118">
+  <data key="d1">91313.2</data>
+</edge>
+<edge source="PALEDLR" target="P02647">
+  <data key="d1">64988.7</data>
+</edge>
+<edge source="SYTITGLQPGTDYK" target="P02751">
+  <data key="d1">90673.8</data>
+</edge>
+<edge source="WYEIEKIPTTFENGR" target="P05090">
+  <data key="d1">1344580.0</data>
+</edge>
+<edge source="YLYEIAR" target="P02768">
+  <data key="d1">21209200.0</data>
+</edge>
+<edge source="LSPIYNLVPVK" target="P02748">
+  <data key="d1">47225.7</data>
+</edge>
+<edge source="AADDTWEPFASGK" target="P02766">
+  <data key="d1">7768440.0</data>
+</edge>
+<edge source="VYAC(UniMod_4)EVTHQGLSSPVTK" target="P01834">
+  <data key="d1">1294100.0</data>
+</edge>
+<edge source="YGFIEGHVVIPR" target="P16070">
+  <data key="d1">142568.0</data>
+</edge>
+<edge source="IGADFLAR" target="P17174">
+  <data key="d1">17046.3</data>
+</edge>
+<edge source="GSQTQSHPDLGTEGC(UniMod_4)WDQLSAPR" target="Q96PD5">
+  <data key="d1">50648.3</data>
+</edge>
+<edge source="YPNC(UniMod_4)AYR" target="P07998">
+  <data key="d1">116411.0</data>
+</edge>
+<edge source="VTSIQDWVQK" target="P00738">
+  <data key="d1">223950.0</data>
+</edge>
+<edge source="SLDFTELDVAAEK" target="P01019">
+  <data key="d1">57965.5</data>
+</edge>
+<edge source="QSTNAYPDLR" target="P07225">
+  <data key="d1">20708.7</data>
+</edge>
+<edge source="HSIFTPETNPR" target="P00747">
+  <data key="d1">45819.1</data>
+</edge>
+<edge source="APLIPMEHC(UniMod_4)TTR" target="P09486">
+  <data key="d1">44900.7</data>
+</edge>
+<edge source="LKEDAVSAAFK" target="P51884">
+  <data key="d1">24624.3</data>
+</edge>
+<edge source="FSGSLLGGK" target="P04211">
+  <data key="d1">47139.0</data>
+</edge>
+<edge source="M(UniMod_35)C(UniMod_4)PQLQQYEMHGPEGLR" target="P01023">
+  <data key="d1">113609.0</data>
+</edge>
+<edge source="IPVIEPSVPELVVKPGATVTLR" target="P07333">
+  <data key="d1">50734.1</data>
+</edge>
+<edge source="EPGLC(UniMod_4)TWQSLR" target="P01033">
+  <data key="d1">70217.9</data>
+</edge>
+<edge source="MFTTAPDQVDKEDEDFQESNK" target="P00450">
+  <data key="d1">49755.7</data>
+</edge>
+<edge source="VKDISEVVTPR" target="P00751">
+  <data key="d1">4657.51</data>
+</edge>
+<edge source="NSLFEYQK" target="P02671">
+  <data key="d1">37947.4</data>
+</edge>
+<edge source="QLKEHAVEGDC(UniMod_4)DFQLLKLDGK" target="P02765">
+  <data key="d1">62448.8</data>
+</edge>
+<edge source="HQTVPQNTGGKNPDPWAK" target="P02787">
+  <data key="d1">1490180.0</data>
+</edge>
+<edge source="MVQEQC(UniMod_4)C(UniMod_4)HSQLEELHC(UniMod_4)ATGISLANEQDR" target="P23142">
+  <data key="d1">58404.0</data>
+</edge>
+<edge source="SGSDEVQVGQQR" target="P01024">
+  <data key="d1">138917.0</data>
+</edge>
+<edge source="C(UniMod_4)FSGQC(UniMod_4)ISK" target="P10643">
+  <data key="d1">15174.4</data>
+</edge>
+<edge source="ADSGEGDFLAEGGGVR" target="P02671">
+  <data key="d1">42659.4</data>
+</edge>
+<edge source="HYEGSTVPEK" target="P00738">
+  <data key="d1">3479.24</data>
+</edge>
+<edge source="KDSGFQMNQLR" target="P02787">
+  <data key="d1">161370.0</data>
+</edge>
+<edge source="LFAC(UniMod_4)SNK" target="P06396">
+  <data key="d1">25642.5</data>
+</edge>
+<edge source="STGGISVPGPMGPSGPR" target="P02452">
+  <data key="d1">23874.7</data>
+</edge>
+<edge source="LGADMEDVC(UniMod_4)GR" target="P02649">
+  <data key="d1">45527.1</data>
+</edge>
+<edge source="EGQEC(UniMod_4)GVYTPNC(UniMod_4)APGLQC(UniMod_4)HPPKDDEAPLR" target="P24592">
+  <data key="d1">468416.0</data>
+</edge>
+<edge source="SGSAHEYSSSPDDAIFQSLAR" target="P16870">
+  <data key="d1">152041.0</data>
+</edge>
+<edge source="FLPSYQAVEYMR" target="P20933">
+  <data key="d1">27502.7</data>
+</edge>
+<edge source="NTEILTGSWSDQTYPEGTQAIYK" target="P08603">
+  <data key="d1">62374.3</data>
+</edge>
+<edge source="TINPAVDHC(UniMod_4)C(UniMod_4)K" target="P43652">
+  <data key="d1">2721.98</data>
+</edge>
+<edge source="KLSSWVLLMK" target="P01009">
+  <data key="d1">762016.0</data>
+</edge>
+<edge source="LRTEGDGVYTLNNEK" target="P00738">
+  <data key="d1">26472.6</data>
+</edge>
+<edge source="C(UniMod_4)LVEKGDVAFVK" target="P02787">
+  <data key="d1">237999.0</data>
+</edge>
+<edge source="ELLESYIDGR" target="P00734">
+  <data key="d1">44563.6</data>
+</edge>
+<edge source="DDKETC(UniMod_4)FAEEGKK" target="P02768">
+  <data key="d1">605754.0</data>
+</edge>
+<edge source="LHDRNTYEKYLGEEYVK" target="P02787">
+  <data key="d1">122593.0</data>
+</edge>
+<edge source="AKAYLEEEC(UniMod_4)PATLRK" target="P25311">
+  <data key="d1">41259.0</data>
+</edge>
+<edge source="ELDLNSVLLK" target="O00584">
+  <data key="d1">20802.1</data>
+</edge>
+<edge source="GSFAC(UniMod_4)QC(UniMod_4)PPGYQK" target="Q12805">
+  <data key="d1">83189.2</data>
+</edge>
+<edge source="KQINDYVEKGTQGK" target="P01009">
+  <data key="d1">24064.1</data>
+</edge>
+<edge source="AAFGQGSGPIMLDEVQC(UniMod_4)TGTEASLADC(UniMod_4)K" target="Q08380">
+  <data key="d1">78768.6</data>
+</edge>
+<edge source="QQTEWQSGQR" target="P02649">
+  <data key="d1">30136.4</data>
+</edge>
+<edge source="C(UniMod_4)REILSVDC(UniMod_4)STNNPSQAK" target="P10909">
+  <data key="d1">2980.39</data>
+</edge>
+<edge source="ADDLGKGGNEESTKTGNAGSR" target="P00441">
+  <data key="d1">45349.5</data>
+</edge>
+<edge source="IIGYVISNQQITPGPAYSNR" target="P31997">
+  <data key="d1">852276.0</data>
+</edge>
+<edge source="ELSSFIDKGQELC(UniMod_4)ADYSENTFTEYKK" target="P02774">
+  <data key="d1">44450.3</data>
+</edge>
+<edge source="SLAAAAGKQELAK" target="P61278">
+  <data key="d1">8122.63</data>
+</edge>
+<edge source="VPEARPNSMVVEHPEFLK" target="P06396">
+  <data key="d1">70699.6</data>
+</edge>
+<edge source="DC(UniMod_4)GSVDGVIKEVNVSPC(UniMod_4)PTQPC(UniMod_4)QLSK" target="P61916">
+  <data key="d1">40141.0</data>
+</edge>
+<edge source="RQEC(UniMod_4)SIPVC(UniMod_4)GQDQVTVAMTPR" target="P00734">
+  <data key="d1">113707.0</data>
+</edge>
+<edge source="MPYEC(UniMod_4)GPSLDVC(UniMod_4)AQDER" target="P10643">
+  <data key="d1">13613.2</data>
+</edge>
+<edge source="LVGGPMDASVEEEGVRR" target="P01034">
+  <data key="d1">17363000.0</data>
+</edge>
+<edge source="VHTEC(UniMod_4)C(UniMod_4)HGDLLEC(UniMod_4)ADDRADLAK" target="P02768">
+  <data key="d1">6170090.0</data>
+</edge>
+<edge source="QHM(UniMod_35)DSDSSPSSSSTYC(UniMod_4)NQMMR" target="P07998">
+  <data key="d1">8456.75</data>
+</edge>
+<edge source="FSVVYAK" target="P02765">
+  <data key="d1">405684.0</data>
+</edge>
+<edge source="SSQGGSLPSEEK" target="P05060">
+  <data key="d1">30907.3</data>
+</edge>
+<edge source="DSGEGDFLAEGGGVR" target="P02671">
+  <data key="d1">65106.5</data>
+</edge>
+<edge source="EVQPVELPNC(UniMod_4)NLVK" target="P27169">
+  <data key="d1">24938.9</data>
+</edge>
+<edge source="TVFGTEPDMIR" target="Q96KN2">
+  <data key="d1">74286.0</data>
+</edge>
+<edge source="VDSGNDVTDIADDGC(UniMod_4)PKPPEIAHGYVEHSVR" target="P00738">
+  <data key="d1">426756.0</data>
+</edge>
+<edge source="ALMSPAGMLR" target="O75144">
+  <data key="d1">53425.7</data>
+</edge>
+<edge source="VGGVQSLGGTGALR" target="P17174">
+  <data key="d1">8751.71</data>
+</edge>
+<edge source="GYQLSDVDGVTC(UniMod_4)EDIDEC(UniMod_4)ALPTGGHIC(UniMod_4)SYR" target="P23142">
+  <data key="d1">14318.0</data>
+</edge>
+<edge source="FTDSENVC(UniMod_4)QER" target="P43652">
+  <data key="d1">10797.9</data>
+</edge>
+<edge source="GPSVFPLAPSSK" target="P01857">
+  <data key="d1">2586860.0</data>
+</edge>
+<edge source="VNGSPVDNHPFAGDVVFPR" target="O00533">
+  <data key="d1">51608.0</data>
+</edge>
+<edge source="FLVNLVK" target="P43652">
+  <data key="d1">56081.6</data>
+</edge>
+<edge source="VPVAVQGEDTVQSLTQGDGVAK" target="P01024">
+  <data key="d1">92860.5</data>
+</edge>
+<edge source="THLAPYSDELRQR" target="P02647">
+  <data key="d1">912877.0</data>
+</edge>
+<edge source="AVDTWSWGER" target="Q08380">
+  <data key="d1">43353.8</data>
+</edge>
+<edge source="HPNVFGFC(UniMod_4)R" target="P04196">
+  <data key="d1">66618.1</data>
+</edge>
+<edge source="SVPPSASHVAPTETFTYEWTVPK" target="P00450">
+  <data key="d1">101598.0</data>
+</edge>
+<edge source="VLTPTQVK" target="P30086">
+  <data key="d1">38721.6</data>
+</edge>
+<edge source="M(UniMod_35)ADEAGSEADHEGTHSTKR" target="P02671">
+  <data key="d1">4517.78</data>
+</edge>
+<edge source="VLNQELR" target="P05090">
+  <data key="d1">2622040.0</data>
+</edge>
+<edge source="SPFEQHIK" target="Q92520">
+  <data key="d1">66357.2</data>
+</edge>
+<edge source="LEGEAC(UniMod_4)GVYTPR" target="P18065">
+  <data key="d1">74626.6</data>
+</edge>
+<edge source="NSVIKVPMMNSK" target="P05155">
+  <data key="d1">55691.6</data>
+</edge>
+<edge source="EIQNAVNGVK" target="P10909">
+  <data key="d1">148485.0</data>
+</edge>
+<edge source="EVGPTNADPVC(UniMod_4)LAK" target="P00450">
+  <data key="d1">238876.0</data>
+</edge>
+<edge source="VLDLSC(UniMod_4)NR" target="P08571">
+  <data key="d1">120225.0</data>
+</edge>
+<edge source="QKPDGVFQEDAPVIHQEMIGGLR" target="P01024">
+  <data key="d1">44059.1</data>
+</edge>
+<edge source="SILENLR" target="P02675">
+  <data key="d1">164349.0</data>
+</edge>
+<edge source="SYLSMVGSC(UniMod_4)C(UniMod_4)TSASPTVC(UniMod_4)FLKER" target="P02774">
+  <data key="d1">24842.6</data>
+</edge>
+<edge source="YTTEIIK" target="P00736">
+  <data key="d1">8881.04</data>
+</edge>
+<edge source="KPVEEYANC(UniMod_4)HLAR" target="P02787">
+  <data key="d1">380104.0</data>
+</edge>
+<edge source="SVLGQLGITK" target="P01009">
+  <data key="d1">4408410.0</data>
+</edge>
+<edge source="MYLGYEYVTAIR" target="P02787">
+  <data key="d1">3155980.0</data>
+</edge>
+<edge source="VSEADIQR" target="P05408">
+  <data key="d1">5844.1</data>
+</edge>
+<edge source="YWGVASFLQK" target="P02753">
+  <data key="d1">106811.0</data>
+</edge>
+<edge source="DTVIKPLLVEPEGLEK" target="P01023">
+  <data key="d1">53171.5</data>
+</edge>
+<edge source="VEPYGENFNK" target="P06727">
+  <data key="d1">12262.4</data>
+</edge>
+<edge source="KGGETSEMYLIQPDSSVKPYR" target="P02675">
+  <data key="d1">134176.0</data>
+</edge>
+<edge source="AKLEEQAQQIR" target="P02649">
+  <data key="d1">504769.0</data>
+</edge>
+<edge source="YAMVYGYNAAYNR" target="P08493">
+  <data key="d1">3940.93</data>
+</edge>
+<edge source="VLLDGVQNPR" target="P01024">
+  <data key="d1">56537.0</data>
+</edge>
+<edge source="LAC(UniMod_4)C(UniMod_4)VVGVC(UniMod_4)GPGLWER" target="P08294">
+  <data key="d1">83885.4</data>
+</edge>
+<edge source="IKPVFIEDANFGR" target="P54289">
+  <data key="d1">16821.4</data>
+</edge>
+<edge source="TGYYFDGISR" target="P23142">
+  <data key="d1">341474.0</data>
+</edge>
+<edge source="LLPAQLPAEKEVGPPLPQEAVPLQK" target="Q16610">
+  <data key="d1">56934.3</data>
+</edge>
+<edge source="IFSFDGKDVLR" target="P39060">
+  <data key="d1">24831.0</data>
+</edge>
+<edge source="LC(UniMod_4)MAALK" target="P02774">
+  <data key="d1">66228.3</data>
+</edge>
+<edge source="ATVNPSAPR" target="P08571">
+  <data key="d1">58218.4</data>
+</edge>
+<edge source="NIINSDGGPYVC(UniMod_4)R" target="O15394">
+  <data key="d1">12768.2</data>
+</edge>
+<edge source="YGQTIRPIC(UniMod_4)LPC(UniMod_4)TEGTTR" target="P00751">
+  <data key="d1">89813.0</data>
+</edge>
+<edge source="GEC(UniMod_4)WC(UniMod_4)VNPNTGK" target="P18065">
+  <data key="d1">44059.8</data>
+</edge>
+<edge source="SGNIPAGTTVDTK" target="Q9UKV8">
+  <data key="d1">105830.0</data>
+</edge>
+<edge source="THLGEALAPLSK" target="O15240">
+  <data key="d1">75576.8</data>
+</edge>
+<edge source="TFTC(UniMod_4)TAAYPESK" target="P01876">
+  <data key="d1">410568.0</data>
+</edge>
+<edge source="NTGIIC(UniMod_4)TIGPASR" target="P14618">
+  <data key="d1">54384.6</data>
+</edge>
+<edge source="SRYPVC(UniMod_4)GSDGTTYPSGC(UniMod_4)QLR" target="Q16270">
+  <data key="d1">258185.0</data>
+</edge>
+<edge source="ASVGQDSPEPR" target="Q6UX71">
+  <data key="d1">15390.4</data>
+</edge>
+<edge source="FKDLGEENFK" target="P02768">
+  <data key="d1">15483500.0</data>
+</edge>
+<edge source="SNSSM(UniMod_35)HITDC(UniMod_4)R" target="P07998">
+  <data key="d1">17425.4</data>
+</edge>
+<edge source="DLATVYVDVLK" target="P02647">
+  <data key="d1">162546.0</data>
+</edge>
+<edge source="SLHTLFGDK" target="P02768">
+  <data key="d1">2692590.0</data>
+</edge>
+<edge source="DC(UniMod_4)SLPYATESK" target="P23142">
+  <data key="d1">75763.1</data>
+</edge>
+<edge source="GLYDVVSVLR" target="O75144">
+  <data key="d1">41587.6</data>
+</edge>
+<edge source="KPALEDLR" target="P02647">
+  <data key="d1">25935.4</data>
+</edge>
+<edge source="NQEQVSPLTLLK" target="P08697">
+  <data key="d1">53817.5</data>
+</edge>
+<edge source="KLSENTDFLAPGVSSFTDSNQQESITK" target="Q14515">
+  <data key="d1">37878.7</data>
+</edge>
+<edge source="QINDYVEK" target="P01009">
+  <data key="d1">296532.0</data>
+</edge>
+<edge source="SDVVYTDWKK" target="P02763">
+  <data key="d1">1562230.0</data>
+</edge>
+<edge source="ELQQAVLHMEQR" target="Q02818">
+  <data key="d1">17643.2</data>
+</edge>
+<edge source="NSPLDEENLTQENQDR" target="P01011">
+  <data key="d1">31793.7</data>
+</edge>
+<edge source="TM(UniMod_35)QENSTPRED" target="P09871">
+  <data key="d1">13254.4</data>
+</edge>
+<edge source="DWHGVPGQVDAAMAGR" target="P04004">
+  <data key="d1">310951.0</data>
+</edge>
+<edge source="PPTSAHGNVAEGETKPDPDVTER" target="P02790">
+  <data key="d1">15850.8</data>
+</edge>
+<edge source="GLGEISAASEFK" target="P13591">
+  <data key="d1">57503.6</data>
+</edge>
+<edge source="KVTYTSQEDLVEKK" target="P05156">
+  <data key="d1">14894.3</data>
+</edge>
+<edge source="GSLVAPDR" target="P49588">
+  <data key="d1">11075.4</data>
+</edge>
+<edge source="DALSSVQESQVAQQAR" target="P02656">
+  <data key="d1">58119.3</data>
+</edge>
+<edge source="KPQSAVYSTGSNGILLC(UniMod_4)EAEGEPQPTIK" target="O00533">
+  <data key="d1">25530.0</data>
+</edge>
+<edge source="LSKELQAAQAR" target="P02649">
+  <data key="d1">743509.0</data>
+</edge>
+<edge source="TPSAAYLWVGTGASEAEK" target="P06396">
+  <data key="d1">91078.0</data>
+</edge>
+<edge source="TSLEDFYLDEER" target="P36955">
+  <data key="d1">73451.2</data>
+</edge>
+<edge source="LGPLVEQGRVR" target="P02649">
+  <data key="d1">60210.9</data>
+</edge>
+<edge source="ISYGNDALMPSLTETK" target="P05067">
+  <data key="d1">119474.0</data>
+</edge>
+<edge source="HRLEDMEQALSPSVFK" target="P05155">
+  <data key="d1">113207.0</data>
+</edge>
+<edge source="VGFYESDVMGR" target="P01023">
+  <data key="d1">221849.0</data>
+</edge>
+<edge source="QVVAGLNFR" target="P01042">
+  <data key="d1">123304.0</data>
+</edge>
+<edge source="GRPGPQPWC(UniMod_4)ATTPNFDQDQR" target="P00748">
+  <data key="d1">27410.9</data>
+</edge>
+<edge source="LQPLDFKENAEQSR" target="P01008">
+  <data key="d1">290690.0</data>
+</edge>
+<edge source="IPIEDGSGEVVLSRK" target="P01024">
+  <data key="d1">63406.9</data>
+</edge>
+<edge source="VKSPELQAEAK" target="P02652">
+  <data key="d1">492009.0</data>
+</edge>
+<edge source="EILSVDC(UniMod_4)STNNPSQAK" target="P10909">
+  <data key="d1">196214.0</data>
+</edge>
+<edge source="EDSLEAGLPLQVR" target="P10645">
+  <data key="d1">61157.2</data>
+</edge>
+<edge source="C(UniMod_4)C(UniMod_4)TESLVNR" target="P02768">
+  <data key="d1">2639490.0</data>
+</edge>
+<edge source="LKC(UniMod_4)DEWSVNSVGK" target="P02787">
+  <data key="d1">102297.0</data>
+</edge>
+<edge source="TSESGELHGLTTEEEFVEGIYK" target="P02766">
+  <data key="d1">358471.0</data>
+</edge>
+<edge source="EPQVYTLPPSRDELTK" target="P01857">
+  <data key="d1">561202.0</data>
+</edge>
+<edge source="SPVDIC(UniMod_4)TAKPR" target="P01008">
+  <data key="d1">23550.2</data>
+</edge>
+<edge source="ILLQGTPVAQMTEDAVDAER" target="P01024">
+  <data key="d1">240704.0</data>
+</edge>
+<edge source="SDDKVTLEER" target="P01024">
+  <data key="d1">13362.2</data>
+</edge>
+<edge source="KDSGFQM(UniMod_35)NQLR" target="P02787">
+  <data key="d1">8837.48</data>
+</edge>
+<edge source="VLSIAQAHSPAFSC(UniMod_4)EQVR" target="P08571">
+  <data key="d1">89375.0</data>
+</edge>
+<edge source="FSPATHPSEGLEENYC(UniMod_4)RNPDNDPQGPWC(UniMod_4)YTTDPEKR" target="P00747">
+  <data key="d1">31296.6</data>
+</edge>
+<edge source="NPC(UniMod_4)QDPYILTPENR" target="Q12805">
+  <data key="d1">195396.0</data>
+</edge>
+<edge source="HYTNPSQDVTVPC(UniMod_4)PVPPPPPC(UniMod_4)C(UniMod_4)HPR" target="P01877">
+  <data key="d1">51548.1</data>
+</edge>
+<edge source="GLVSWGNIPC(UniMod_4)GSK" target="Q92876">
+  <data key="d1">588372.0</data>
+</edge>
+<edge source="LGNQEPGGQTALK" target="P08697">
+  <data key="d1">44743.4</data>
+</edge>
+<edge source="APHGPGLIYR" target="P02765">
+  <data key="d1">87876.2</data>
+</edge>
+<edge source="FNKPFVFLM(UniMod_35)IEQNTK" target="P01009">
+  <data key="d1">152909.0</data>
+</edge>
+<edge source="ADLSGITGAR" target="P01011">
+  <data key="d1">329850.0</data>
+</edge>
+<edge source="ATFGC(UniMod_4)HDGYSLDGPEEIEC(UniMod_4)TK" target="P02749">
+  <data key="d1">161764.0</data>
+</edge>
+<edge source="LQSIGTENTEENRR" target="P04075">
+  <data key="d1">12969.7</data>
+</edge>
+<edge source="STNLHDYGMLLPC(UniMod_4)GIDK" target="P05067">
+  <data key="d1">9464.31</data>
+</edge>
+<edge source="LGC(UniMod_4)SLNQNSVPDIHGVEAPAR" target="Q14118">
+  <data key="d1">85625.1</data>
+</edge>
+<edge source="ISLPESLKR" target="P01024">
+  <data key="d1">22515.6</data>
+</edge>
+<edge source="KC(UniMod_4)SYTEDAQC(UniMod_4)IDGTIEVPK" target="P02749">
+  <data key="d1">51391.1</data>
+</edge>
+<edge source="VTLTC(UniMod_4)VAPLSGVDFQLR" target="P04217">
+  <data key="d1">61350.2</data>
+</edge>
+<edge source="HGPGLIYR" target="P02765">
+  <data key="d1">43354.4</data>
+</edge>
+<edge source="GSPAINVAVHVFRK" target="P02766">
+  <data key="d1">3059960.0</data>
+</edge>
+<edge source="DEPPQSPWDR" target="P02647">
+  <data key="d1">3426720.0</data>
+</edge>
+<edge source="IASFSQNC(UniMod_4)DIYPGKDFVQPPTK" target="P01042">
+  <data key="d1">257867.0</data>
+</edge>
+<edge source="VMTPAVYAPYDVK" target="O00533">
+  <data key="d1">58609.0</data>
+</edge>
+<edge source="AGLAASLAGPHSIVGR" target="P08294">
+  <data key="d1">96997.2</data>
+</edge>
+<edge source="TDASDVKPC(UniMod_4)" target="P02749">
+  <data key="d1">13205.0</data>
+</edge>
+<edge source="KQELSEAEQATR" target="P01024">
+  <data key="d1">68320.3</data>
+</edge>
+<edge source="LDIDSPPITAR" target="P14618">
+  <data key="d1">21254.1</data>
+</edge>
+<edge source="M(UniMod_35)LTPEHVFIHPGWK" target="P09871">
+  <data key="d1">14084.8</data>
+</edge>
+<edge source="M(UniMod_35)ASGAANVVGPK" target="Q92520">
+  <data key="d1">13023.2</data>
+</edge>
+<edge source="SLAELGGHLDQQVEEFRR" target="P06727">
+  <data key="d1">73018.2</data>
+</edge>
+<edge source="LLEELVR" target="Q99683">
+  <data key="d1">95520.7</data>
+</edge>
+<edge source="QYNVGPSVSKYPLR" target="P02751">
+  <data key="d1">38492.3</data>
+</edge>
+<edge source="TC(UniMod_4)VADESAENC(UniMod_4)DK" target="P02768">
+  <data key="d1">2893520.0</data>
+</edge>
+<edge source="SASLHLPK" target="P01009">
+  <data key="d1">332297.0</data>
+</edge>
+<edge source="RIPIEDGSGEVVLSRK" target="P01024">
+  <data key="d1">30784.4</data>
+</edge>
+<edge source="VDGALC(UniMod_4)MEK" target="P02790">
+  <data key="d1">176931.0</data>
+</edge>
+<edge source="SSGLVSNAPGVQIR" target="P04180">
+  <data key="d1">27972.6</data>
+</edge>
+<edge source="VAVVQYSGTGQQRPER" target="P12109">
+  <data key="d1">26505.9</data>
+</edge>
+<edge source="ELDESLQVAER" target="P10909">
+  <data key="d1">1110090.0</data>
+</edge>
+<edge source="RLEAGDHPVELLAR" target="P09486">
+  <data key="d1">29375.3</data>
+</edge>
+<edge source="IVSSAM(UniMod_35)EPDREYHFGQAVR" target="P08603">
+  <data key="d1">70340.4</data>
+</edge>
+<edge source="LC(UniMod_4)DNLSTK" target="P02774">
+  <data key="d1">101163.0</data>
+</edge>
+<edge source="GC(UniMod_4)PTEEGC(UniMod_4)GER" target="P10643">
+  <data key="d1">3628.17</data>
+</edge>
+<edge source="AAVYHHFISDGVR" target="P01024">
+  <data key="d1">33223.9</data>
+</edge>
+<edge source="VYC(UniMod_4)DMNTENGGWTVIQNR" target="P02675">
+  <data key="d1">73459.2</data>
+</edge>
+<edge source="ETLLQDFR" target="P02760">
+  <data key="d1">90813.4</data>
+</edge>
+<edge source="VAPDEHPILLTEAPLNPK" target="Q562R1">
+  <data key="d1">17438.6</data>
+</edge>
+<edge source="ITYGETGGNSPVQEFTVPGSK" target="P02751">
+  <data key="d1">8754.72</data>
+</edge>
+<edge source="SPAINVAVHVFR" target="P02766">
+  <data key="d1">96896.6</data>
+</edge>
+<edge source="VVEQMC(UniMod_4)ITQYER" target="P04156">
+  <data key="d1">345272.0</data>
+</edge>
+<edge source="ATEDEGSEQKIPEATNRR" target="P01008">
+  <data key="d1">11818.3</data>
+</edge>
+<edge source="EQLTPLIK" target="P02652">
+  <data key="d1">33751.8</data>
+</edge>
+<edge source="ALTDMPQMR" target="P02671">
+  <data key="d1">152611.0</data>
+</edge>
+<edge source="TGAQELLR" target="P06396">
+  <data key="d1">144758.0</data>
+</edge>
+<edge source="GINVALANGK" target="Q92520">
+  <data key="d1">67361.9</data>
+</edge>
+<edge source="KLSSWVLLM(UniMod_35)K" target="P01009">
+  <data key="d1">63892.1</data>
+</edge>
+<edge source="ILTC(UniMod_4)M(UniMod_35)QGMEEIR" target="Q8IWV7">
+  <data key="d1">78172.3</data>
+</edge>
+<edge source="IDQTVEELRR" target="P06727">
+  <data key="d1">29272.9</data>
+</edge>
+<edge source="GYHLNEEGTR" target="P23142">
+  <data key="d1">19070.4</data>
+</edge>
+<edge source="DLEDETLWVEER" target="P11277">
+  <data key="d1">92667.3</data>
+</edge>
+<edge source="AEAQEAEDQQAR" target="Q9UHG2">
+  <data key="d1">7884.17</data>
+</edge>
+<edge source="KLGQSLDC(UniMod_4)NAEVYVVPWEK" target="P01042">
+  <data key="d1">94418.8</data>
+</edge>
+<edge source="FTEC(UniMod_4)C(UniMod_4)QAADK" target="P02768">
+  <data key="d1">62214.4</data>
+</edge>
+<edge source="IYISGMAPR" target="P04004">
+  <data key="d1">49165.0</data>
+</edge>
+<edge source="AANEVSSADVK" target="Q13449">
+  <data key="d1">37075.1</data>
+</edge>
+<edge source="LSPEDYTLK" target="P07339">
+  <data key="d1">41750.8</data>
+</edge>
+<edge source="IIGYTPDLDPETVDDAFAR" target="P08253">
+  <data key="d1">23817.5</data>
+</edge>
+<edge source="RPGGEPSPEGTTGQSYNQYSQR" target="P02751">
+  <data key="d1">32070.6</data>
+</edge>
+<edge source="VDNALQSGNSQESVTEQDSKDSTYSLSSTLTLSK" target="P01834">
+  <data key="d1">146316.0</data>
+</edge>
+<edge source="RPC(UniMod_4)FSALEVDETYVPK" target="P02768">
+  <data key="d1">5172950.0</data>
+</edge>
+<edge source="AESPEVC(UniMod_4)FNEESPK" target="P43652">
+  <data key="d1">15804.4</data>
+</edge>
+<edge source="HGTC(UniMod_4)AAQVDALNSQKK" target="O00584">
+  <data key="d1">9650.4</data>
+</edge>
+<edge source="ISLPESLK" target="P01024">
+  <data key="d1">86064.5</data>
+</edge>
+<edge source="GIYGTISR" target="P01031">
+  <data key="d1">12890.3</data>
+</edge>
+<edge source="SKEFQLFSSPHGK" target="P02787">
+  <data key="d1">601062.0</data>
+</edge>
+<edge source="DTSC(UniMod_4)VNPPTVQNAYIVSR" target="P08603">
+  <data key="d1">116200.0</data>
+</edge>
+<edge source="ALYLQYTDETFR" target="P00450">
+  <data key="d1">29173.4</data>
+</edge>
+<edge source="IYISGMAPRPSLAK" target="P04004">
+  <data key="d1">58774.3</data>
+</edge>
+<edge source="QIGSVYR" target="P04196">
+  <data key="d1">20631.5</data>
+</edge>
+<edge source="YFIDFVAR" target="P01042">
+  <data key="d1">152037.0</data>
+</edge>
+<edge source="TM(UniMod_35)LLQPAGSLGSYSYR" target="P41222">
+  <data key="d1">1246010.0</data>
+</edge>
+<edge source="EALQGVGDMGR" target="P35542">
+  <data key="d1">53499.2</data>
+</edge>
+<edge source="VLLDQLR" target="Q9HDC9">
+  <data key="d1">463199.0</data>
+</edge>
+<edge source="LRENELTYYC(UniMod_4)C(UniMod_4)K" target="P13987">
+  <data key="d1">114071.0</data>
+</edge>
+<edge source="C(UniMod_4)LVNLIEK" target="P00751">
+  <data key="d1">42827.8</data>
+</edge>
+<edge source="SSNLIILEEHLK" target="P08603">
+  <data key="d1">23980.2</data>
+</edge>
+<edge source="KEC(UniMod_4)C(UniMod_4)EKPLLEK" target="P02768">
+  <data key="d1">979070.0</data>
+</edge>
+<edge source="LGMDGYR" target="P61626">
+  <data key="d1">2185.05</data>
+</edge>
+<edge source="SVIPSDGPSVAC(UniMod_4)VK" target="P02787">
+  <data key="d1">3528860.0</data>
+</edge>
+<edge source="ARAEAQEAEDQQAR" target="Q9UHG2">
+  <data key="d1">80542.0</data>
+</edge>
+<edge source="TFYSC(UniMod_4)TTEGR" target="P02751">
+  <data key="d1">14426.5</data>
+</edge>
+<edge source="YQC(UniMod_4)YC(UniMod_4)YGR" target="P02751">
+  <data key="d1">8153.72</data>
+</edge>
+<edge source="LDELRDEGK" target="P02768">
+  <data key="d1">3604240.0</data>
+</edge>
+<edge source="NVDGVNYASITR" target="Q9UBR2">
+  <data key="d1">14798.8</data>
+</edge>
+<edge source="SYELTQPPSVSVSPGQTAR" target="P01717">
+  <data key="d1">225358.0</data>
+</edge>
+<edge source="IWDVVEK" target="P01024">
+  <data key="d1">90377.6</data>
+</edge>
+<edge source="QLNEINYEDHK" target="P00751">
+  <data key="d1">6975.44</data>
+</edge>
+<edge source="VLEPTLK" target="P02774">
+  <data key="d1">903515.0</data>
+</edge>
+<edge source="ELSSFIDKGQELC(UniMod_4)ADYSENTFTEYK" target="P02774">
+  <data key="d1">3570.86</data>
+</edge>
+<edge source="SMEQNGPGLEYR" target="O00533">
+  <data key="d1">20672.7</data>
+</edge>
+<edge source="KLVGYLDR" target="P07602">
+  <data key="d1">72509.9</data>
+</edge>
+<edge source="AGC(UniMod_4)VAESTAVC(UniMod_4)R" target="Q9Y6R7">
+  <data key="d1">5127.26</data>
+</edge>
+<edge source="C(UniMod_4)LPVTAPENGK" target="P08603">
+  <data key="d1">21985.9</data>
+</edge>
+<edge source="KTLLSNLEEAK" target="P10909">
+  <data key="d1">370234.0</data>
+</edge>
+<edge source="SLPSEASEQYLTK" target="Q92823">
+  <data key="d1">82431.4</data>
+</edge>
+<edge source="VTAAPQSVC(UniMod_4)ALR" target="P01023">
+  <data key="d1">469196.0</data>
+</edge>
+<edge source="SC(UniMod_4)SPELQQK" target="P16152">
+  <data key="d1">186407.0</data>
+</edge>
+<edge source="FTFEYSR" target="P43652">
+  <data key="d1">94468.2</data>
+</edge>
+<edge source="LSPLGEEMR" target="P02647">
+  <data key="d1">854746.0</data>
+</edge>
+<edge source="EWVAIESDSVQPVPR" target="Q96KN2">
+  <data key="d1">53784.2</data>
+</edge>
+<edge source="VPEEDLKR" target="Q99832">
+  <data key="d1">24268.9</data>
+</edge>
+<edge source="SFNRGEC(UniMod_4)" target="P01834">
+  <data key="d1">20031.4</data>
+</edge>
+<edge source="AYKSELEEQLTPVAEETR" target="P02649">
+  <data key="d1">693868.0</data>
+</edge>
+<edge source="KASYLDC(UniMod_4)IR" target="P02787">
+  <data key="d1">482713.0</data>
+</edge>
+<edge source="LNMHMNVQNGKWDSDPSGTK" target="P05067">
+  <data key="d1">8420.13</data>
+</edge>
+<edge source="FLC(UniMod_4)TGGVSPYADPNTC(UniMod_4)R" target="P00751">
+  <data key="d1">21319.3</data>
+</edge>
+<edge source="LAPLAEDVR" target="P06727">
+  <data key="d1">99750.1</data>
+</edge>
+<edge source="IQPSGGTNINEALLR" target="P19823">
+  <data key="d1">26751.9</data>
+</edge>
+<edge source="DTINLLDQR" target="Q8NBJ4">
+  <data key="d1">26263.7</data>
+</edge>
+<edge source="ALFLETEQLK" target="Q13740">
+  <data key="d1">15898.5</data>
+</edge>
+<edge source="QLEWGLER" target="P13671">
+  <data key="d1">5506.2</data>
+</edge>
+<edge source="SWFEPLVEDM(UniMod_35)QR" target="P02649">
+  <data key="d1">40730.8</data>
+</edge>
+<edge source="IGDQWDKQHDMGHMMR" target="P02751">
+  <data key="d1">22125.9</data>
+</edge>
+<edge source="C(UniMod_4)QC(UniMod_4)DELC(UniMod_4)SYYQSC(UniMod_4)C(UniMod_4)TDYTAEC(UniMod_4)KPQVTR" target="P04004">
+  <data key="d1">20821.8</data>
+</edge>
+<edge source="HKVYAC(UniMod_4)EVTHQGLSSPVTK" target="P01834">
+  <data key="d1">405740.0</data>
+</edge>
+<edge source="NILTSNNIDVKK" target="P05090">
+  <data key="d1">56950.7</data>
+</edge>
+<edge source="NKPLFFADK" target="P08133">
+  <data key="d1">83209.6</data>
+</edge>
+<edge source="TVVQPSVGAAAGPVVPPC(UniMod_4)PGR" target="P02765">
+  <data key="d1">1079030.0</data>
+</edge>
+<edge source="SEYPSIK" target="P61916">
+  <data key="d1">69020.3</data>
+</edge>
+<edge source="FDGILGMAYPR" target="P07339">
+  <data key="d1">26492.6</data>
+</edge>
+<edge source="SFPTYC(UniMod_4)QQK" target="P05156">
+  <data key="d1">74592.3</data>
+</edge>
+<edge source="SVIPSDGPSVAC(UniMod_4)VKK" target="P02787">
+  <data key="d1">1696040.0</data>
+</edge>
+<edge source="FAEQDAK" target="Q13451">
+  <data key="d1">4259890.0</data>
+</edge>
+<edge source="LRENELTYYC(UniMod_4)C(UniMod_4)KK" target="P13987">
+  <data key="d1">109549.0</data>
+</edge>
+<edge source="YYTYLIMNK" target="P01024">
+  <data key="d1">30135.9</data>
+</edge>
+<edge source="DYVSQFEGSALGK" target="P02647">
+  <data key="d1">274606.0</data>
+</edge>
+<edge source="IC(UniMod_4)VGC(UniMod_4)PR" target="P01042">
+  <data key="d1">280768.0</data>
+</edge>
+<edge source="ALDFAVGEYNK" target="P01034">
+  <data key="d1">4466680.0</data>
+</edge>
+<edge source="IC(UniMod_4)LEDNVLM(UniMod_35)SGVK" target="Q92520">
+  <data key="d1">18531.0</data>
+</edge>
+<edge source="IMNGEADAMSLDGGFVYIAGK" target="P02787">
+  <data key="d1">151783.0</data>
+</edge>
+<edge source="TFYEPGEEITYSC(UniMod_4)KPGYVSR" target="P02749">
+  <data key="d1">479502.0</data>
+</edge>
+<edge source="TPEVTC(UniMod_4)VVVDVSHEDPEVK" target="P01857">
+  <data key="d1">390835.0</data>
+</edge>
+<edge source="VTEIWQEVMQR" target="P08294">
+  <data key="d1">142952.0</data>
+</edge>
+<edge source="QC(UniMod_4)VPTEPC(UniMod_4)EDAEDDC(UniMod_4)GNDFQC(UniMod_4)STGR" target="P02748">
+  <data key="d1">13788.5</data>
+</edge>
+<edge source="ALGISPFHEHAEVVFTANDSGPRR" target="P02766">
+  <data key="d1">1487630.0</data>
+</edge>
+<edge source="YLQEIYNSNNQK" target="P02679">
+  <data key="d1">38550.0</data>
+</edge>
+<edge source="C(UniMod_4)MC(UniMod_4)PAENPGC(UniMod_4)R" target="Q9UBX5">
+  <data key="d1">2122.37</data>
+</edge>
+<edge source="ATLGPAVRPLPWQR" target="P00746">
+  <data key="d1">34571.9</data>
+</edge>
+<edge source="C(UniMod_4)LAFEC(UniMod_4)PENYRR" target="P23142">
+  <data key="d1">106296.0</data>
+</edge>
+<edge source="SLNNQIETLLTPEGSR" target="P08123">
+  <data key="d1">23188.4</data>
+</edge>
+<edge source="NSLESYAFNMK" target="P11142">
+  <data key="d1">71058.7</data>
+</edge>
+<edge source="QWAGLVEK" target="P02649">
+  <data key="d1">253908.0</data>
+</edge>
+<edge source="KFPSGTFEQVSQLVK" target="P02774">
+  <data key="d1">8455.89</data>
+</edge>
+<edge source="TPLPPTSAHGNVAEGETKPDPDVTER" target="P02790">
+  <data key="d1">91940.6</data>
+</edge>
+<edge source="TNFDNDIALVR" target="P09871">
+  <data key="d1">76239.1</data>
+</edge>
+<edge source="GGSTSYGTGSETESPR" target="P02671">
+  <data key="d1">11063.1</data>
+</edge>
+<edge source="TEGDGVYTLNNEK" target="P00738">
+  <data key="d1">6417.14</data>
+</edge>
+<edge source="DVC(UniMod_4)KNYAEAK" target="P02768">
+  <data key="d1">84365.2</data>
+</edge>
+<edge source="GEVQAMLGQSTEELR" target="P02649">
+  <data key="d1">175190.0</data>
+</edge>
+<edge source="RELDESLQVAER" target="P10909">
+  <data key="d1">97178.5</data>
+</edge>
+<edge source="IC(UniMod_4)ANVFC(UniMod_4)GAGR" target="Q12841">
+  <data key="d1">24637.7</data>
+</edge>
+<edge source="VQAAVGTSAAPVPSDNH" target="P02649">
+  <data key="d1">149584.0</data>
+</edge>
+<edge source="ALPGTPVASSQPR" target="O14498">
+  <data key="d1">35444.3</data>
+</edge>
+<edge source="LGEVNTYAGDLQK" target="P06727">
+  <data key="d1">12872.0</data>
+</edge>
+<edge source="NKFDPSLTQR" target="P08697">
+  <data key="d1">27929.0</data>
+</edge>
+<edge source="STTPDITGYR" target="P02751">
+  <data key="d1">164308.0</data>
+</edge>
+<edge source="EFTRPEEIIFLR" target="P23142">
+  <data key="d1">72895.6</data>
+</edge>
+<edge source="VIAVNEVGR" target="O00533">
+  <data key="d1">110102.0</data>
+</edge>
+<edge source="SNSSMHITDC(UniMod_4)R" target="P07998">
+  <data key="d1">208178.0</data>
+</edge>
+<edge source="LGPLVEQGR" target="P02649">
+  <data key="d1">2688290.0</data>
+</edge>
+<edge source="HLDSVLQQLQTEVYR" target="P24592">
+  <data key="d1">712903.0</data>
+</edge>
+<edge source="DVLLEAC(UniMod_4)C(UniMod_4)ADGHR" target="P23142">
+  <data key="d1">188131.0</data>
+</edge>
+<edge source="HVLFGTVGVPEHTYR" target="P04216">
+  <data key="d1">81768.2</data>
+</edge>
+<edge source="YLGEEYVK" target="P02787">
+  <data key="d1">1672450.0</data>
+</edge>
+<edge source="GQSISVTSIRPC(UniMod_4)AAETQ" target="P10643">
+  <data key="d1">5080.04</data>
+</edge>
+<edge source="SKVPPPRDFHINLFR" target="P06681">
+  <data key="d1">37262.9</data>
+</edge>
+<edge source="SETKDLLFRDDTVC(UniMod_4)LAK" target="P02787">
+  <data key="d1">1362750.0</data>
+</edge>
+<edge source="LQSLFDSPDFSK" target="P36955">
+  <data key="d1">193470.0</data>
+</edge>
+<edge source="QALPQVR" target="Q99829">
+  <data key="d1">15563.0</data>
+</edge>
+<edge source="IGDTWSK" target="P02751">
+  <data key="d1">15706.9</data>
+</edge>
+<edge source="LC(UniMod_4)MGSGLNLC(UniMod_4)EPNNK" target="P02787">
+  <data key="d1">132804.0</data>
+</edge>
+<edge source="FLENEDR" target="P01009">
+  <data key="d1">30557.0</data>
+</edge>
+<edge source="YKAAFTEC(UniMod_4)C(UniMod_4)QAADK" target="P02768">
+  <data key="d1">2203520.0</data>
+</edge>
+<edge source="LYHSEAFTVNFGDTEEAKK" target="P01009">
+  <data key="d1">130014.0</data>
+</edge>
+<edge source="IC(UniMod_4)LEDNVLMSGVK" target="Q92520">
+  <data key="d1">172926.0</data>
+</edge>
+<edge source="DNWVFC(UniMod_4)GGK" target="Q92520">
+  <data key="d1">175358.0</data>
+</edge>
+<edge source="VC(UniMod_4)SQYAAYGEK" target="P02774">
+  <data key="d1">116997.0</data>
+</edge>
+<edge source="EPTMYGEILSPNYPQAYPSEVEK" target="P09871">
+  <data key="d1">33171.6</data>
+</edge>
+<edge source="RLPIGSYF" target="P20774">
+  <data key="d1">163338.0</data>
+</edge>
+<edge source="GLETSLAEC(UniMod_4)TFTK" target="P05156">
+  <data key="d1">27031.3</data>
+</edge>
+<edge source="LVDGKGVPIPNKVIFIR" target="P01023">
+  <data key="d1">14337.4</data>
+</edge>
+<edge source="VQPYLDDFQKK" target="P02647">
+  <data key="d1">468795.0</data>
+</edge>
+<edge source="AGLLRPDYALLGHR" target="Q96PD5">
+  <data key="d1">55788.4</data>
+</edge>
+<edge source="ALSIGFETC(UniMod_4)R" target="P16070">
+  <data key="d1">113871.0</data>
+</edge>
+<edge source="ADDKETC(UniMod_4)FAEEGKK" target="P02768">
+  <data key="d1">5654760.0</data>
+</edge>
+<edge source="ILGQQVPYATK" target="P36222">
+  <data key="d1">56425.5</data>
+</edge>
+<edge source="THPHFVIPYR" target="P05067">
+  <data key="d1">695371.0</data>
+</edge>
+<edge source="DGLKYHYLIR" target="P43652">
+  <data key="d1">31442.7</data>
+</edge>
+<edge source="GAQTLYVPNC(UniMod_4)DHR" target="P24592">
+  <data key="d1">67534.2</data>
+</edge>
+<edge source="IHWESASLLR" target="P01024">
+  <data key="d1">55428.2</data>
+</edge>
+<edge source="PIVTSPYQIHFTK" target="P01024">
+  <data key="d1">42122.7</data>
+</edge>
+<edge source="VQPYLDDFQK" target="P02647">
+  <data key="d1">190194.0</data>
+</edge>
+<edge source="TNTNVNC(UniMod_4)PIEC(UniMod_4)FMPLDVQADREDSRE" target="P02751">
+  <data key="d1">53785.5</data>
+</edge>
+<edge source="MKYWGVASFLQK" target="P02753">
+  <data key="d1">69293.8</data>
+</edge>
+<edge source="THLAPYSDELR" target="P02647">
+  <data key="d1">1165030.0</data>
+</edge>
+<edge source="EIGELYLPK" target="P01011">
+  <data key="d1">180399.0</data>
+</edge>
+<edge source="VHKEDDGVPVIC(UniMod_4)QVEHPAVTGNLQTQR" target="Q9BY67">
+  <data key="d1">40294.4</data>
+</edge>
+<edge source="LALLVDTVGPR" target="Q9Y646">
+  <data key="d1">21257.6</data>
+</edge>
+<edge source="ASNLESGVPSR" target="P01594">
+  <data key="d1">12313.6</data>
+</edge>
+<edge source="NFPPSQDASGDLYTTSSQLTLPATQC(UniMod_4)PDGK" target="P01877">
+  <data key="d1">19803.3</data>
+</edge>
+<edge source="KPAEDEWGK" target="P02792">
+  <data key="d1">19862.5</data>
+</edge>
+<edge source="DGGFC(UniMod_4)EVC(UniMod_4)KK" target="P07602">
+  <data key="d1">30271.5</data>
+</edge>
+<edge source="GYTQQLAFR" target="P01024">
+  <data key="d1">9049.92</data>
+</edge>
+<edge source="LFDSDPITVTVPVEVSR" target="P10909">
+  <data key="d1">335403.0</data>
+</edge>
+<edge source="TASDFITK" target="P06396">
+  <data key="d1">123782.0</data>
+</edge>
+<edge source="NRDHDTFLAVR" target="Q12907">
+  <data key="d1">8336.1</data>
+</edge>
+<edge source="LLRDPADASEAHESSSR" target="P05060">
+  <data key="d1">50828.3</data>
+</edge>
+<edge source="KSPELQAEAK" target="P02652">
+  <data key="d1">17929.6</data>
+</edge>
+<edge source="ATVVYQGER" target="P02749">
+  <data key="d1">247274.0</data>
+</edge>
+<edge source="ALGISPFHEHAEVVFTANDSGPR" target="P02766">
+  <data key="d1">2512450.0</data>
+</edge>
+<edge source="TGTTGQSGAESGTTEPSAR" target="Q7Z5P9">
+  <data key="d1">819064.0</data>
+</edge>
+<edge source="KNM(UniMod_35)FEFLK" target="Q9UNU6">
+  <data key="d1">18108.9</data>
+</edge>
+<edge source="TLVVHEKADDLGKGGNEESTK" target="P00441">
+  <data key="d1">29896.3</data>
+</edge>
+<edge source="MASGAANVVGPK" target="Q92520">
+  <data key="d1">202055.0</data>
+</edge>
+<edge source="YVMLPVADQDQC(UniMod_4)IR" target="P00738">
+  <data key="d1">331073.0</data>
+</edge>
+<edge source="YLFLNGNK" target="P02750">
+  <data key="d1">32533.0</data>
+</edge>
+<edge source="YVGGQEHFAHLLILR" target="P02763">
+  <data key="d1">3773410.0</data>
+</edge>
+<edge source="IYLYTLNDNAR" target="P02751">
+  <data key="d1">151307.0</data>
+</edge>
+<edge source="C(UniMod_4)LAFEC(UniMod_4)PENYR" target="P23142">
+  <data key="d1">13609.2</data>
+</edge>
+<edge source="KTSLEDFYLDEER" target="P36955">
+  <data key="d1">108006.0</data>
+</edge>
+<edge source="LVGGPMDASVEEEGVR" target="P01034">
+  <data key="d1">531863.0</data>
+</edge>
+<edge source="TPC(UniMod_4)QQELDQVLER" target="P18065">
+  <data key="d1">59983.9</data>
+</edge>
+<edge source="LQAEAFQAR" target="P02649">
+  <data key="d1">728428.0</data>
+</edge>
+<edge source="FNKNNEGTYYSPNYNPQSR" target="P00450">
+  <data key="d1">123105.0</data>
+</edge>
+<edge source="RLEGQEEEEDNRDSSMK" target="P10645">
+  <data key="d1">4323.82</data>
+</edge>
+<edge source="YHDRDVWKPEPC(UniMod_4)R" target="P02452">
+  <data key="d1">21082.2</data>
+</edge>
+<edge source="LVMGIPTFGR" target="P36222">
+  <data key="d1">225703.0</data>
+</edge>
+<edge source="SEALAVDGAGKPGAEEAQDPEGK" target="P10645">
+  <data key="d1">43382.0</data>
+</edge>
+<edge source="ILAGSADSEGVAAPR" target="Q9UHG2">
+  <data key="d1">202820.0</data>
+</edge>
+<edge source="WYFDVTEGK" target="P05067">
+  <data key="d1">76465.2</data>
+</edge>
+<edge source="PNHAVVTR" target="P02787">
+  <data key="d1">995.253</data>
+</edge>
+<edge source="GWVTDGFSSLK" target="P02656">
+  <data key="d1">38978.2</data>
+</edge>
+<edge source="EKLQDEDLGFL" target="P00751">
+  <data key="d1">25692.4</data>
+</edge>
+<edge source="TLKIENVSYQDKGNYR" target="O00533">
+  <data key="d1">17737.6</data>
+</edge>
+<edge source="QELSEAEQATR" target="P01024">
+  <data key="d1">6537.65</data>
+</edge>
+<edge source="DLGEENFK" target="P02768">
+  <data key="d1">1077540.0</data>
+</edge>
+<edge source="C(UniMod_4)C(UniMod_4)VEC(UniMod_4)PPC(UniMod_4)PAPPVAGPSVFLFPPKPK" target="P01859">
+  <data key="d1">969244.0</data>
+</edge>
+<edge source="C(UniMod_4)C(UniMod_4)AAADPHEC(UniMod_4)YAK" target="P02768">
+  <data key="d1">3851090.0</data>
+</edge>
+<edge source="KLC(UniMod_4)MAALK" target="P02774">
+  <data key="d1">81382.6</data>
+</edge>
+<edge source="SLGNVIMVC(UniMod_4)R" target="P08603">
+  <data key="d1">65986.6</data>
+</edge>
+<edge source="AQAGANTRPC(UniMod_4)PS" target="P98160">
+  <data key="d1">4710.67</data>
+</edge>
+<edge source="QSGLYFIKPLK" target="P02679">
+  <data key="d1">12874.7</data>
+</edge>
+<edge source="GSESGIFTNTK" target="P02671">
+  <data key="d1">23014.8</data>
+</edge>
+<edge source="GNQWVGYDDQESVK" target="P36222">
+  <data key="d1">14023.8</data>
+</edge>
+<edge source="LSINTHPSQKPLSITVR" target="P01024">
+  <data key="d1">467053.0</data>
+</edge>
+<edge source="WELALGR" target="P02649">
+  <data key="d1">451734.0</data>
+</edge>
+<edge source="C(UniMod_4)PNPPVQENFDVNKYLGR" target="P05090">
+  <data key="d1">1566810.0</data>
+</edge>
+<edge source="SELEEQLTPVAEETR" target="P02649">
+  <data key="d1">77801.5</data>
+</edge>
+<edge source="LVPPMEEDYPQFGSPK" target="P08697">
+  <data key="d1">61057.2</data>
+</edge>
+<edge source="GVALADFNR" target="Q9NQ79">
+  <data key="d1">14574.8</data>
+</edge>
+<edge source="LVDKFLEDVKK" target="P01009">
+  <data key="d1">442765.0</data>
+</edge>
+<edge source="AAFTEC(UniMod_4)C(UniMod_4)QAADK" target="P02768">
+  <data key="d1">6891890.0</data>
+</edge>
+<edge source="YIVSGTPTFVPYLIK" target="Q92823">
+  <data key="d1">24369.8</data>
+</edge>
+<edge source="C(UniMod_4)AEENC(UniMod_4)FIQK" target="P01024">
+  <data key="d1">26685.1</data>
+</edge>
+<edge source="IEIPSSVQQVPTIIK" target="O00533">
+  <data key="d1">161038.0</data>
+</edge>
+<edge source="SIVVSPILIPENQR" target="P55290">
+  <data key="d1">32562.7</data>
+</edge>
+<edge source="FMETVAEK" target="P10909">
+  <data key="d1">2005750.0</data>
+</edge>
+<edge source="VASYGVKPR" target="P00751">
+  <data key="d1">6901.27</data>
+</edge>
+<edge source="C(UniMod_4)LVEKGDVAFVKHQTVPQNTGGK" target="P02787">
+  <data key="d1">45165.6</data>
+</edge>
+<edge source="KYLYEIAR" target="P02768">
+  <data key="d1">1420870.0</data>
+</edge>
+<edge source="SGIEC(UniMod_4)QLWR" target="P00734">
+  <data key="d1">115331.0</data>
+</edge>
+<edge source="C(UniMod_4)KPVNTFVHEPLVDVQNVC(UniMod_4)FQEK" target="P07998">
+  <data key="d1">16822.9</data>
+</edge>
+<edge source="TPC(UniMod_4)TVSC(UniMod_4)NIPVVSGKEC(UniMod_4)EEIIR" target="P02675">
+  <data key="d1">31576.7</data>
+</edge>
+<edge source="DDNPNLPR" target="P02768">
+  <data key="d1">3138480.0</data>
+</edge>
+<edge source="ASHEEVEGLVEK" target="Q08380">
+  <data key="d1">22643.9</data>
+</edge>
+<edge source="LVGYLDR" target="P07602">
+  <data key="d1">524475.0</data>
+</edge>
+<edge source="AVISPGFDVFAK" target="P06681">
+  <data key="d1">22060.2</data>
+</edge>
+<edge source="AYQGVAAPFPK" target="O15240">
+  <data key="d1">156347.0</data>
+</edge>
+<edge source="SFQTGLFTAAR" target="P07225">
+  <data key="d1">59211.2</data>
+</edge>
+<edge source="AGDFLEANYMNLQR" target="P01024">
+  <data key="d1">118472.0</data>
+</edge>
+<edge source="FQSVFTVTR" target="P02747">
+  <data key="d1">97959.9</data>
+</edge>
+<edge source="YPGPQAEGDSEGLSQGLVDREK" target="P10645">
+  <data key="d1">206747.0</data>
+</edge>
+<edge source="MELERPGGNEITR" target="P02671">
+  <data key="d1">202611.0</data>
+</edge>
+<edge source="LSYTC(UniMod_4)EGGFR" target="P08603">
+  <data key="d1">16934.2</data>
+</edge>
+<edge source="QGVNDNEEGFFSAR" target="P02675">
+  <data key="d1">94979.6</data>
+</edge>
+<edge source="SPQGLGAFTPVVR" target="Q13332">
+  <data key="d1">22987.4</data>
+</edge>
+<edge source="LC(UniMod_4)QDLGPGAFR" target="P08697">
+  <data key="d1">58459.9</data>
+</edge>
+<edge source="AYLEEEC(UniMod_4)PATLR" target="P25311">
+  <data key="d1">162173.0</data>
+</edge>
+<edge source="TMSEVGGSVEDLIAK" target="P07339">
+  <data key="d1">35866.6</data>
+</edge>
+<edge source="TMQALPYSTVGNSNNYLHLSVLR" target="P01024">
+  <data key="d1">39434.2</data>
+</edge>
+<edge source="EIVLTQSPATLSLSPGER" target="P04433">
+  <data key="d1">409706.0</data>
+</edge>
+<edge source="LGMFNIQHC(UniMod_4)K" target="P01009">
+  <data key="d1">1394600.0</data>
+</edge>
+<edge source="KVPQVSTPTLVEVSR" target="P02768">
+  <data key="d1">69792000.0</data>
+</edge>
+<edge source="SGINC(UniMod_4)PIQK" target="P61916">
+  <data key="d1">77633.3</data>
+</edge>
+<edge source="LPYTASSGLMAPR" target="Q15904">
+  <data key="d1">44839.3</data>
+</edge>
+<edge source="VPFDAATLHTSTAMAAQHGMDDDGTGQK" target="P06396">
+  <data key="d1">84697.1</data>
+</edge>
+<edge source="QFTSSTSYNR" target="P02671">
+  <data key="d1">5487.23</data>
+</edge>
+<edge source="YVM(UniMod_35)LPVADQDQC(UniMod_4)IR" target="P00738">
+  <data key="d1">27448.4</data>
+</edge>
+<edge source="SDVMYTDWK" target="P19652">
+  <data key="d1">144517.0</data>
+</edge>
+<edge source="PTLVEVSR" target="P02768">
+  <data key="d1">5126730.0</data>
+</edge>
+<edge source="YVNKEIQNAVNGVK" target="P10909">
+  <data key="d1">125107.0</data>
+</edge>
+<edge source="VRQGQGQSEPGEYEQR" target="P43121">
+  <data key="d1">9037.22</data>
+</edge>
+<edge source="ASQSVSSYLAWYQQKPGQAPR" target="P04433">
+  <data key="d1">44522.0</data>
+</edge>
+<edge source="HTFMGVVSLGSPSGEVSHPR" target="P02765">
+  <data key="d1">1072260.0</data>
+</edge>
+<edge source="QALNTDYLDSDYQR" target="O94919">
+  <data key="d1">12757.0</data>
+</edge>
+<edge source="LSITGTYDLK" target="P01009">
+  <data key="d1">3072330.0</data>
+</edge>
+<edge source="LGPGMADIC(UniMod_4)K" target="P07602">
+  <data key="d1">115181.0</data>
+</edge>
+<edge source="ESLQQMAEVTR" target="P14314">
+  <data key="d1">11326.6</data>
+</edge>
+<edge source="LSSWVLLM(UniMod_35)K" target="P01009">
+  <data key="d1">72479.5</data>
+</edge>
+<edge source="QTHQPPAPNSLIR" target="P02747">
+  <data key="d1">48947.4</data>
+</edge>
+<edge source="MATLYSR" target="P41222">
+  <data key="d1">18185900.0</data>
+</edge>
+<edge source="IVQIYKDLLR" target="P43652">
+  <data key="d1">25872.9</data>
+</edge>
+<edge source="VVVNFAPTIQEIK" target="Q7Z3B1">
+  <data key="d1">88957.6</data>
+</edge>
+<edge source="C(UniMod_4)NLLAEK" target="P02765">
+  <data key="d1">81545.7</data>
+</edge>
+<edge source="DYFMPC(UniMod_4)PGR" target="P02790">
+  <data key="d1">871867.0</data>
+</edge>
+<edge source="QTQVSVLPEGGETPLFK" target="P06396">
+  <data key="d1">344179.0</data>
+</edge>
+<edge source="EHVAHLLFLR" target="P19652">
+  <data key="d1">535691.0</data>
+</edge>
+<edge source="AIQLTYNPDESSKPNMIDAATLK" target="P02679">
+  <data key="d1">69560.3</data>
+</edge>
+<edge source="LYQQHGAGLFDVTR" target="O14773">
+  <data key="d1">5014.05</data>
+</edge>
+<edge source="ADRDQYELLC(UniMod_4)LDNTR" target="P02787">
+  <data key="d1">493353.0</data>
+</edge>
+<edge source="DFADIPNLR" target="P20774">
+  <data key="d1">84128.7</data>
+</edge>
+<edge source="AELQC(UniMod_4)PQPAA" target="P01024">
+  <data key="d1">77116.0</data>
+</edge>
+<edge source="KMTVTDQVNC(UniMod_4)PK" target="P05090">
+  <data key="d1">189290.0</data>
+</edge>
+<edge source="RNTEILTGSWSDQTYPEGTQAIYK" target="P08603">
+  <data key="d1">8497.0</data>
+</edge>
+<edge source="SC(UniMod_4)DKTHTC(UniMod_4)PPC(UniMod_4)PAPELLGGPSVFLFPPKPK" target="P01857">
+  <data key="d1">1827250.0</data>
+</edge>
+<edge source="HNC(UniMod_4)MENSIC(UniMod_4)R" target="Q99435">
+  <data key="d1">1168.24</data>
+</edge>
+<edge source="FFLC(UniMod_4)QVAGDAK" target="P13591">
+  <data key="d1">58769.9</data>
+</edge>
+<edge source="IEKVEHSDLSFSK" target="P61769">
+  <data key="d1">46318.7</data>
+</edge>
+<edge source="IFFYDSENPPASEVLR" target="P27169">
+  <data key="d1">23580.9</data>
+</edge>
+<edge source="LYGSEAFATDFQDSAAAK" target="P01011">
+  <data key="d1">116969.0</data>
+</edge>
+<edge source="SNVSDAVAQSTR" target="P60174">
+  <data key="d1">9417.38</data>
+</edge>
+<edge source="ALSSEWKPEIR" target="P13591">
+  <data key="d1">58226.9</data>
+</edge>
+<edge source="VFQEPLFYEAPR" target="P07711">
+  <data key="d1">27927.3</data>
+</edge>
+<edge source="VMDKYTFELSR" target="P02774">
+  <data key="d1">461773.0</data>
+</edge>
+<edge source="AQTTVTC(UniMod_4)M(UniMod_35)ENGWSPTPR" target="P08603">
+  <data key="d1">12711.6</data>
+</edge>
+<edge source="EFQLFSSPHGK" target="P02787">
+  <data key="d1">342788.0</data>
+</edge>
+<edge source="NPDPWAK" target="P02787">
+  <data key="d1">372702.0</data>
+</edge>
+<edge source="QQETAAAETETR" target="O15240">
+  <data key="d1">2671.59</data>
+</edge>
+<edge source="FTNIGPDTMR" target="P02751">
+  <data key="d1">204282.0</data>
+</edge>
+<edge source="THLPEVFLSK" target="P02774">
+  <data key="d1">156184.0</data>
+</edge>
+<edge source="TQSSLVPALTDFVR" target="O60888">
+  <data key="d1">136307.0</data>
+</edge>
+<edge source="VPMMSDPK" target="P36955">
+  <data key="d1">49211.6</data>
+</edge>
+<edge source="APEAQVSVQPNFQQDK" target="P41222">
+  <data key="d1">2750230.0</data>
+</edge>
+<edge source="SASDLTWDNLK" target="P02787">
+  <data key="d1">982515.0</data>
+</edge>
+<edge source="ATWSGAVLAGR" target="P04217">
+  <data key="d1">225615.0</data>
+</edge>
+<edge source="ASGSPEPAISWFR" target="O15394">
+  <data key="d1">23026.6</data>
+</edge>
+<edge source="SGELEQEEER" target="P10645">
+  <data key="d1">85404.7</data>
+</edge>
+<edge source="RLYGSEAFATDFQDSAAAK" target="P01011">
+  <data key="d1">49035.2</data>
+</edge>
+<edge source="QQLVETHMAR" target="P05067">
+  <data key="d1">3257.96</data>
+</edge>
+<edge source="AQGFTEDTIVFLPQTDK" target="P41222">
+  <data key="d1">10910000.0</data>
+</edge>
+<edge source="SSPVVIDASTAIDAPSNLR" target="P02751">
+  <data key="d1">149441.0</data>
+</edge>
+<edge source="KQINDYVEK" target="P01009">
+  <data key="d1">12101.3</data>
+</edge>
+<edge source="QPSSAFAAFVK" target="P01024">
+  <data key="d1">25993.2</data>
+</edge>
+<edge source="VTTVASHTSDSDVPSGVTEVVVK" target="P10909">
+  <data key="d1">3022500.0</data>
+</edge>
+<edge source="INHC(UniMod_4)RFDEFFSEGC(UniMod_4)APGSKK" target="P02787">
+  <data key="d1">465943.0</data>
+</edge>
+<edge source="DIPMNPMC(UniMod_4)IYR" target="P01008">
+  <data key="d1">610690.0</data>
+</edge>
+<edge source="ASYLDC(UniMod_4)IR" target="P02787">
+  <data key="d1">1979430.0</data>
+</edge>
+<edge source="GNSYFMVEVK" target="Q96KN2">
+  <data key="d1">21351.6</data>
+</edge>
+<edge source="C(UniMod_4)LAPLEGAR" target="P04217">
+  <data key="d1">68876.5</data>
+</edge>
+<edge source="VHVSEEGTEPEAMLQVLGPKPALPAGTEDTAKEDAANR" target="P06396">
+  <data key="d1">16049.1</data>
+</edge>
+<edge source="ANAGKPKDPTFIPAPIQAK" target="P01019">
+  <data key="d1">425148.0</data>
+</edge>
+<edge source="FSALEVDETYVPK" target="P02768">
+  <data key="d1">176082.0</data>
+</edge>
+<edge source="VTEPISAESGEQVER" target="O14791">
+  <data key="d1">2152.87</data>
+</edge>
+<edge source="TQVNTQAEQLRR" target="P06727">
+  <data key="d1">35143.7</data>
+</edge>
+<edge source="GDFSSANNRDNTYNR" target="P02671">
+  <data key="d1">22971.8</data>
+</edge>
+<edge source="SLGSPSGEVSHPR" target="P02765">
+  <data key="d1">72321.3</data>
+</edge>
+<edge source="RGEQC(UniMod_4)VDIDEC(UniMod_4)TIPPYC(UniMod_4)HQR" target="Q12805">
+  <data key="d1">237640.0</data>
+</edge>
+<edge source="DGWSAQPTC(UniMod_4)IK" target="P08603">
+  <data key="d1">51271.5</data>
+</edge>
+<edge source="RTHLPEVFLSK" target="P02774">
+  <data key="d1">126.652</data>
+</edge>
+<edge source="TVQAVLTVPK" target="P36955">
+  <data key="d1">114314.0</data>
+</edge>
+<edge source="FLENEDRR" target="P01009">
+  <data key="d1">27101.4</data>
+</edge>
+<edge source="QYTDSTFRVPVER" target="P00450">
+  <data key="d1">30165.3</data>
+</edge>
+<edge source="AATVGSLAGQPLQER" target="P02649">
+  <data key="d1">50109.2</data>
+</edge>
+<edge source="LVWEEAMSR" target="Q16610">
+  <data key="d1">55410.9</data>
+</edge>
+<edge source="LSELIQPLPLER" target="Q92876">
+  <data key="d1">200746.0</data>
+</edge>
+<edge source="SASDLTWDNLKGK" target="P02787">
+  <data key="d1">51189.9</data>
+</edge>
+<edge source="ADQVC(UniMod_4)INLR" target="Q12805">
+  <data key="d1">159265.0</data>
+</edge>
+<edge source="LPPTSAHGNVAEGETKPDPDVTER" target="P02790">
+  <data key="d1">101044.0</data>
+</edge>
+<edge source="TFISPIK" target="P01024">
+  <data key="d1">282971.0</data>
+</edge>
+<edge source="GLEFLSVPSTYYK" target="P32754">
+  <data key="d1">131033.0</data>
+</edge>
+<edge source="VAAGAFQGLR" target="P02750">
+  <data key="d1">156312.0</data>
+</edge>
+<edge source="FAALDNEEEDK" target="Q8NE71">
+  <data key="d1">13017.7</data>
+</edge>
+<edge source="HQFLLTGDTQGR" target="P04217">
+  <data key="d1">120993.0</data>
+</edge>
+<edge source="HVEPGEPLAPSPQEPQAVGR" target="Q99674">
+  <data key="d1">18641.2</data>
+</edge>
+<edge source="EGYYGYTGAFR" target="P02787">
+  <data key="d1">444518.0</data>
+</edge>
+<edge source="IEC(UniMod_4)VSAETTEDC(UniMod_4)IAK" target="P02787">
+  <data key="d1">200760.0</data>
+</edge>
+<edge source="ESAYLYAR" target="P20774">
+  <data key="d1">92746.7</data>
+</edge>
+<edge source="GVASLFAGR" target="Q9NQ79">
+  <data key="d1">22251.6</data>
+</edge>
+<edge source="GATTSPGVYELSSR" target="Q9Y6R7">
+  <data key="d1">12825.9</data>
+</edge>
+<edge source="C(UniMod_4)LKDGAGDVAFVK" target="P02787">
+  <data key="d1">250086.0</data>
+</edge>
+<edge source="QKVEPLRAELQEGAR" target="P02647">
+  <data key="d1">2597440.0</data>
+</edge>
+<edge source="ISASAEELR" target="P06727">
+  <data key="d1">23353.9</data>
+</edge>
+<edge source="EGVQKEDIPPADLSDQVPDTESETR" target="P01024">
+  <data key="d1">91825.6</data>
+</edge>
+<edge source="KVLLDGVQNPR" target="P01024">
+  <data key="d1">40030.4</data>
+</edge>
+<edge source="TELLPGDRDNLAIQTR" target="Q16270">
+  <data key="d1">471230.0</data>
+</edge>
+<edge source="M(UniMod_35)TVTDQVNC(UniMod_4)PK" target="P05090">
+  <data key="d1">177476.0</data>
+</edge>
+<edge source="VSPTDC(UniMod_4)SAVEPEAEK" target="P04196">
+  <data key="d1">41570.5</data>
+</edge>
+<edge source="FYVHNDIFR" target="Q13283">
+  <data key="d1">890873.0</data>
+</edge>
+<edge source="ADDKETC(UniMod_4)FAEEGK" target="P02768">
+  <data key="d1">382057.0</data>
+</edge>
+<edge source="AYLEEEC(UniMod_4)PATLRK" target="P25311">
+  <data key="d1">131360.0</data>
+</edge>
+<edge source="EVNVSPC(UniMod_4)PTQPC(UniMod_4)QLSK" target="P61916">
+  <data key="d1">49773.6</data>
+</edge>
+<edge source="ISC(UniMod_4)TIANR" target="P02751">
+  <data key="d1">21227.6</data>
+</edge>
+<edge source="RGYQLSDVDGVTC(UniMod_4)EDIDEC(UniMod_4)ALPTGGHIC(UniMod_4)SYR" target="P23142">
+  <data key="d1">65441.4</data>
+</edge>
+<edge source="DQGNQEQDPNISNGEEEEEKEPGEVGTHNDNQER" target="Q14515">
+  <data key="d1">14291.9</data>
+</edge>
+<edge source="LAVTTHGLPC(UniMod_4)LAWASAQAK" target="P00734">
+  <data key="d1">257225.0</data>
+</edge>
+<edge source="TPENYPNAGLTMNYC(UniMod_4)R" target="P00747">
+  <data key="d1">20811.0</data>
+</edge>
+<edge source="LVFFAEDVGSNK" target="P05067">
+  <data key="d1">43163.3</data>
+</edge>
+<edge source="RYIETDPANRDR" target="P06396">
+  <data key="d1">22349.0</data>
+</edge>
+<edge source="LFGGNFAHQASVAR" target="O14773">
+  <data key="d1">19241.8</data>
+</edge>
+<edge source="DVRDYFMPC(UniMod_4)PGR" target="P02790">
+  <data key="d1">1090400.0</data>
+</edge>
+<edge source="NPDGDVGGPWC(UniMod_4)YTTNPR" target="P00747">
+  <data key="d1">26415.2</data>
+</edge>
+<edge source="SNLDEDIIAEENIVSR" target="P01024">
+  <data key="d1">141551.0</data>
+</edge>
+<edge source="QNC(UniMod_4)ELFEQLGEYK" target="P02768">
+  <data key="d1">4726700.0</data>
+</edge>
+<edge source="EQLSLLDRFTEDAKR" target="P01011">
+  <data key="d1">109736.0</data>
+</edge>
+<edge source="ATEDEGSEQKIPEATNR" target="P01008">
+  <data key="d1">147792.0</data>
+</edge>
+<edge source="QQTHMLDVMQDHFSR" target="P10909">
+  <data key="d1">192695.0</data>
+</edge>
+<edge source="DRLDEVKEQVAEVR" target="P02649">
+  <data key="d1">297615.0</data>
+</edge>
+<edge source="TLEAQLTPR" target="P05546">
+  <data key="d1">94039.5</data>
+</edge>
+<edge source="HQPQEFPTYVEPTNDEIC(UniMod_4)EAFR" target="P02774">
+  <data key="d1">213271.0</data>
+</edge>
+<edge source="LEDMEQALSPSVFK" target="P05155">
+  <data key="d1">34103.1</data>
+</edge>
+<edge source="LSSGLVTAALYGR" target="P43251">
+  <data key="d1">40099.4</data>
+</edge>
+<edge source="FVEGLPINDFSR" target="P40925">
+  <data key="d1">31305.4</data>
+</edge>
+<edge source="YNSQNQSNNQFVLYR" target="P01042">
+  <data key="d1">22000.0</data>
+</edge>
+<edge source="DAC(UniMod_4)GC(UniMod_4)C(UniMod_4)PMC(UniMod_4)AR" target="Q16270">
+  <data key="d1">58747.2</data>
+</edge>
+<edge source="TSPVDEKALQDQLVLVAAK" target="P01019">
+  <data key="d1">20839.7</data>
+</edge>
+<edge source="KSQPMGLWR" target="P25311">
+  <data key="d1">73755.1</data>
+</edge>
+<edge source="VFSNGADLSGVTEEAPLK" target="P01009">
+  <data key="d1">404235.0</data>
+</edge>
+<edge source="GC(UniMod_4)SFLPDPYQK" target="P07602">
+  <data key="d1">514101.0</data>
+</edge>
+<edge source="EC(UniMod_4)EEIIR" target="P02675">
+  <data key="d1">8740.05</data>
+</edge>
+<edge source="C(UniMod_4)C(UniMod_4)ESASEDC(UniMod_4)MAK" target="P02774">
+  <data key="d1">26649.5</data>
+</edge>
+<edge source="YSLTYIYTGLSK" target="P25311">
+  <data key="d1">245932.0</data>
+</edge>
+<edge source="DSGRDYVSQFEGSALGK" target="P02647">
+  <data key="d1">842707.0</data>
+</edge>
+<edge source="TPSGLYLGTC(UniMod_4)ER" target="P98160">
+  <data key="d1">8169.28</data>
+</edge>
+<edge source="LINDYVK" target="P01011">
+  <data key="d1">143471.0</data>
+</edge>
+<edge source="LSYEGEVTK" target="P36955">
+  <data key="d1">157197.0</data>
+</edge>
+<edge source="AVVVHAGEDDLGR" target="P08294">
+  <data key="d1">67379.7</data>
+</edge>
+<edge source="WC(UniMod_4)AVSEHEATK" target="P02787">
+  <data key="d1">1218280.0</data>
+</edge>
+<edge source="SSALDMENFR" target="P19823">
+  <data key="d1">13054.4</data>
+</edge>
+<edge source="SLEDQVEMLR" target="P14314">
+  <data key="d1">27411.9</data>
+</edge>
+<edge source="C(UniMod_4)APFFYGGC(UniMod_4)GGNR" target="P05067">
+  <data key="d1">16495.6</data>
+</edge>
+<edge source="IDQNVEELKGR" target="P06727">
+  <data key="d1">19649.8</data>
+</edge>
+<edge source="LVAYYTLIGASGQR" target="P01024">
+  <data key="d1">95891.0</data>
+</edge>
+<edge source="LTPLYELVK" target="P10643">
+  <data key="d1">44738.3</data>
+</edge>
+<edge source="DNC(UniMod_4)C(UniMod_4)ILDER" target="P02679">
+  <data key="d1">97618.6</data>
+</edge>
+<edge source="TTPEPC(UniMod_4)ELDDEDFR" target="P08571">
+  <data key="d1">81472.9</data>
+</edge>
+<edge source="TTPPVLDSDGSFFLYSR" target="P01861">
+  <data key="d1">106293.0</data>
+</edge>
+<edge source="FLNVLSPR" target="P17936">
+  <data key="d1">12201.3</data>
+</edge>
+<edge source="TEIDKPSQMQVTDVQDNSISVK" target="P02751">
+  <data key="d1">44760.9</data>
+</edge>
+<edge source="LYGSEAFATDFQDSAAAKK" target="P01011">
+  <data key="d1">59789.6</data>
+</edge>
+<edge source="ITTTSPWMFPSR" target="P04180">
+  <data key="d1">47655.0</data>
+</edge>
+<edge source="IVSSAMEPDREYHFGQAVR" target="P08603">
+  <data key="d1">79569.2</data>
+</edge>
+<edge source="GKRPYQEGTPC(UniMod_4)SQC(UniMod_4)PSGYHC(UniMod_4)K" target="Q6UXB8">
+  <data key="d1">9022.19</data>
+</edge>
+<edge source="C(UniMod_4)PFPSRPDNGFVNYPAKPTLYYK" target="P02749">
+  <data key="d1">54416.4</data>
+</edge>
+<edge source="KVEQAVETEPEPELR" target="P02649">
+  <data key="d1">2932140.0</data>
+</edge>
+<edge source="SSFVAPLEK" target="P36955">
+  <data key="d1">89938.2</data>
+</edge>
+<edge source="LIADLGSTSITNLGFR" target="Q92520">
+  <data key="d1">95688.7</data>
+</edge>
+<edge source="HYDGSYSTFGER" target="P01023">
+  <data key="d1">25052.5</data>
+</edge>
+<edge source="LLIYDASNR" target="P04433">
+  <data key="d1">330829.0</data>
+</edge>
+<edge source="FSGSNSGNTATLTISR" target="P80748">
+  <data key="d1">27069.3</data>
+</edge>
+<edge source="IPIEDGSGEVVLSR" target="P01024">
+  <data key="d1">242133.0</data>
+</edge>
+<edge source="GSPSGEVSHPR" target="P02765">
+  <data key="d1">124205.0</data>
+</edge>
+<edge source="FSGTWYAMAK" target="P02753">
+  <data key="d1">50576.0</data>
+</edge>
+<edge source="AFPALTSLDLSDNPGLGER" target="P08571">
+  <data key="d1">97387.2</data>
+</edge>
+<edge source="ASLVPMEHC(UniMod_4)ITR" target="Q14515">
+  <data key="d1">153273.0</data>
+</edge>
+<edge source="VSEADSSNADWVTK" target="P00751">
+  <data key="d1">35954.5</data>
+</edge>
+<edge source="SC(UniMod_4)C(UniMod_4)EEQNKVNC(UniMod_4)LQTR" target="P43652">
+  <data key="d1">26274.6</data>
+</edge>
+<edge source="GSPAINVAVHVFR" target="P02766">
+  <data key="d1">4658380.0</data>
+</edge>
+<edge source="AVLPTGDVIGDSAK" target="P01023">
+  <data key="d1">210117.0</data>
+</edge>
+<edge source="FM(UniMod_35)ETVAEK" target="P10909">
+  <data key="d1">166998.0</data>
+</edge>
+<edge source="WSSTSPHRPR" target="P00747">
+  <data key="d1">7622.14</data>
+</edge>
+<edge source="YYWGGQYTWDMAK" target="P02675">
+  <data key="d1">16371.8</data>
+</edge>
+<edge source="KSASDLTWDNLK" target="P02787">
+  <data key="d1">41892.4</data>
+</edge>
+<edge source="GMFNIQHC(UniMod_4)K" target="P01009">
+  <data key="d1">127672.0</data>
+</edge>
+</graph></graphml>
