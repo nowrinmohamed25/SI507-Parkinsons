@@ -16,7 +16,7 @@ Contributors
     Data visualization and Interaction:
 
     There are multiple plots used in this file especially using Plotly for the user to hover and interact with the graph to see the data in detail.
-    In addition to this a command line user interface set up is done which asks several questions to the user and depending on the input, the data is retrieved and display. For example,
+    In addition to this a command line user interface set up is done which asks several questions to the user and depending on the input, the data is retrieved and displayed. For example,
 
     1. A question which asks the user what kind of plot is required to plot UPDRS scores across the visit_month? Please choose either bar or hist. 
 
@@ -27,7 +27,7 @@ Contributors
 
     Data visualization and Interaction:
 
-    The graph is plotted using networkx library for the number of nodes the user wants to display. Please note that the database is huge so giving a higher value might give a proper visualization. Try giving any number between 5 and 10 to visualize the graph properly. 
+    The graph is plotted using networkx library for the number of nodes the user wants to display. Please note that the database is huge so giving a higher value might not give a proper visualization. Try giving any number between 5 and 10 to visualize the graph properly. 
 
      A command line user interface set up is done which asks several questions to the user and depending on the input, the data is retrieved and displayed. For example,
 
@@ -57,7 +57,7 @@ There are files apart from the above which are categorized as rough work but not
 
 In graph.ipynb, the proteins and peptides data are arranged in the form of a bipartite graph. Each peptide is represented as a node in one set, and each protein is represented as a node in the other set. Each peptide node is connected to the protein nodes that it binds to or interacts with, based on the data provided in the dataset and Peptide Abundance is the weight of the edges.
 
-x## What is a Bipartite graph?
+## What is a Bipartite graph?
 
 A bipartite graph is a type of graph that consists of two distinct sets of nodes, and all edges connect nodes from one set to nodes from the other set. This property makes the data organization part of this project and identifying the relationship between proteins and peptides easier.
 
